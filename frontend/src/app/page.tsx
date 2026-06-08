@@ -29,7 +29,7 @@ const PAGE_META: Record<Page, { title: string; subtitle: string }> = {
 // ── Root: wraps with CopilotKit provider ────────────────────────────────
 export default function Home() {
   return (
-    <CopilotKit runtimeUrl={`${API_URL}/copilotkit`} agent="hr_agent">
+    <CopilotKit runtimeUrl={`${API_URL}/copilotkit`} agent="hr_agent" showDevConsole={false}>
       <Dashboard />
     </CopilotKit>
   );

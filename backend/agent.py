@@ -1,6 +1,7 @@
 import os
 import json
-from typing import TypedDict, Annotated, Optional, Literal
+from typing import Annotated, Optional, Literal
+from typing_extensions import TypedDict
 from langgraph.graph import StateGraph, END
 from langgraph.graph.message import add_messages
 from langchain_openai import ChatOpenAI

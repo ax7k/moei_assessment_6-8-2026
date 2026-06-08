@@ -25,13 +25,13 @@ def _load_policy_index():
 
     pdf_files = glob.glob(os.path.join(POLICY_DIR, "*.pdf"))
     if not pdf_files:
-        print(f"⚠  No PDFs found in: {POLICY_DIR}")
+        print(f"[WARN] No PDFs found in: {POLICY_DIR}")
         _chunks = ["No policy documents available."]
         _chunk_sources = ["N/A"]
         _index = BM25Okapi([["no", "policy"]])
         return
 
-    print(f"Indexing {len(pdf_files)} policy PDFs …")
+    print(f"Indexing {len(pdf_files)} policy PDFs...")
     CHUNK_SIZE = 600
     OVERLAP = 100
 
@@ -50,7 +50,7 @@ def _load_policy_index():
                     _chunks.append(chunk)
                     _chunk_sources.append(filename)
         except Exception as exc:
-            print(f"  ⚠  Could not read {filename}: {exc}")
+            print(f"  [WARN] Could not read {filename}: {exc}")
 
     if not _chunks:
         _chunks = ["Policy documents could not be parsed."]
@@ -58,7 +58,7 @@ def _load_policy_index():
 
     tokenized = [c.lower().split() for c in _chunks]
     _index = BM25Okapi(tokenized)
-    print(f"  ✓ Indexed {len(_chunks)} chunks from {len(pdf_files)} PDFs")
+    print(f"  [OK] Indexed {len(_chunks)} chunks from {len(pdf_files)} PDFs")
 
 
 def retrieve_policy(query: str, top_k: int = 5) -> str:

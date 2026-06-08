@@ -28,12 +28,12 @@ from ag_ui_langgraph import add_langgraph_fastapi_endpoint
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    print("⟳  Starting MOEI HR Companion backend …")
+    print("[LOAD] Starting MOEI HR Companion backend...")
     load_csv_to_sqlite()
-    _load_policy_index()
-    print("✓  Backend ready!")
+    # Note: policy index is lazy-loaded when the retriever is first called
+    print("[OK] Backend ready!")
     yield
-    print("⟳  Shutting down …")
+    print("[INFO] Shutting down...")
 
 
 # ── App ───────────────────────────────────────────────────────────────────────
@@ -127,7 +127,7 @@ hr_agent = LangGraphAGUIAgent(
 )
 
 from fastapi import Request
-from fastapi.responses import StreamingResponse
+from fastapi.responses import JSONResponse, StreamingResponse
 from ag_ui.core.types import RunAgentInput
 from ag_ui.encoder import EventEncoder
 
@@ -135,11 +135,51 @@ from ag_ui.encoder import EventEncoder
 async def custom_copilotkit_endpoint(request: Request):
     body = await request.json()
     
-    # Handle both direct RunAgentInput and JSON-RPC wrapped requests
-    if isinstance(body, dict) and body.get("method") == "agent/run":
-        input_data_dict = body.get("body", {})
-        input_data = RunAgentInput(**input_data_dict)
+    if isinstance(body, dict):
+        method = body.get("method")
+        
+        # 1. Handle info request (discovery of agents and actions)
+        if method == "info":
+            return JSONResponse(content={
+                "actions": [],
+                "agents": {
+                    hr_agent.name: {
+                        "name": hr_agent.name,
+                        "description": hr_agent.description,
+                        "type": "langgraph_agui"
+                    }
+                },
+                "sdkVersion": "0.1.94"
+            })
+            
+        # 2. Handle agent/connect handshake request
+        elif method == "agent/connect":
+            accept_header = request.headers.get("accept")
+            encoder = EventEncoder(accept=accept_header)
+            async def empty_generator():
+                if False:
+                    yield
+            return StreamingResponse(
+                empty_generator(),
+                media_type=encoder.get_content_type()
+            )
+            
+        # 3. Handle agent/stop request
+        elif method == "agent/stop":
+            return JSONResponse(content={"status": "ok"})
+            
+        # 4. Handle agent/run request
+        elif method == "agent/run":
+            input_data_dict = body.get("body", {})
+            input_data = RunAgentInput(**input_data_dict)
+        else:
+            # Fallback for other methods or direct RunAgentInput
+            try:
+                input_data = RunAgentInput(**body)
+            except Exception as e:
+                raise HTTPException(status_code=400, detail=f"Unsupported method or invalid body: {e}")
     else:
+        # Fallback if body is not a dict
         input_data = RunAgentInput(**body)
         
     accept_header = request.headers.get("accept")

@@ -41,7 +41,7 @@ def load_csv_to_sqlite():
         filepath = os.path.join(CSV_DIR, filename)
         df = pd.read_csv(filepath)
         df.to_sql(table_name, conn, if_exists="replace", index=False)
-        print(f"  ✓ Loaded {len(df)} rows into '{table_name}'")
+        print(f"  [OK] Loaded {len(df)} rows into '{table_name}'")
 
     # Create indexes for join performance
     conn.execute("CREATE INDEX IF NOT EXISTS idx_emp_dept ON employees(department)")
@@ -51,7 +51,7 @@ def load_csv_to_sqlite():
     conn.execute("CREATE INDEX IF NOT EXISTS idx_movement_emp ON movement(employee_id)")
     conn.commit()
     conn.close()
-    print("✓ Database ready!")
+    print("[OK] Database ready!")
 
 
 def execute_sql(sql: str, max_rows: int = 500) -> list:

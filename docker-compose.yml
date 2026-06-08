@@ -26,6 +26,7 @@ services:
       CSV_DIR: /data/csv
       POLICY_DIR: /data/policies
       DB_PATH: /data/db/hr_data.db
+      PYTHONUNBUFFERED: "1"
     volumes:
       - ./MOEI_HR_Employee_Dataset_CSV:/data/csv:ro
       - ../resources/HR_Knowledge_Base:/data/policies:ro
