@@ -1,0 +1,50 @@
+# ═══════════════════════════════════════════════════════════════════
+#  MOEI HR Companion – Docker Compose (Dev Mode)
+#
+#  Usage:
+#    docker compose up --build          ← first run (builds images)
+#    docker compose up                  ← subsequent runs
+#    docker compose down                ← stop
+#
+#  Frontend runs in dev mode (next dev) — hot reload enabled.
+#  Backend runs with uvicorn --reload — auto-restarts on changes.
+# ═══════════════════════════════════════════════════════════════════
+
+services:
+
+  # ── Python / FastAPI / LangGraph backend ──────────────────────────
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: moei_backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./backend/.env
+    environment:
+      CSV_DIR: /data/csv
+      POLICY_DIR: /data/policies
+      DB_PATH: /data/db/hr_data.db
+    volumes:
+      - ./MOEI_HR_Employee_Dataset_CSV:/data/csv:ro
+      - ../resources/HR_Knowledge_Base:/data/policies:ro
+      - hr_db:/data/db
+
+  # ── Next.js frontend (dev mode) ───────────────────────────────────
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: moei_frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    environment:
+      NEXT_PUBLIC_API_URL: http://backend:8000
+      WATCHPACK_POLLING: "true"     # needed for hot-reload inside Docker on Windows
+
+volumes:
+  hr_db:
+    driver: local

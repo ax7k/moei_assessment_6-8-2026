@@ -1,0 +1,261 @@
+employee_id,full_name,gender,nationality,uae_national,department,job_title,grade,employment_type,work_location,date_of_birth,hire_date,last_promotion_date,monthly_salary_aed,engagement_score,manager_id,email
+MOEI-10001,Zayed Al Ketbi,M,United Arab Emirates,Yes,Human Resources,Administrative Assistant,1,Permanent,Ajman,1993-08-23,2022-10-26,2022-10-26,8119,75,MOEI-10111,zayed.ketbi@moei.gov.ae
+MOEI-10002,Saif Al Hammadi,M,United Arab Emirates,Yes,Energy & Clean Energy,Officer,3,Permanent,Sharjah,1983-12-25,2018-03-20,2024-01-19,17381,73,MOEI-10177,saif.hammadi@moei.gov.ae
+MOEI-10003,Khalid Al Dhaheri,M,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Executive Director,8,Contract,Dubai,1989-04-26,2011-04-26,2024-06-08,73744,77,MOEI-10155,khalid.dhaheri@moei.gov.ae
+MOEI-10004,Sara Khan,F,Egypt,No,Infrastructure & Assets,Senior Specialist,5,Permanent,Abu Dhabi,1995-12-18,2019-04-26,2021-04-21,39974,51,MOEI-10056,sara.khan@moei.gov.ae
+MOEI-10005,Salama Al Dhaheri,F,United Arab Emirates,Yes,Procurement & Contracts,Specialist,4,Permanent,Dubai,1999-06-02,2021-06-01,2022-11-29,26091,82,MOEI-10152,salama.dhaheri@moei.gov.ae
+MOEI-10006,James Wilson,M,Lebanon,No,"Petroleum, Gas & Mineral Resources",Specialist,4,Permanent,Dubai,1984-07-04,2015-04-26,2018-12-24,28218,51,MOEI-10151,james.wilson@moei.gov.ae
+MOEI-10007,Afra Al Tunaiji,F,United Arab Emirates,Yes,Legal Affairs,Specialist,4,Permanent,Abu Dhabi,1998-12-23,2026-01-06,2026-01-06,26428,76,MOEI-10212,afra.tunaiji@moei.gov.ae
+MOEI-10008,Nasser Al Falasi,M,United Arab Emirates,Yes,Strategy & Future Foresight,Specialist,4,Permanent,Umm Al Quwain,1988-07-04,2018-07-08,2020-02-20,28611,84,MOEI-10154,nasser.falasi@moei.gov.ae
+MOEI-10009,Majid Al Falasi,M,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Junior Officer,2,Permanent,Abu Dhabi,1990-07-17,2022-08-14,2023-09-29,14401,93,MOEI-10105,majid.falasi@moei.gov.ae
+MOEI-10010,Sultan Al Hammadi,M,United Arab Emirates,Yes,Strategy & Future Foresight,Head of Section,6,Permanent,Dubai,1986-01-16,2011-01-07,2016-02-13,46630,35,MOEI-10089,sultan.hammadi@moei.gov.ae
+MOEI-10011,Hamdan Mansour,M,Oman,No,"Petroleum, Gas & Mineral Resources",Senior Specialist,5,Permanent,Abu Dhabi,1995-07-23,2017-09-19,2018-10-26,36385,65,MOEI-10148,hamdan.mansour@moei.gov.ae
+MOEI-10012,Saif Al Otaibi,M,Egypt,No,Land & Maritime Transport,Assistant Undersecretary,9,Permanent,Abu Dhabi,1979-12-26,2013-02-12,2017-01-12,100777,81,,saif.otaibi@moei.gov.ae
+MOEI-10013,Amna Al Suwaidi,F,United Arab Emirates,Yes,Housing,Specialist,4,Contract,Dubai,1999-10-26,2021-10-25,2025-02-23,29951,63,MOEI-10067,amna.suwaidi@moei.gov.ae
+MOEI-10014,Nasser Al Naqbi,M,United Arab Emirates,Yes,Information Technology,Junior Officer,2,Permanent,Abu Dhabi,1992-02-14,2024-03-20,2024-03-20,12144,80,MOEI-10252,nasser.naqbi@moei.gov.ae
+MOEI-10015,Humaid Al Rashidi,M,United Arab Emirates,Yes,Customer Happiness,Head of Section,6,Permanent,Abu Dhabi,1986-11-14,2011-10-26,2023-07-07,42130,57,MOEI-10028,humaid.rashidi@moei.gov.ae
+MOEI-10016,Marwan Al Mheiri,M,United Arab Emirates,Yes,Energy & Clean Energy,Senior Specialist,5,Permanent,Dubai,1991-10-11,2017-12-01,2021-04-23,27470,34,MOEI-10085,marwan.mheiri@moei.gov.ae
+MOEI-10017,Sultan Al Balooshi,M,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Officer,3,Permanent,Ajman,1986-10-21,2017-02-12,2024-05-20,15685,61,MOEI-10105,sultan.balooshi@moei.gov.ae
+MOEI-10018,Tariq Al Rashidi,M,United Arab Emirates,Yes,Energy & Clean Energy,Junior Officer,2,Permanent,Sharjah,1995-07-23,2024-07-08,2024-07-08,11010,67,MOEI-10088,tariq.rashidi@moei.gov.ae
+MOEI-10019,Rashed Saleh,M,Jordan,No,Land & Maritime Transport,Director,7,Permanent,Abu Dhabi,1985-01-05,2014-08-14,2016-05-14,64479,49,MOEI-10012,rashed.saleh@moei.gov.ae
+MOEI-10020,Salama Al Shamsi,F,United Arab Emirates,Yes,Energy & Clean Energy,Senior Specialist,5,Secondment,Abu Dhabi,1991-03-17,2020-04-25,2021-09-19,40065,67,MOEI-10131,salama.shamsi@moei.gov.ae
+MOEI-10021,Ahmed Al Ameri,M,United Arab Emirates,Yes,Land & Maritime Transport,Director,7,Permanent,Dubai,1994-07-04,2020-02-12,2022-09-03,55106,69,MOEI-10256,ahmed.ameri@moei.gov.ae
+MOEI-10022,Khalifa Al Saadi,M,United Arab Emirates,Yes,Land & Maritime Transport,Senior Specialist,5,Permanent,Abu Dhabi,1981-02-04,2021-06-01,2022-08-28,35526,91,MOEI-10069,khalifa.saadi@moei.gov.ae
+MOEI-10023,Saif Al Dhaheri,M,United Arab Emirates,Yes,Information Technology,Junior Officer,2,Permanent,Abu Dhabi,1998-01-10,2024-02-12,2024-02-12,15919,78,MOEI-10084,saif.dhaheri@moei.gov.ae
+MOEI-10024,Priya Nair,F,Pakistan,No,Finance,Specialist,4,Permanent,Ajman,1996-09-23,2023-08-14,2023-08-14,22817,63,MOEI-10134,priya.nair@moei.gov.ae
+MOEI-10025,Shaikha Al Rashidi,F,United Arab Emirates,Yes,Electricity & Water,Officer,3,Permanent,Ras Al Khaimah,1989-01-14,2017-10-25,2022-01-05,15308,68,MOEI-10035,shaikha.rashidi@moei.gov.ae
+MOEI-10026,Mouza Al Mansoori,F,United Arab Emirates,Yes,Corporate Communication,Officer,3,Permanent,Fujairah,1993-12-09,2020-02-12,2021-05-30,20842,64,MOEI-10078,mouza.mansoori@moei.gov.ae
+MOEI-10027,Suhail Al Saadi,M,United Arab Emirates,Yes,Information Technology,Junior Officer,2,Permanent,Sharjah,1996-02-24,2021-07-08,2024-01-05,14334,61,MOEI-10123,suhail.saadi@moei.gov.ae
+MOEI-10028,Hind Al Romaithi,F,United Arab Emirates,Yes,Customer Happiness,Executive Director,8,Permanent,Dubai,1979-10-17,2008-08-13,2013-09-25,92096,84,MOEI-10089,hind.romaithi@moei.gov.ae
+MOEI-10029,Shamsa Mansour,F,Oman,No,Infrastructure & Assets,Director,7,Permanent,Dubai,1989-04-05,2017-01-06,2023-05-22,55560,78,MOEI-10056,shamsa.mansour@moei.gov.ae
+MOEI-10030,Hamdan Al Falasi,M,United Arab Emirates,Yes,Infrastructure & Assets,Head of Section,6,Permanent,Sharjah,1991-10-02,2021-12-01,2023-05-03,36318,45,MOEI-10189,hamdan.falasi@moei.gov.ae
+MOEI-10031,Priya Nair,F,United Kingdom,No,Corporate Communication,Specialist,4,Permanent,Fujairah,1991-03-18,2020-02-12,2023-08-24,23456,75,MOEI-10239,priya.nair@moei.gov.ae
+MOEI-10032,Maria Garcia,F,United Kingdom,No,Corporate Communication,Junior Officer,2,Permanent,Abu Dhabi,2002-08-14,2024-08-13,2024-08-13,14434,68,MOEI-10097,maria.garcia@moei.gov.ae
+MOEI-10033,Humaid Al Saadi,M,United Arab Emirates,Yes,Internal Audit,Senior Specialist,5,Permanent,Abu Dhabi,1993-01-07,2015-01-07,2019-06-25,35099,65,MOEI-10071,humaid.saadi@moei.gov.ae
+MOEI-10034,Moza Al Darmaki,F,United Arab Emirates,Yes,Finance,Specialist,4,Permanent,Abu Dhabi,1999-02-14,2022-06-01,2023-10-14,19600,47,MOEI-10072,moza.darmaki@moei.gov.ae
+MOEI-10035,Yousef Al Hammadi,M,United Arab Emirates,Yes,Electricity & Water,Head of Section,6,Permanent,Abu Dhabi,1992-02-13,2014-02-12,2023-06-19,40884,86,MOEI-10220,yousef.hammadi@moei.gov.ae
+MOEI-10036,Khawla Al Harbi,F,Kuwait,No,Human Resources,Officer,3,Contract,Abu Dhabi,1981-09-13,2019-09-19,2024-03-27,20948,83,MOEI-10087,khawla.harbi@moei.gov.ae
+MOEI-10037,Rashed Al Falasi,M,United Arab Emirates,Yes,Energy & Clean Energy,Specialist,4,Permanent,Abu Dhabi,1993-06-20,2020-02-12,2025-06-02,28604,90,MOEI-10131,rashed.falasi@moei.gov.ae
+MOEI-10038,Faisal Al Ali,M,United Arab Emirates,Yes,Electricity & Water,Head of Section,6,Contract,Abu Dhabi,1992-07-11,2022-07-08,2023-11-20,54794,87,MOEI-10035,faisali.faisali@moei.gov.ae
+MOEI-10039,Lina Haddad,F,USA,No,Human Resources,Executive Director,8,Permanent,Abu Dhabi,1988-06-05,2011-01-07,2015-09-06,92309,61,MOEI-10012,lina.haddad@moei.gov.ae
+MOEI-10040,Mansoor Al Ali,M,United Arab Emirates,Yes,Electricity & Water,Senior Specialist,5,Permanent,Abu Dhabi,1991-10-30,2018-02-12,2022-05-26,40502,84,MOEI-10199,mansoor.ali@moei.gov.ae
+MOEI-10041,Hamdan Al Zaabi,M,United Arab Emirates,Yes,Energy & Clean Energy,Junior Officer,2,Permanent,Abu Dhabi,1995-11-30,2023-03-21,2025-06-28,12947,76,MOEI-10085,hamdan.zaabi@moei.gov.ae
+MOEI-10042,Ali Al Mazrouei,M,United Arab Emirates,Yes,Energy & Clean Energy,Director,7,Permanent,Sharjah,1995-01-10,2026-01-06,2026-01-06,68687,67,MOEI-10155,ali.mazrouei@moei.gov.ae
+MOEI-10043,Tariq Al Rashidi,M,United Arab Emirates,Yes,Information Technology,Senior Specialist,5,Permanent,Abu Dhabi,1996-12-28,2020-04-25,2022-05-03,39767,100,MOEI-10084,tariq.rashidi@moei.gov.ae
+MOEI-10044,Mariam Al Shehhi,F,United Arab Emirates,Yes,Information Technology,Director,7,Permanent,Sharjah,1994-10-29,2023-02-12,2025-02-16,55291,81,MOEI-10089,mariam.shehhi@moei.gov.ae
+MOEI-10045,Fakhra Al Kaabi,F,United Arab Emirates,Yes,Infrastructure & Assets,Head of Section,6,Permanent,Abu Dhabi,1984-01-06,2011-08-14,2020-07-23,41811,100,MOEI-10057,fakhra.kaabi@moei.gov.ae
+MOEI-10046,Dana Al Marri,F,United Arab Emirates,Yes,Energy & Clean Energy,Administrative Assistant,1,Permanent,Abu Dhabi,1988-04-21,2022-08-14,2022-08-14,9860,94,MOEI-10234,dana.marri@moei.gov.ae
+MOEI-10047,Maha Al Ketbi,F,United Arab Emirates,Yes,Infrastructure & Assets,Specialist,4,Permanent,Abu Dhabi,1989-08-22,2021-07-08,2024-05-11,25757,83,MOEI-10070,maha.ketbi@moei.gov.ae
+MOEI-10048,Hind Al Ketbi,F,United Arab Emirates,Yes,Internal Audit,Officer,3,Permanent,Abu Dhabi,1998-07-11,2022-08-14,2025-12-11,21886,48,MOEI-10246,hind.ketbi@moei.gov.ae
+MOEI-10049,Obaid Al Shehhi,M,United Arab Emirates,Yes,Legal Affairs,Officer,3,Permanent,Sharjah,1995-06-02,2020-09-19,2021-04-01,15428,41,MOEI-10212,obaid.shehhi@moei.gov.ae
+MOEI-10050,Ahmed Hassan,M,Egypt,No,Housing,Senior Specialist,5,Contract,Abu Dhabi,2001-04-10,2024-01-07,2024-01-07,38234,73,MOEI-10128,ahmed.hassan@moei.gov.ae
+MOEI-10051,Suhail Al Harbi,M,Bahrain,No,Infrastructure & Assets,Head of Section,6,Permanent,Dubai,1995-06-22,2019-04-26,2022-06-27,37120,33,MOEI-10189,suhail.harbi@moei.gov.ae
+MOEI-10052,Aisha Rahman,F,United Kingdom,No,Legal Affairs,Officer,3,Permanent,Abu Dhabi,1991-07-18,2019-08-14,2025-04-08,18420,81,MOEI-10192,aisha.rahman@moei.gov.ae
+MOEI-10053,Abdulrahman Al Mansoori,M,United Arab Emirates,Yes,Strategy & Future Foresight,Senior Specialist,5,Permanent,Abu Dhabi,1996-01-05,2019-10-26,2024-03-04,33166,59,MOEI-10232,abdulrahman.mansoori@moei.gov.ae
+MOEI-10054,Omar Al Balooshi,M,United Arab Emirates,Yes,Corporate Communication,Specialist,4,Permanent,Dubai,1996-07-23,2020-12-01,2026-04-14,26901,93,MOEI-10078,omar.balooshi@moei.gov.ae
+MOEI-10055,Khalifa Al Junaibi,M,United Arab Emirates,Yes,Electricity & Water,Senior Specialist,5,Permanent,Umm Al Quwain,1992-12-05,2017-01-06,2022-02-27,30512,89,MOEI-10038,khalifa.junaibi@moei.gov.ae
+MOEI-10056,Shamma Al Shehhi,F,United Arab Emirates,Yes,Infrastructure & Assets,Executive Director,8,Contract,Abu Dhabi,1983-05-18,2014-01-06,2025-08-21,84361,58,MOEI-10089,shamma.shehhi@moei.gov.ae
+MOEI-10057,Noura Al Awani,F,United Arab Emirates,Yes,Infrastructure & Assets,Executive Director,8,Permanent,Abu Dhabi,1998-06-15,2022-08-14,2024-02-20,74475,61,MOEI-10089,noura.awani@moei.gov.ae
+MOEI-10058,Abdulrahman Al Ameri,M,United Arab Emirates,Yes,Corporate Communication,Junior Officer,2,Permanent,Abu Dhabi,2000-05-03,2023-03-21,2025-12-17,15950,76,MOEI-10026,abdulrahman.ameri@moei.gov.ae
+MOEI-10059,Ayesha Al Suwaidi,F,United Arab Emirates,Yes,Infrastructure & Assets,Senior Specialist,5,Permanent,Abu Dhabi,1987-09-02,2016-02-12,2021-06-20,26895,45,MOEI-10245,ayesha.suwaidi@moei.gov.ae
+MOEI-10060,Maha Al Romaithi,F,United Arab Emirates,Yes,Human Resources,Officer,3,Permanent,Dubai,1987-12-19,2021-03-20,2025-10-25,19128,60,MOEI-10039,maha.romaithi@moei.gov.ae
+MOEI-10061,Saeed Al Saadi,M,United Arab Emirates,Yes,Legal Affairs,Officer,3,Permanent,Abu Dhabi,1987-06-03,2017-01-06,2024-10-13,20242,61,MOEI-10212,saeed.saadi@moei.gov.ae
+MOEI-10062,Shaikha Al Naqbi,F,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Senior Specialist,5,Permanent,Abu Dhabi,1988-11-23,2020-01-07,2021-07-15,36451,76,MOEI-10148,shaikha.naqbi@moei.gov.ae
+MOEI-10063,Afra Al Mansoori,F,United Arab Emirates,Yes,Energy & Clean Energy,Officer,3,Secondment,Dubai,1993-03-07,2021-04-26,2023-05-24,18293,53,MOEI-10016,afra.mansoori@moei.gov.ae
+MOEI-10064,Rashid Al Rashidi,M,United Arab Emirates,Yes,Electricity & Water,Senior Specialist,5,Permanent,Abu Dhabi,2002-07-09,2025-09-19,2027-02-01,28331,45,MOEI-10035,rashid.rashidi@moei.gov.ae
+MOEI-10065,Nadia Aziz,F,USA,No,Finance,Officer,3,Permanent,Abu Dhabi,1991-11-14,2022-02-12,2025-06-23,21054,72,MOEI-10114,nadia.aziz@moei.gov.ae
+MOEI-10066,Jasim Al Khoori,M,United Arab Emirates,Yes,Procurement & Contracts,Specialist,4,Permanent,Abu Dhabi,1990-02-16,2020-02-12,2022-03-27,20144,30,MOEI-10159,jasim.khoori@moei.gov.ae
+MOEI-10067,Dana Al Blooshi,F,United Arab Emirates,Yes,Housing,Senior Specialist,5,Permanent,Abu Dhabi,1997-11-28,2023-04-26,2024-09-02,31145,75,MOEI-10150,dana.blooshi@moei.gov.ae
+MOEI-10068,Maitha Al Junaibi,F,United Arab Emirates,Yes,Internal Audit,Senior Specialist,5,Permanent,Abu Dhabi,1997-09-18,2020-03-20,2023-11-15,35717,73,MOEI-10071,maitha.junaibi@moei.gov.ae
+MOEI-10069,Roudha Al Zaabi,F,United Arab Emirates,Yes,Land & Maritime Transport,Director,7,Permanent,Dubai,1994-04-06,2026-01-06,2026-01-06,62693,76,MOEI-10155,roudha.zaabi@moei.gov.ae
+MOEI-10070,Fatima Siddiqui,F,USA,No,Infrastructure & Assets,Senior Specialist,5,Permanent,Abu Dhabi,1997-05-15,2021-07-08,2025-08-28,33280,86,MOEI-10030,fatima.siddiqui@moei.gov.ae
+MOEI-10071,Maria Garcia,F,Egypt,No,Internal Audit,Head of Section,6,Permanent,Sharjah,1991-11-10,2020-09-19,2021-11-06,49988,74,MOEI-10012,maria.garcia@moei.gov.ae
+MOEI-10072,Fatima Siddiqui,F,India,No,Finance,Head of Section,6,Permanent,Fujairah,1995-06-05,2021-07-08,2022-03-25,36287,50,MOEI-10134,fatima.siddiqui@moei.gov.ae
+MOEI-10073,Shamma Al Zaabi,F,United Arab Emirates,Yes,Customer Happiness,Administrative Assistant,1,Permanent,Fujairah,1992-09-13,2024-12-01,2024-12-01,10599,88,MOEI-10260,shamma.zaabi@moei.gov.ae
+MOEI-10074,Ayesha Al Rashidi,F,United Arab Emirates,Yes,Procurement & Contracts,Specialist,4,Contract,Abu Dhabi,1992-11-18,2025-01-06,2025-01-06,29209,80,MOEI-10159,ayesha.rashidi@moei.gov.ae
+MOEI-10075,Mansoor Al Qubaisi,M,United Arab Emirates,Yes,Corporate Communication,Senior Specialist,5,Contract,Abu Dhabi,1999-07-09,2021-07-08,2022-04-24,26850,40,MOEI-10237,mansoor.qubaisi@moei.gov.ae
+MOEI-10076,Salama Al Hosani,F,United Arab Emirates,Yes,Land & Maritime Transport,Officer,3,Permanent,Dubai,1997-11-26,2020-06-01,2022-02-07,21389,83,MOEI-10157,salama.hosani@moei.gov.ae
+MOEI-10077,Mohammed Al Tunaiji,M,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Specialist,4,Contract,Ras Al Khaimah,1995-12-04,2020-10-25,2024-05-21,29452,83,MOEI-10151,mohammed.tunaiji@moei.gov.ae
+MOEI-10078,Majid Al Romaithi,M,United Arab Emirates,Yes,Corporate Communication,Senior Specialist,5,Permanent,Abu Dhabi,1996-08-16,2018-12-01,2022-06-05,27724,49,MOEI-10083,majid.romaithi@moei.gov.ae
+MOEI-10079,Ayesha Al Mheiri,F,United Arab Emirates,Yes,Procurement & Contracts,Specialist,4,Secondment,Ras Al Khaimah,1998-02-12,2020-02-12,2026-04-10,22861,77,MOEI-10159,ayesha.mheiri@moei.gov.ae
+MOEI-10080,Rawdha Al Khoori,F,United Arab Emirates,Yes,Land & Maritime Transport,Senior Specialist,5,Permanent,Sharjah,2001-09-19,2023-09-19,2023-09-19,37048,50,MOEI-10169,rawdha.khoori@moei.gov.ae
+MOEI-10081,Mariam Al Saadi,F,United Arab Emirates,Yes,Infrastructure & Assets,Specialist,4,Permanent,Dubai,1990-03-20,2019-02-12,2026-04-05,28764,61,MOEI-10245,mariam.saadi@moei.gov.ae
+MOEI-10082,Fatima Siddiqui,F,USA,No,Infrastructure & Assets,Officer,3,Permanent,Ajman,1990-07-08,2019-01-07,2020-12-15,15985,57,MOEI-10047,fatima.siddiqui@moei.gov.ae
+MOEI-10083,Roudha Al Blooshi,F,United Arab Emirates,Yes,Corporate Communication,Head of Section,6,Permanent,Abu Dhabi,1991-03-11,2020-02-12,2021-11-26,45731,62,MOEI-10237,roudha.blooshi@moei.gov.ae
+MOEI-10084,Priya Nair,F,Lebanon,No,Information Technology,Head of Section,6,Permanent,Abu Dhabi,1992-06-25,2023-04-26,2024-09-07,41763,74,MOEI-10044,priya.nair@moei.gov.ae
+MOEI-10085,Ahmed Hassan,M,Lebanon,No,Energy & Clean Energy,Head of Section,6,Permanent,Abu Dhabi,1987-09-30,2013-08-13,2025-10-04,39974,73,MOEI-10042,ahmed.hassan@moei.gov.ae
+MOEI-10086,Aisha Rahman,F,Egypt,No,Land & Maritime Transport,Specialist,4,Permanent,Dubai,1986-07-31,2015-12-01,2018-02-13,28336,83,MOEI-10229,aisha.rahman@moei.gov.ae
+MOEI-10087,Latifa Al Hammadi,F,United Arab Emirates,Yes,Human Resources,Director,7,Permanent,Abu Dhabi,1989-12-20,2025-07-08,2025-07-08,59183,88,MOEI-10039,latifa.hammadi@moei.gov.ae
+MOEI-10088,Nadia Aziz,F,USA,No,Energy & Clean Energy,Officer,3,Permanent,Dubai,1999-10-24,2023-06-02,2024-07-27,15354,57,MOEI-10037,nadia.aziz@moei.gov.ae
+MOEI-10089,Hamad Al Harbi,M,Egypt,No,Infrastructure & Assets,Assistant Undersecretary,9,Permanent,Sharjah,1978-04-03,2012-02-12,2013-04-10,107477,100,,hamad.harbi@moei.gov.ae
+MOEI-10090,Shamma Al Mansoori,F,United Arab Emirates,Yes,Information Technology,Head of Section,6,Permanent,Dubai,1992-03-23,2018-08-14,2022-09-08,38890,70,MOEI-10255,shamma.mansoori@moei.gov.ae
+MOEI-10091,Khalifa Al Dhaheri,M,United Arab Emirates,Yes,Strategy & Future Foresight,Specialist,4,Permanent,Abu Dhabi,1999-04-02,2026-01-06,2026-01-06,20433,77,MOEI-10010,khalifa.dhaheri@moei.gov.ae
+MOEI-10092,Rajesh Kumar,M,Philippines,No,Information Technology,Specialist,4,Contract,Abu Dhabi,1994-02-06,2026-01-06,2027-05-21,20561,39,MOEI-10043,rajesh.kumar@moei.gov.ae
+MOEI-10093,Jasim Al Shehhi,M,United Arab Emirates,Yes,Customer Happiness,Officer,3,Permanent,Dubai,1993-02-23,2023-10-26,2025-03-09,17064,81,MOEI-10141,jasim.shehhi@moei.gov.ae
+MOEI-10094,Mouza Al Mheiri,F,United Arab Emirates,Yes,Legal Affairs,Junior Officer,2,Contract,Abu Dhabi,1992-06-19,2022-08-14,2026-01-12,13267,62,MOEI-10147,mouza.mheiri@moei.gov.ae
+MOEI-10095,Sara Al Marri,F,United Arab Emirates,Yes,Land & Maritime Transport,Junior Officer,2,Permanent,Abu Dhabi,1994-01-01,2021-12-01,2025-06-07,11482,70,MOEI-10259,sara.marri@moei.gov.ae
+MOEI-10096,Khalid Al Kaabi,M,United Arab Emirates,Yes,Information Technology,Senior Specialist,5,Permanent,Dubai,1998-09-14,2025-09-19,2025-09-19,38094,43,MOEI-10090,khalid.kaabi@moei.gov.ae
+MOEI-10097,Hamdan Al Marri,M,United Arab Emirates,Yes,Corporate Communication,Senior Specialist,5,Permanent,Abu Dhabi,1980-11-10,2012-09-19,2022-01-21,29608,70,MOEI-10237,hamdan.marri@moei.gov.ae
+MOEI-10098,Khawla Al Shehhi,F,United Arab Emirates,Yes,Land & Maritime Transport,Specialist,4,Permanent,Dubai,1993-12-25,2017-08-13,2019-01-13,21804,53,MOEI-10019,khawla.shehhi@moei.gov.ae
+MOEI-10099,Marwan Al Marri,M,United Arab Emirates,Yes,Finance,Officer,3,Permanent,Abu Dhabi,1987-07-06,2018-12-01,2020-05-09,15642,58,MOEI-10072,marwan.marri@moei.gov.ae
+MOEI-10100,Nasser Al Ameri,M,United Arab Emirates,Yes,Housing,Junior Officer,2,Permanent,Abu Dhabi,1992-11-13,2022-12-01,2025-11-25,11407,88,MOEI-10067,nasser.ameri@moei.gov.ae
+MOEI-10101,Hamdan Al Khoori,M,United Arab Emirates,Yes,Housing,Specialist,4,Permanent,Abu Dhabi,1985-05-09,2016-03-20,2022-04-03,24866,68,MOEI-10128,hamdan.khoori@moei.gov.ae
+MOEI-10102,Hamdan Al Khoori,M,United Arab Emirates,Yes,Land & Maritime Transport,Senior Specialist,5,Permanent,Abu Dhabi,1992-11-08,2019-08-14,2025-07-16,30459,73,MOEI-10069,hamdan.khoori@moei.gov.ae
+MOEI-10103,Shamsa Al Dhaheri,F,United Arab Emirates,Yes,Land & Maritime Transport,Senior Specialist,5,Permanent,Sharjah,1990-09-18,2017-12-01,2019-11-19,40069,55,MOEI-10155,shamsa.dhaheri@moei.gov.ae
+MOEI-10104,Hassan Al Hosani,M,United Arab Emirates,Yes,Finance,Specialist,4,Contract,Dubai,1990-06-28,2021-12-01,2023-07-04,24367,44,MOEI-10072,hassan.hosani@moei.gov.ae
+MOEI-10105,Marwan Al Mazrouei,M,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Specialist,4,Permanent,Abu Dhabi,1994-04-14,2019-09-19,2021-07-26,21140,60,MOEI-10151,marwan.mazrouei@moei.gov.ae
+MOEI-10106,Hind Al Harbi,F,Saudi Arabia,No,Land & Maritime Transport,Senior Specialist,5,Permanent,Abu Dhabi,1988-04-01,2019-02-12,2021-01-20,30480,91,MOEI-10256,hind.harbi@moei.gov.ae
+MOEI-10107,Hessa Al Darmaki,F,United Arab Emirates,Yes,Legal Affairs,Specialist,4,Contract,Dubai,2000-02-15,2022-12-01,2025-10-08,23161,57,MOEI-10212,hessa.darmaki@moei.gov.ae
+MOEI-10108,Rashid Al Mazrouei,M,United Arab Emirates,Yes,Human Resources,Head of Section,6,Permanent,Abu Dhabi,1990-08-27,2015-06-02,2023-09-28,52692,80,MOEI-10039,rashid.mazrouei@moei.gov.ae
+MOEI-10109,Faisal Al Blooshi,M,United Arab Emirates,Yes,Procurement & Contracts,Senior Specialist,5,Permanent,Abu Dhabi,1990-02-19,2014-04-26,2017-07-10,32501,64,MOEI-10159,faisblooshi.faisblooshi@moei.gov.ae
+MOEI-10110,Sara Khan,F,Lebanon,No,Energy & Clean Energy,Junior Officer,2,Permanent,Dubai,1989-05-01,2022-06-01,2025-12-21,13620,77,MOEI-10131,sara.khan@moei.gov.ae
+MOEI-10111,David Brown,M,Philippines,No,Human Resources,Specialist,4,Permanent,Dubai,1986-10-17,2015-08-14,2022-12-25,20137,34,MOEI-10200,david.brown@moei.gov.ae
+MOEI-10112,Roudha Al Marri,F,United Arab Emirates,Yes,Infrastructure & Assets,Senior Specialist,5,Permanent,Dubai,1985-12-23,2015-04-26,2023-10-08,37778,82,MOEI-10119,roudha.marri@moei.gov.ae
+MOEI-10113,Ahmed Hassan,M,Egypt,No,Land & Maritime Transport,Senior Specialist,5,Permanent,Dubai,1994-06-02,2016-06-01,2025-10-18,41960,77,MOEI-10169,ahmed.hassan@moei.gov.ae
+MOEI-10114,Hamdan Al Nuaimi,M,United Arab Emirates,Yes,Finance,Specialist,4,Contract,Abu Dhabi,1993-05-26,2020-09-19,2022-12-27,22957,80,MOEI-10134,hamdan.nuaimi@moei.gov.ae
+MOEI-10115,Shaikha Al Shamsi,F,United Arab Emirates,Yes,Legal Affairs,Specialist,4,Permanent,Ajman,1999-10-06,2023-02-12,2024-08-22,21622,83,MOEI-10176,shaikha.shamsi@moei.gov.ae
+MOEI-10116,Humaid Al Mheiri,M,United Arab Emirates,Yes,Legal Affairs,Officer,3,Permanent,Abu Dhabi,1999-07-26,2025-02-12,2025-02-12,18142,94,MOEI-10176,humaid.mheiri@moei.gov.ae
+MOEI-10117,Hamad Mansour,M,Oman,No,Information Technology,Officer,3,Permanent,Dubai,1995-12-02,2025-06-01,2025-06-01,20446,57,MOEI-10092,hamad.mansour@moei.gov.ae
+MOEI-10118,Aisha Al Shehhi,F,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Officer,3,Permanent,Abu Dhabi,1988-07-17,2021-04-26,2025-04-21,20958,63,MOEI-10151,aisha.shehhi@moei.gov.ae
+MOEI-10119,Shamma Al Awani,F,United Arab Emirates,Yes,Infrastructure & Assets,Head of Section,6,Permanent,Fujairah,1985-02-07,2016-06-01,2021-06-06,53818,59,MOEI-10189,shamma.awani@moei.gov.ae
+MOEI-10120,Hassan Al Saadi,M,United Arab Emirates,Yes,Land & Maritime Transport,Specialist,4,Permanent,Dubai,1992-06-19,2018-04-26,2019-11-03,22868,78,MOEI-10259,hassan.saadi@moei.gov.ae
+MOEI-10121,Hessa Al Ameri,F,United Arab Emirates,Yes,Procurement & Contracts,Senior Specialist,5,Permanent,Abu Dhabi,1984-04-30,2018-12-01,2026-03-01,41163,60,MOEI-10159,hessa.ameri@moei.gov.ae
+MOEI-10122,Mansoor Al Blooshi,M,United Arab Emirates,Yes,Legal Affairs,Officer,3,Permanent,Abu Dhabi,1993-07-31,2023-01-07,2025-08-12,15115,57,MOEI-10212,mansoor.blooshi@moei.gov.ae
+MOEI-10123,Jasim Al Dhaheri,M,United Arab Emirates,Yes,Information Technology,Officer,3,Permanent,Abu Dhabi,1996-04-09,2021-10-25,2024-12-06,15473,55,MOEI-10090,jasim.dhaheri@moei.gov.ae
+MOEI-10124,Mansoor Al Falasi,M,United Arab Emirates,Yes,Corporate Communication,Specialist,4,Secondment,Abu Dhabi,1986-07-04,2020-07-08,2023-07-19,22411,74,MOEI-10078,mansoor.falasi@moei.gov.ae
+MOEI-10125,Shamma Al Shamsi,F,United Arab Emirates,Yes,Finance,Junior Officer,2,Permanent,Abu Dhabi,2002-10-26,2024-10-25,2024-10-25,14423,87,MOEI-10114,shamma.shamsi@moei.gov.ae
+MOEI-10126,Aisha Al Mazrouei,F,United Arab Emirates,Yes,Electricity & Water,Junior Officer,2,Permanent,Dubai,1993-03-12,2022-10-26,2024-10-12,13576,63,MOEI-10173,aisha.mazrouei@moei.gov.ae
+MOEI-10127,Latifa Al Mazrouei,F,United Arab Emirates,Yes,Corporate Communication,Specialist,4,Permanent,Dubai,1993-09-13,2018-01-06,2020-07-03,27993,58,MOEI-10239,latifa.mazrouei@moei.gov.ae
+MOEI-10128,Rashed Al Rashidi,M,United Arab Emirates,Yes,Housing,Executive Director,8,Permanent,Dubai,1985-06-28,2012-04-25,2022-12-06,72367,77,MOEI-10220,rashed.rashidi@moei.gov.ae
+MOEI-10129,Rashid Al Nuaimi,M,United Arab Emirates,Yes,Human Resources,Head of Section,6,Permanent,Abu Dhabi,1996-08-26,2021-02-12,2026-01-29,45546,50,MOEI-10087,rashid.nuaimi@moei.gov.ae
+MOEI-10130,Shamsa Al Shamsi,F,United Arab Emirates,Yes,Customer Happiness,Senior Specialist,5,Permanent,Dubai,1994-04-25,2016-08-13,2025-04-30,30239,91,MOEI-10028,shamsa.shamsi@moei.gov.ae
+MOEI-10131,Saeed Al Zaabi,M,United Arab Emirates,Yes,Energy & Clean Energy,Head of Section,6,Permanent,Dubai,1990-01-27,2024-07-08,2024-07-08,38550,80,MOEI-10042,saeed.zaabi@moei.gov.ae
+MOEI-10132,Ali Al Falasi,M,United Arab Emirates,Yes,Land & Maritime Transport,Specialist,4,Permanent,Abu Dhabi,1989-02-16,2017-01-06,2020-03-13,24990,71,MOEI-10259,ali.falasi@moei.gov.ae
+MOEI-10133,Yousef Al Suwaidi,M,United Arab Emirates,Yes,Land & Maritime Transport,Specialist,4,Secondment,Abu Dhabi,1992-01-19,2016-09-19,2020-09-30,21357,86,MOEI-10021,yousef.suwaidi@moei.gov.ae
+MOEI-10134,Alya Mansour,F,Jordan,No,Finance,Assistant Undersecretary,9,Permanent,Abu Dhabi,1985-05-13,2011-07-08,2016-02-22,127031,83,,alya.mansour@moei.gov.ae
+MOEI-10135,Khalid Al Harbi,M,Oman,No,Internal Audit,Senior Specialist,5,Permanent,Abu Dhabi,1990-12-02,2021-12-01,2025-08-19,39251,53,MOEI-10071,khalid.harbi@moei.gov.ae
+MOEI-10136,Aisha Rahman,F,Philippines,No,Energy & Clean Energy,Officer,3,Permanent,Dubai,1994-09-20,2022-06-01,2025-04-15,19496,67,MOEI-10222,aisha.rahman@moei.gov.ae
+MOEI-10137,Ayesha Al Naqbi,F,United Arab Emirates,Yes,Housing,Senior Specialist,5,Permanent,Abu Dhabi,1988-05-31,2014-07-08,2025-10-28,40154,80,MOEI-10150,ayesha.naqbi@moei.gov.ae
+MOEI-10138,Maria Garcia,F,United Kingdom,No,Infrastructure & Assets,Officer,3,Contract,Abu Dhabi,1997-05-12,2024-01-07,2025-05-21,16374,78,MOEI-10158,maria.garcia@moei.gov.ae
+MOEI-10139,Rashid Al Junaibi,M,United Arab Emirates,Yes,Internal Audit,Officer,3,Permanent,Dubai,1996-10-22,2022-08-14,2025-06-18,20044,50,MOEI-10246,rashid.junaibi@moei.gov.ae
+MOEI-10140,Mansoor Al Khoori,M,United Arab Emirates,Yes,Information Technology,Head of Section,6,Permanent,Dubai,1995-04-11,2022-09-19,2025-08-08,38514,57,MOEI-10255,mansoor.khoori@moei.gov.ae
+MOEI-10141,Saif Al Blooshi,M,United Arab Emirates,Yes,Customer Happiness,Specialist,4,Contract,Abu Dhabi,1995-12-18,2024-09-19,2024-09-19,21580,58,MOEI-10188,saif.blooshi@moei.gov.ae
+MOEI-10142,Marwan Haddad,M,Kuwait,No,Infrastructure & Assets,Junior Officer,2,Permanent,Abu Dhabi,1997-10-07,2021-07-08,2025-03-24,11612,67,MOEI-10208,marwan.haddad@moei.gov.ae
+MOEI-10143,Roudha Al Ameri,F,United Arab Emirates,Yes,Housing,Junior Officer,2,Permanent,Fujairah,1996-12-09,2019-09-19,2026-01-17,13888,62,MOEI-10137,roudha.ameri@moei.gov.ae
+MOEI-10144,Mohammed Al Zaabi,M,United Arab Emirates,Yes,Housing,Specialist,4,Contract,Abu Dhabi,1985-02-04,2014-10-26,2021-09-14,20716,54,MOEI-10137,mohammed.zaabi@moei.gov.ae
+MOEI-10145,Maitha Al Otaibi,F,Egypt,No,Infrastructure & Assets,Senior Specialist,5,Contract,Abu Dhabi,1991-04-06,2013-12-01,2024-01-21,33123,57,MOEI-10030,maitha.otaibi@moei.gov.ae
+MOEI-10146,Khalifa Al Naqbi,M,United Arab Emirates,Yes,Electricity & Water,Specialist,4,Permanent,Umm Al Quwain,1991-05-16,2017-07-08,2019-09-12,23939,65,MOEI-10213,khalifa.naqbi@moei.gov.ae
+MOEI-10147,Carlos Mendoza,M,Pakistan,No,Legal Affairs,Officer,3,Permanent,Abu Dhabi,1995-01-07,2022-01-06,2022-01-07,19995,76,MOEI-10115,carlos.mendoza@moei.gov.ae
+MOEI-10148,Alya Al Hosani,F,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Director,7,Permanent,Dubai,1991-12-20,2021-12-01,2025-11-08,70707,56,MOEI-10003,alya.hosani@moei.gov.ae
+MOEI-10149,Sara Al Nuaimi,F,United Arab Emirates,Yes,Information Technology,Senior Specialist,5,Permanent,Umm Al Quwain,2001-03-15,2024-08-13,2024-08-13,38154,70,MOEI-10044,sara.nuaimi@moei.gov.ae
+MOEI-10150,Afra Nasser,F,Oman,No,Housing,Executive Director,8,Permanent,Abu Dhabi,1993-12-01,2015-12-01,2025-09-11,95235,68,MOEI-10220,afra.nasser@moei.gov.ae
+MOEI-10151,Noura Al Suwaidi,F,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Senior Specialist,5,Permanent,Abu Dhabi,1983-02-17,2015-02-12,2020-10-23,35025,59,MOEI-10003,noura.suwaidi@moei.gov.ae
+MOEI-10152,Faisal Al Nuaimi,M,United Arab Emirates,Yes,Procurement & Contracts,Senior Specialist,5,Secondment,Abu Dhabi,1999-06-02,2021-06-01,2021-10-12,27339,53,MOEI-10159,faisnuaimi.faisnuaimi@moei.gov.ae
+MOEI-10153,Asma Al Blooshi,F,United Arab Emirates,Yes,Infrastructure & Assets,Officer,3,Permanent,Dubai,1990-10-21,2020-08-13,2024-11-02,17089,100,MOEI-10236,asma.blooshi@moei.gov.ae
+MOEI-10154,Salem Al Dhaheri,M,United Arab Emirates,Yes,Strategy & Future Foresight,Senior Specialist,5,Permanent,Ras Al Khaimah,1996-03-15,2022-08-14,2025-04-27,37472,60,MOEI-10232,salem.dhaheri@moei.gov.ae
+MOEI-10155,Shamsa Mansour,F,Oman,No,Land & Maritime Transport,Assistant Undersecretary,9,Permanent,Fujairah,1968-12-28,2000-04-25,2012-11-29,128630,77,MOEI-10012,shamsa.mansour@moei.gov.ae
+MOEI-10156,Zayed Al Yammahi,M,United Arab Emirates,Yes,Infrastructure & Assets,Specialist,4,Permanent,Abu Dhabi,1984-08-25,2014-01-06,2020-05-01,20524,66,MOEI-10245,zayed.yammahi@moei.gov.ae
+MOEI-10157,Fatima Al Naqbi,F,United Arab Emirates,Yes,Land & Maritime Transport,Senior Specialist,5,Secondment,Abu Dhabi,2001-03-21,2023-03-21,2025-08-24,34684,83,MOEI-10169,fatima.naqbi@moei.gov.ae
+MOEI-10158,Priya Nair,F,Lebanon,No,Infrastructure & Assets,Senior Specialist,5,Permanent,Abu Dhabi,1983-09-13,2009-02-12,2014-02-20,33850,39,MOEI-10057,priya.nair@moei.gov.ae
+MOEI-10159,Shamsa Al Rashidi,F,United Arab Emirates,Yes,Procurement & Contracts,Director,7,Permanent,Dubai,1988-05-24,2013-01-06,2014-12-13,50231,65,MOEI-10237,shamsa.rashidi@moei.gov.ae
+MOEI-10160,Mohan Reddy,M,Egypt,No,Corporate Communication,Officer,3,Permanent,Ras Al Khaimah,1992-01-20,2021-09-19,2023-11-22,20661,59,MOEI-10237,mohan.reddy@moei.gov.ae
+MOEI-10161,Fatima Al Mheiri,F,United Arab Emirates,Yes,Infrastructure & Assets,Senior Specialist,5,Permanent,Abu Dhabi,1995-02-24,2019-10-26,2024-05-03,39986,92,MOEI-10056,fatima.mheiri@moei.gov.ae
+MOEI-10162,Saeed Al Rashidi,M,United Arab Emirates,Yes,Information Technology,Junior Officer,2,Permanent,Abu Dhabi,1997-12-01,2024-09-19,2024-09-19,14768,82,MOEI-10252,saeed.rashidi@moei.gov.ae
+MOEI-10163,Mansoor Al Dhaheri,M,United Arab Emirates,Yes,Internal Audit,Officer,3,Permanent,Abu Dhabi,1990-04-21,2019-08-14,2025-04-04,19802,97,MOEI-10033,mansoor.dhaheri@moei.gov.ae
+MOEI-10164,Sara Al Ameri,F,United Arab Emirates,Yes,Strategy & Future Foresight,Senior Specialist,5,Permanent,Fujairah,1999-10-13,2022-06-01,2025-08-09,33821,74,MOEI-10010,sara.ameri@moei.gov.ae
+MOEI-10165,Latifa Al Khoori,F,United Arab Emirates,Yes,Information Technology,Specialist,4,Permanent,Dubai,1993-03-15,2019-01-07,2025-02-13,25281,51,MOEI-10255,latifa.khoori@moei.gov.ae
+MOEI-10166,Maria Garcia,F,Egypt,No,"Petroleum, Gas & Mineral Resources",Head of Section,6,Permanent,Abu Dhabi,1979-11-19,2009-07-08,2025-11-13,41491,60,MOEI-10003,maria.garcia@moei.gov.ae
+MOEI-10167,Hessa Al Marri,F,United Arab Emirates,Yes,Information Technology,Junior Officer,2,Permanent,Abu Dhabi,1992-01-14,2020-08-13,2026-03-27,12540,82,MOEI-10252,hessa.marri@moei.gov.ae
+MOEI-10168,Rashed Al Zaabi,M,United Arab Emirates,Yes,Energy & Clean Energy,Officer,3,Permanent,Abu Dhabi,1984-10-22,2021-01-06,2024-10-03,15222,46,MOEI-10247,rashed.zaabi@moei.gov.ae
+MOEI-10169,Asma Al Kaabi,F,United Arab Emirates,Yes,Land & Maritime Transport,Head of Section,6,Permanent,Ajman,1996-03-07,2026-01-06,2026-01-06,44417,100,MOEI-10256,asma.kaabi@moei.gov.ae
+MOEI-10170,Faisal Saleh,M,Bahrain,No,Customer Happiness,Junior Officer,2,Permanent,Umm Al Quwain,1989-10-21,2020-03-20,2022-12-26,13315,51,MOEI-10015,faissaleh.faissaleh@moei.gov.ae
+MOEI-10171,Yousef Al Dhaheri,M,United Arab Emirates,Yes,Strategy & Future Foresight,Specialist,4,Permanent,Abu Dhabi,1993-10-30,2016-01-07,2022-01-10,19174,50,MOEI-10164,yousef.dhaheri@moei.gov.ae
+MOEI-10172,Ahmed Al Hammadi,M,United Arab Emirates,Yes,Customer Happiness,Administrative Assistant,1,Permanent,Dubai,1989-07-21,2022-10-26,2022-10-26,9609,78,MOEI-10130,ahmed.hammadi@moei.gov.ae
+MOEI-10173,Obaid Al Harbi,M,Kuwait,No,Electricity & Water,Officer,3,Contract,Dubai,1990-10-26,2022-09-19,2025-09-11,20728,74,MOEI-10064,obaid.harbi@moei.gov.ae
+MOEI-10174,Faisal Al Yammahi,M,United Arab Emirates,Yes,Corporate Communication,Specialist,4,Contract,Ras Al Khaimah,1989-04-15,2013-04-26,2025-07-12,20468,61,MOEI-10097,faisyammahi.faisyammahi@moei.gov.ae
+MOEI-10175,Rashed Al Kaabi,M,United Arab Emirates,Yes,Infrastructure & Assets,Senior Specialist,5,Permanent,Abu Dhabi,1985-01-26,2016-08-13,2020-05-31,39890,65,MOEI-10245,rashed.kaabi@moei.gov.ae
+MOEI-10176,Mouza Al Junaibi,F,United Arab Emirates,Yes,Legal Affairs,Director,7,Permanent,Abu Dhabi,1979-07-21,2008-03-20,2019-05-26,71178,91,MOEI-10237,mouza.junaibi@moei.gov.ae
+MOEI-10177,Humaid Al Ameri,M,United Arab Emirates,Yes,Energy & Clean Energy,Senior Specialist,5,Permanent,Ajman,1982-11-06,2016-02-12,2021-02-14,28055,27,MOEI-10226,humaid.ameri@moei.gov.ae
+MOEI-10178,Maria Garcia,F,Pakistan,No,Customer Happiness,Officer,3,Secondment,Abu Dhabi,1987-12-14,2019-07-08,2023-05-01,19869,71,MOEI-10141,maria.garcia@moei.gov.ae
+MOEI-10179,Omar Al Falasi,M,United Arab Emirates,Yes,Finance,Specialist,4,Permanent,Dubai,1990-06-29,2021-01-06,2024-11-24,24660,79,MOEI-10134,omar.falasi@moei.gov.ae
+MOEI-10180,Ahmed Al Yammahi,M,United Arab Emirates,Yes,Strategy & Future Foresight,Officer,3,Contract,Dubai,1993-01-25,2025-02-12,2025-02-12,19088,73,MOEI-10154,ahmed.yammahi@moei.gov.ae
+MOEI-10181,Nasser Al Awani,M,United Arab Emirates,Yes,Strategy & Future Foresight,Officer,3,Permanent,Dubai,1993-04-13,2019-01-07,2025-08-04,21765,61,MOEI-10204,nasser.awani@moei.gov.ae
+MOEI-10182,Wadima Al Hosani,F,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Head of Section,6,Contract,Abu Dhabi,1995-04-17,2021-06-01,2022-09-13,52264,68,MOEI-10148,wadima.hosani@moei.gov.ae
+MOEI-10183,Saeed Al Awani,M,United Arab Emirates,Yes,Energy & Clean Energy,Head of Section,6,Permanent,Abu Dhabi,1986-02-18,2015-06-02,2022-06-19,44344,74,MOEI-10042,saeed.awani@moei.gov.ae
+MOEI-10184,Faisal Al Kaabi,M,United Arab Emirates,Yes,Human Resources,Specialist,4,Permanent,Abu Dhabi,1997-12-04,2023-03-21,2024-05-11,25022,100,MOEI-10129,faiskaabi.faiskaabi@moei.gov.ae
+MOEI-10185,John Smith,M,India,No,Finance,Specialist,4,Contract,Abu Dhabi,1987-03-01,2019-09-19,2021-03-20,28152,95,MOEI-10214,john.smith@moei.gov.ae
+MOEI-10186,Hind Al Mazrouei,F,United Arab Emirates,Yes,Land & Maritime Transport,Specialist,4,Permanent,Sharjah,1994-03-20,2016-09-19,2021-12-20,20316,85,MOEI-10229,hind.mazrouei@moei.gov.ae
+MOEI-10187,Maha Al Hosani,F,United Arab Emirates,Yes,Land & Maritime Transport,Specialist,4,Permanent,Sharjah,1997-07-21,2021-09-19,2023-05-07,28947,80,MOEI-10102,maha.hosani@moei.gov.ae
+MOEI-10188,Badr Al Zaabi,M,United Arab Emirates,Yes,Customer Happiness,Senior Specialist,5,Permanent,Abu Dhabi,1998-01-07,2020-01-07,2022-02-12,41002,66,MOEI-10028,badr.zaabi@moei.gov.ae
+MOEI-10189,Maha Al Awani,F,United Arab Emirates,Yes,Infrastructure & Assets,Executive Director,8,Permanent,Abu Dhabi,1982-11-21,2012-06-01,2022-03-28,90311,58,MOEI-10089,maha.awani@moei.gov.ae
+MOEI-10190,Zayed Al Dhaheri,M,United Arab Emirates,Yes,Strategy & Future Foresight,Head of Section,6,Permanent,Abu Dhabi,1989-06-27,2018-06-01,2026-03-10,44743,61,MOEI-10010,zayed.dhaheri@moei.gov.ae
+MOEI-10191,Wadima Al Ali,F,United Arab Emirates,Yes,Legal Affairs,Administrative Assistant,1,Permanent,Fujairah,1996-02-10,2025-08-13,2025-08-13,10642,88,MOEI-10244,wadima.ali@moei.gov.ae
+MOEI-10192,Rashed Al Blooshi,M,United Arab Emirates,Yes,Legal Affairs,Senior Specialist,5,Permanent,Dubai,1989-08-04,2015-10-26,2016-12-20,41201,78,MOEI-10212,rashed.blooshi@moei.gov.ae
+MOEI-10193,Tariq Al Hammadi,M,United Arab Emirates,Yes,Housing,Head of Section,6,Permanent,Abu Dhabi,1987-09-02,2015-09-19,2021-11-19,39582,73,MOEI-10150,tariq.hammadi@moei.gov.ae
+MOEI-10194,Suhail Al Naqbi,M,United Arab Emirates,Yes,Land & Maritime Transport,Officer,3,Contract,Umm Al Quwain,1997-10-24,2022-08-14,2024-10-11,16186,68,MOEI-10022,suhail.naqbi@moei.gov.ae
+MOEI-10195,Abdullah Al Kaabi,M,United Arab Emirates,Yes,Infrastructure & Assets,Officer,3,Permanent,Dubai,1990-11-09,2025-03-20,2025-03-20,20046,52,MOEI-10057,abdullah.kaabi@moei.gov.ae
+MOEI-10196,Hamad Al Ameri,M,United Arab Emirates,Yes,Housing,Junior Officer,2,Permanent,Sharjah,1999-06-20,2022-07-08,2025-12-02,15297,77,MOEI-10257,hamad.ameri@moei.gov.ae
+MOEI-10197,Latifa Al Rashidi,F,United Arab Emirates,Yes,Corporate Communication,Junior Officer,2,Permanent,Fujairah,1994-09-01,2021-01-06,2026-01-03,14164,95,MOEI-10248,latifa.rashidi@moei.gov.ae
+MOEI-10198,Badr Al Harbi,M,Egypt,No,Infrastructure & Assets,Officer,3,Permanent,Abu Dhabi,1997-03-22,2022-02-12,2025-10-19,21600,55,MOEI-10029,badr.harbi@moei.gov.ae
+MOEI-10199,Marwan Nasser,M,Bahrain,No,Electricity & Water,Head of Section,6,Permanent,Dubai,1984-01-23,2016-12-01,2026-01-12,45193,61,MOEI-10035,marwan.nasser@moei.gov.ae
+MOEI-10200,Roudha Al Qubaisi,F,United Arab Emirates,Yes,Human Resources,Senior Specialist,5,Permanent,Abu Dhabi,1982-07-09,2015-08-14,2025-10-27,35516,67,MOEI-10129,roudha.qubaisi@moei.gov.ae
+MOEI-10201,Sara Al Hosani,F,United Arab Emirates,Yes,Human Resources,Junior Officer,2,Permanent,Abu Dhabi,1993-05-03,2019-09-19,2023-01-19,15834,59,MOEI-10087,sara.hosani@moei.gov.ae
+MOEI-10202,Mouza Al Yammahi,F,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Junior Officer,2,Permanent,Abu Dhabi,1995-10-03,2019-08-14,2026-04-28,11753,83,MOEI-10224,mouza.yammahi@moei.gov.ae
+MOEI-10203,Mariam Al Ketbi,F,United Arab Emirates,Yes,Corporate Communication,Specialist,4,Contract,Dubai,1991-08-18,2021-08-13,2023-04-03,20582,42,MOEI-10075,mariam.ketbi@moei.gov.ae
+MOEI-10204,Rashed Al Ketbi,M,United Arab Emirates,Yes,Strategy & Future Foresight,Specialist,4,Permanent,Abu Dhabi,1986-03-03,2018-09-19,2022-07-19,25159,87,MOEI-10053,rashed.ketbi@moei.gov.ae
+MOEI-10205,Abdulrahman Al Falasi,M,United Arab Emirates,Yes,Information Technology,Officer,3,Permanent,Abu Dhabi,1999-01-26,2022-09-19,2025-11-17,19298,78,MOEI-10084,abdulrahman.falasi@moei.gov.ae
+MOEI-10206,Shamsa Al Blooshi,F,United Arab Emirates,Yes,Land & Maritime Transport,Senior Specialist,5,Permanent,Abu Dhabi,1984-12-07,2013-09-19,2022-03-17,30759,82,MOEI-10155,shamsa.blooshi@moei.gov.ae
+MOEI-10207,Alya Al Ameri,F,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Senior Specialist,5,Permanent,Abu Dhabi,1986-06-20,2015-12-01,2022-02-22,36643,80,MOEI-10148,alya.ameri@moei.gov.ae
+MOEI-10208,Khalid Al Ali,M,United Arab Emirates,Yes,Infrastructure & Assets,Senior Specialist,5,Permanent,Abu Dhabi,1998-11-19,2024-03-20,2024-03-20,33855,56,MOEI-10057,khalid.ali@moei.gov.ae
+MOEI-10209,Maha Al Saadi,F,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Specialist,4,Permanent,Umm Al Quwain,1998-02-01,2023-07-08,2024-11-19,20133,34,MOEI-10182,maha.saadi@moei.gov.ae
+MOEI-10210,Hamad Al Falasi,M,United Arab Emirates,Yes,Energy & Clean Energy,Officer,3,Secondment,Abu Dhabi,1996-08-14,2018-08-14,2024-05-16,19970,72,MOEI-10042,hamad.falasi@moei.gov.ae
+MOEI-10211,Hind Al Mazrouei,F,United Arab Emirates,Yes,Housing,Officer,3,Permanent,Abu Dhabi,1988-07-21,2022-04-26,2022-05-26,15620,31,MOEI-10220,hind.mazrouei@moei.gov.ae
+MOEI-10212,Aisha Al Khoori,F,United Arab Emirates,Yes,Legal Affairs,Head of Section,6,Permanent,Abu Dhabi,1986-12-18,2015-10-26,2026-03-21,49112,71,MOEI-10176,aisha.khoori@moei.gov.ae
+MOEI-10213,Marwan Al Awani,M,United Arab Emirates,Yes,Electricity & Water,Head of Section,6,Permanent,Sharjah,1979-03-15,2011-02-12,2016-12-01,51781,60,MOEI-10035,marwan.awani@moei.gov.ae
+MOEI-10214,Hamdan Al Awani,M,United Arab Emirates,Yes,Finance,Senior Specialist,5,Permanent,Abu Dhabi,1995-06-11,2020-07-08,2024-08-19,30357,81,MOEI-10134,hamdan.awani@moei.gov.ae
+MOEI-10215,Shaikha Al Tunaiji,F,United Arab Emirates,Yes,Corporate Communication,Officer,3,Permanent,Abu Dhabi,1991-06-12,2016-10-25,2018-07-29,21947,76,MOEI-10075,shaikha.tunaiji@moei.gov.ae
+MOEI-10216,Ayesha Al Awani,F,United Arab Emirates,Yes,Procurement & Contracts,Officer,3,Permanent,Abu Dhabi,1998-01-06,2022-03-20,2025-08-19,17626,66,MOEI-10005,ayesha.awani@moei.gov.ae
+MOEI-10217,Zayed Al Balooshi,M,United Arab Emirates,Yes,Energy & Clean Energy,Head of Section,6,Permanent,Ajman,1994-01-07,2022-04-26,2023-06-05,52771,75,MOEI-10042,zayed.balooshi@moei.gov.ae
+MOEI-10218,Shamsa Al Naqbi,F,United Arab Emirates,Yes,Corporate Communication,Senior Specialist,5,Permanent,Fujairah,1990-11-25,2020-01-07,2022-12-03,39596,57,MOEI-10237,shamsa.naqbi@moei.gov.ae
+MOEI-10219,Hassan Al Tunaiji,M,United Arab Emirates,Yes,Infrastructure & Assets,Specialist,4,Permanent,Abu Dhabi,1984-03-20,2015-04-26,2021-07-25,20162,79,MOEI-10089,hassan.tunaiji@moei.gov.ae
+MOEI-10220,Eman Al Marri,F,United Arab Emirates,Yes,Housing,Assistant Undersecretary,9,Contract,Abu Dhabi,1982-04-03,2015-01-07,2017-02-27,124456,51,,eman.marri@moei.gov.ae
+MOEI-10221,John Smith,M,India,No,Infrastructure & Assets,Specialist,4,Permanent,Abu Dhabi,1996-06-30,2020-09-19,2022-12-23,20911,80,MOEI-10057,john.smith@moei.gov.ae
+MOEI-10222,Mohammed Al Qubaisi,M,United Arab Emirates,Yes,Energy & Clean Energy,Senior Specialist,5,Permanent,Abu Dhabi,1986-03-09,2017-02-12,2023-07-27,28991,55,MOEI-10226,mohammed.qubaisi@moei.gov.ae
+MOEI-10223,Suhail Al Mazrouei,M,United Arab Emirates,Yes,Land & Maritime Transport,Senior Specialist,5,Permanent,Dubai,1993-10-04,2018-08-14,2021-04-25,28957,54,MOEI-10155,suhail.mazrouei@moei.gov.ae
+MOEI-10224,Eman Al Kaabi,F,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Officer,3,Permanent,Abu Dhabi,1993-11-17,2022-08-14,2024-02-08,20267,100,MOEI-10077,eman.kaabi@moei.gov.ae
+MOEI-10225,Sara Khan,F,USA,No,Human Resources,Specialist,4,Permanent,Abu Dhabi,1986-11-08,2016-06-01,2023-01-16,19225,30,MOEI-10251,sara.khan@moei.gov.ae
+MOEI-10226,Jasim Al Harbi,M,Egypt,No,Energy & Clean Energy,Head of Section,6,Permanent,Abu Dhabi,1971-09-02,2006-09-19,2022-08-13,39041,41,MOEI-10042,jasim.harbi@moei.gov.ae
+MOEI-10227,Mohammed Al Dhaheri,M,United Arab Emirates,Yes,"Petroleum, Gas & Mineral Resources",Specialist,4,Contract,Abu Dhabi,1994-03-13,2017-03-20,2022-05-29,25463,79,MOEI-10182,mohammed.dhaheri@moei.gov.ae
+MOEI-10228,Hamdan Al Shamsi,M,United Arab Emirates,Yes,Corporate Communication,Junior Officer,2,Contract,Fujairah,1996-04-02,2020-08-13,2025-09-15,13505,78,MOEI-10083,hamdan.shamsi@moei.gov.ae
+MOEI-10229,Jasim Al Marri,M,United Arab Emirates,Yes,Land & Maritime Transport,Senior Specialist,5,Permanent,Abu Dhabi,1994-05-30,2021-03-20,2023-03-08,35509,56,MOEI-10259,jasim.marri@moei.gov.ae
+MOEI-10230,Rawdha Al Romaithi,F,United Arab Emirates,Yes,Procurement & Contracts,Senior Specialist,5,Permanent,Abu Dhabi,1986-05-08,2015-02-12,2023-01-28,36523,68,MOEI-10159,rawdha.romaithi@moei.gov.ae
+MOEI-10231,Rashed Al Marri,M,United Arab Emirates,Yes,Infrastructure & Assets,Senior Specialist,5,Permanent,Abu Dhabi,1988-07-14,2014-02-12,2022-09-13,39515,77,MOEI-10056,rashed.marri@moei.gov.ae
+MOEI-10232,Suhail Al Mansoori,M,United Arab Emirates,Yes,Strategy & Future Foresight,Head of Section,6,Permanent,Abu Dhabi,1989-01-03,2012-12-01,2015-09-28,46434,70,MOEI-10010,suhail.mansoori@moei.gov.ae
+MOEI-10233,Sultan Al Otaibi,M,Kuwait,No,Information Technology,Administrative Assistant,1,Contract,Dubai,1990-12-17,2022-04-26,2022-04-26,8010,73,MOEI-10027,sultan.otaibi@moei.gov.ae
+MOEI-10234,John Smith,M,USA,No,Energy & Clean Energy,Specialist,4,Permanent,Sharjah,1994-08-17,2020-04-25,2022-09-01,23218,52,MOEI-10016,john.smith@moei.gov.ae
+MOEI-10235,Ali Al Ketbi,M,United Arab Emirates,Yes,Land & Maritime Transport,Senior Specialist,5,Permanent,Ras Al Khaimah,1982-02-04,2015-08-14,2017-03-24,41357,86,MOEI-10019,ali.ketbi@moei.gov.ae
+MOEI-10236,Mohammed Al Dhaheri,M,United Arab Emirates,Yes,Infrastructure & Assets,Head of Section,6,Permanent,Dubai,1989-12-22,2015-02-12,2021-05-31,44260,90,MOEI-10189,mohammed.dhaheri@moei.gov.ae
+MOEI-10237,Mouza Al Khoori,F,United Arab Emirates,Yes,Corporate Communication,Assistant Undersecretary,9,Permanent,Abu Dhabi,1985-05-19,2012-01-07,2025-04-04,110589,87,,mouza.khoori@moei.gov.ae
+MOEI-10238,Rawdha Al Mazrouei,F,United Arab Emirates,Yes,Internal Audit,Administrative Assistant,1,Permanent,Abu Dhabi,1998-09-02,2026-01-06,2026-01-06,8239,88,MOEI-10033,rawdha.mazrouei@moei.gov.ae
+MOEI-10239,Wafa Al Romaithi,F,United Arab Emirates,Yes,Corporate Communication,Senior Specialist,5,Permanent,Dubai,1991-03-27,2026-01-06,2026-01-06,29188,78,MOEI-10237,wafa.romaithi@moei.gov.ae
+MOEI-10240,Saeed Al Ali,M,United Arab Emirates,Yes,Procurement & Contracts,Junior Officer,2,Permanent,Sharjah,1991-06-12,2022-01-06,2024-12-09,12590,65,MOEI-10230,saeed.ali@moei.gov.ae
+MOEI-10241,Afra Al Ketbi,F,United Arab Emirates,Yes,Infrastructure & Assets,Junior Officer,2,Permanent,Abu Dhabi,1996-08-27,2024-07-08,2024-07-08,13679,81,MOEI-10161,afra.ketbi@moei.gov.ae
+MOEI-10242,Humaid Al Mazrouei,M,United Arab Emirates,Yes,Infrastructure & Assets,Officer,3,Contract,Dubai,1987-04-04,2021-08-13,2022-06-24,16038,74,MOEI-10245,humaid.mazrouei@moei.gov.ae
+MOEI-10243,Omar Al Balooshi,M,United Arab Emirates,Yes,Finance,Executive Director,8,Contract,Abu Dhabi,1978-12-12,2003-08-14,2017-03-07,92442,72,MOEI-10134,omar.balooshi@moei.gov.ae
+MOEI-10244,Hind Al Marri,F,United Arab Emirates,Yes,Legal Affairs,Junior Officer,2,Permanent,Abu Dhabi,1997-02-02,2020-06-01,2021-12-25,13911,41,MOEI-10107,hind.marri@moei.gov.ae
+MOEI-10245,Suhail Al Shehhi,M,United Arab Emirates,Yes,Infrastructure & Assets,Head of Section,6,Permanent,Abu Dhabi,1987-06-11,2010-03-20,2018-09-30,40082,76,MOEI-10057,suhail.shehhi@moei.gov.ae
+MOEI-10246,Majid Al Darmaki,M,United Arab Emirates,Yes,Internal Audit,Specialist,4,Permanent,Abu Dhabi,1990-08-17,2020-04-25,2023-11-29,28834,65,MOEI-10071,majid.darmaki@moei.gov.ae
+MOEI-10247,Tariq Al Tunaiji,M,United Arab Emirates,Yes,Energy & Clean Energy,Senior Specialist,5,Permanent,Abu Dhabi,1989-11-19,2019-01-07,2022-05-07,36997,75,MOEI-10042,tariq.tunaiji@moei.gov.ae
+MOEI-10248,Rashed Al Dhaheri,M,United Arab Emirates,Yes,Corporate Communication,Specialist,4,Permanent,Dubai,1998-03-13,2022-04-26,2025-03-19,23883,87,MOEI-10078,rashed.dhaheri@moei.gov.ae
+MOEI-10249,Ayesha Al Balooshi,F,United Arab Emirates,Yes,Electricity & Water,Officer,3,Permanent,Umm Al Quwain,1999-11-15,2025-08-13,2025-08-13,21997,78,MOEI-10064,ayesha.balooshi@moei.gov.ae
+MOEI-10250,Aisha Saleh,F,Oman,No,Finance,Officer,3,Contract,Dubai,1999-02-05,2021-06-01,2023-06-26,16232,93,MOEI-10034,aisha.saleh@moei.gov.ae
+MOEI-10251,Fatima Al Qubaisi,F,United Arab Emirates,Yes,Human Resources,Head of Section,6,Permanent,Fujairah,1997-09-20,2022-09-19,2023-04-11,37520,32,MOEI-10087,fatima.qubaisi@moei.gov.ae
+MOEI-10252,Jasim Al Ali,M,United Arab Emirates,Yes,Information Technology,Officer,3,Permanent,Abu Dhabi,2001-09-23,2026-01-06,2026-01-06,20645,88,MOEI-10255,jasim.ali@moei.gov.ae
+MOEI-10253,Aisha Al Harbi,F,Saudi Arabia,No,Infrastructure & Assets,Officer,3,Permanent,Ras Al Khaimah,1998-07-09,2020-07-08,2023-08-29,21723,48,MOEI-10245,aisha.harbi@moei.gov.ae
+MOEI-10254,Sultan Al Mheiri,M,United Arab Emirates,Yes,Land & Maritime Transport,Junior Officer,2,Contract,Dubai,1986-09-14,2019-04-26,2022-05-13,14535,67,MOEI-10194,sultan.mheiri@moei.gov.ae
+MOEI-10255,Humaid Al Yammahi,M,United Arab Emirates,Yes,Information Technology,Director,7,Contract,Abu Dhabi,1992-09-28,2016-06-01,2019-07-03,68220,100,MOEI-10044,humaid.yammahi@moei.gov.ae
+MOEI-10256,Rajesh Kumar,M,Pakistan,No,Land & Maritime Transport,Assistant Undersecretary,9,Permanent,Ras Al Khaimah,1988-08-25,2018-06-01,2025-11-07,99684,69,MOEI-10012,rajesh.kumar@moei.gov.ae
+MOEI-10257,Hassan Al Hosani,M,United Arab Emirates,Yes,Housing,Officer,3,Permanent,Fujairah,1997-08-14,2019-08-14,2024-06-23,18126,70,MOEI-10150,hassan.hosani@moei.gov.ae
+MOEI-10258,Majid Al Hammadi,M,United Arab Emirates,Yes,Energy & Clean Energy,Officer,3,Permanent,Fujairah,1988-10-29,2019-04-26,2024-08-28,17458,61,MOEI-10042,majid.hammadi@moei.gov.ae
+MOEI-10259,Khalifa Al Harbi,M,Jordan,No,Land & Maritime Transport,Head of Section,6,Permanent,Abu Dhabi,1990-11-16,2015-02-12,2021-08-31,36146,36,MOEI-10012,khalifa.harbi@moei.gov.ae
+MOEI-10260,Mariam Al Nuaimi,F,United Arab Emirates,Yes,Customer Happiness,Officer,3,Permanent,Dubai,1993-10-25,2019-10-26,2026-03-13,19575,72,MOEI-10015,mariam.nuaimi@moei.gov.ae

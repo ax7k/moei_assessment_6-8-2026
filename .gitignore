@@ -1,0 +1,34 @@
+# Local environment variables (API keys)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env.local
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.uv/
+
+# Node/React/Next.js
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+build/
+dist/
+
+# SQLite databases
+*.db
+backend/hr_data.db
+
+# OS files
+.DS_Store
+Thumbs.db

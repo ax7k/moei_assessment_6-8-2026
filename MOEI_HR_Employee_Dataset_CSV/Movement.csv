@@ -1,0 +1,730 @@
+record_id,employee_id,event_type,effective_date,from_grade,to_grade,from_department,to_department
+MOV-00001,MOEI-10001,Hire,2022-10-26,,1,,Human Resources
+MOV-00002,MOEI-10002,Hire,2018-03-20,,1,,Energy & Clean Energy
+MOV-00003,MOEI-10002,Promotion,2022-09-30,1,2,Energy & Clean Energy,Energy & Clean Energy
+MOV-00004,MOEI-10002,Promotion,2026-02-15,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00005,MOEI-10003,Hire,2011-04-26,,3,,"Petroleum, Gas & Mineral Resources"
+MOV-00006,MOEI-10003,Promotion,2019-07-26,3,4,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00007,MOEI-10003,Promotion,2025-03-01,4,5,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00008,MOEI-10003,Promotion,2026-04-02,5,6,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00009,MOEI-10003,Promotion,2027-04-18,6,7,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00010,MOEI-10003,Promotion,2028-05-03,7,8,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00011,MOEI-10004,Hire,2019-04-26,,3,,Infrastructure & Assets
+MOV-00012,MOEI-10004,Promotion,2022-12-31,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00013,MOEI-10004,Promotion,2026-01-09,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00014,MOEI-10005,Hire,2021-06-01,,3,,Procurement & Contracts
+MOV-00015,MOEI-10005,Promotion,2025-07-26,3,4,Procurement & Contracts,Procurement & Contracts
+MOV-00016,MOEI-10006,Hire,2015-04-26,,1,,"Petroleum, Gas & Mineral Resources"
+MOV-00017,MOEI-10006,Transfer,2024-07-29,1,1,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00018,MOEI-10006,Promotion,2025-10-05,1,2,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00019,MOEI-10006,Promotion,2026-10-20,2,3,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00020,MOEI-10007,Hire,2026-01-06,,4,,Legal Affairs
+MOV-00021,MOEI-10008,Hire,2018-07-08,,2,,Strategy & Future Foresight
+MOV-00022,MOEI-10008,Promotion,2019-09-16,2,3,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00023,MOEI-10008,Transfer,2024-12-10,3,3,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00024,MOEI-10009,Hire,2022-08-14,,1,,"Petroleum, Gas & Mineral Resources"
+MOV-00025,MOEI-10009,Promotion,2024-03-18,1,2,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00026,MOEI-10010,Hire,2011-01-07,,1,,Strategy & Future Foresight
+MOV-00027,MOEI-10010,Transfer,2014-08-10,1,1,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00028,MOEI-10010,Promotion,2020-05-27,1,2,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00029,MOEI-10010,Promotion,2024-12-14,2,3,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00030,MOEI-10010,Transfer,2026-03-01,3,3,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00031,MOEI-10010,Promotion,2027-03-17,3,4,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00032,MOEI-10011,Hire,2017-09-19,,3,,"Petroleum, Gas & Mineral Resources"
+MOV-00033,MOEI-10011,Transfer,2022-01-31,3,3,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00034,MOEI-10011,Promotion,2024-10-09,3,4,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00035,MOEI-10012,Hire,2013-02-12,,5,,Land & Maritime Transport
+MOV-00036,MOEI-10012,Promotion,2020-03-27,5,6,Land & Maritime Transport,Land & Maritime Transport
+MOV-00037,MOEI-10012,Promotion,2024-09-21,6,7,Land & Maritime Transport,Land & Maritime Transport
+MOV-00038,MOEI-10012,Promotion,2026-02-27,7,8,Land & Maritime Transport,Land & Maritime Transport
+MOV-00039,MOEI-10012,Promotion,2027-03-14,8,9,Land & Maritime Transport,Land & Maritime Transport
+MOV-00040,MOEI-10013,Hire,2021-10-25,,3,,Housing
+MOV-00041,MOEI-10013,Promotion,2024-01-01,3,4,Housing,Housing
+MOV-00042,MOEI-10014,Hire,2024-03-20,,2,,Information Technology
+MOV-00043,MOEI-10015,Hire,2011-10-26,,2,,Customer Happiness
+MOV-00044,MOEI-10015,Promotion,2021-03-08,2,3,Customer Happiness,Customer Happiness
+MOV-00045,MOEI-10015,Promotion,2023-08-19,3,4,Customer Happiness,Customer Happiness
+MOV-00046,MOEI-10015,Promotion,2025-04-05,4,5,Customer Happiness,Customer Happiness
+MOV-00047,MOEI-10015,Promotion,2026-05-01,5,6,Customer Happiness,Customer Happiness
+MOV-00048,MOEI-10016,Hire,2017-12-01,,3,,Energy & Clean Energy
+MOV-00049,MOEI-10016,Promotion,2020-06-22,3,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00050,MOEI-10016,Promotion,2025-07-10,4,5,Energy & Clean Energy,Energy & Clean Energy
+MOV-00051,MOEI-10017,Hire,2017-02-12,,1,,"Petroleum, Gas & Mineral Resources"
+MOV-00052,MOEI-10017,Promotion,2018-04-08,1,2,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00053,MOEI-10017,Promotion,2021-04-26,2,3,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00054,MOEI-10018,Hire,2024-07-08,,2,,Energy & Clean Energy
+MOV-00055,MOEI-10019,Hire,2014-08-14,,4,,Land & Maritime Transport
+MOV-00056,MOEI-10019,Promotion,2016-05-29,4,5,Land & Maritime Transport,Land & Maritime Transport
+MOV-00057,MOEI-10019,Promotion,2017-07-05,5,6,Land & Maritime Transport,Land & Maritime Transport
+MOV-00058,MOEI-10019,Promotion,2020-08-26,6,7,Land & Maritime Transport,Land & Maritime Transport
+MOV-00059,MOEI-10020,Hire,2020-04-25,,3,,Energy & Clean Energy
+MOV-00060,MOEI-10020,Promotion,2021-11-18,3,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00061,MOEI-10020,Transfer,2024-10-10,4,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00062,MOEI-10021,Hire,2020-02-12,,5,,Land & Maritime Transport
+MOV-00063,MOEI-10021,Promotion,2024-08-28,5,6,Land & Maritime Transport,Land & Maritime Transport
+MOV-00064,MOEI-10021,Transfer,2025-10-22,6,6,Land & Maritime Transport,Land & Maritime Transport
+MOV-00065,MOEI-10022,Hire,2021-06-01,,4,,Land & Maritime Transport
+MOV-00066,MOEI-10022,Promotion,2026-01-09,4,5,Land & Maritime Transport,Land & Maritime Transport
+MOV-00067,MOEI-10023,Hire,2024-02-12,,2,,Information Technology
+MOV-00068,MOEI-10024,Hire,2023-08-14,,4,,Finance
+MOV-00069,MOEI-10025,Hire,2017-10-25,,1,,Electricity & Water
+MOV-00070,MOEI-10025,Promotion,2021-05-22,1,2,Electricity & Water,Electricity & Water
+MOV-00071,MOEI-10025,Promotion,2022-07-04,2,3,Electricity & Water,Electricity & Water
+MOV-00072,MOEI-10026,Hire,2020-02-12,,1,,Corporate Communication
+MOV-00073,MOEI-10026,Promotion,2022-09-11,1,2,Corporate Communication,Corporate Communication
+MOV-00074,MOEI-10026,Promotion,2026-04-16,2,3,Corporate Communication,Corporate Communication
+MOV-00075,MOEI-10027,Hire,2021-07-08,,1,,Information Technology
+MOV-00076,MOEI-10027,Promotion,2025-10-31,1,2,Information Technology,Information Technology
+MOV-00077,MOEI-10028,Hire,2008-08-13,,3,,Customer Happiness
+MOV-00078,MOEI-10028,Promotion,2017-11-22,3,4,Customer Happiness,Customer Happiness
+MOV-00079,MOEI-10028,Promotion,2023-06-15,4,5,Customer Happiness,Customer Happiness
+MOV-00080,MOEI-10028,Promotion,2026-01-24,5,6,Customer Happiness,Customer Happiness
+MOV-00081,MOEI-10028,Transfer,2027-02-08,6,6,Customer Happiness,Customer Happiness
+MOV-00082,MOEI-10028,Transfer,2028-02-23,6,6,Customer Happiness,Customer Happiness
+MOV-00083,MOEI-10029,Hire,2017-01-06,,4,,Infrastructure & Assets
+MOV-00084,MOEI-10029,Promotion,2020-06-25,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00085,MOEI-10029,Promotion,2022-12-30,5,6,Infrastructure & Assets,Infrastructure & Assets
+MOV-00086,MOEI-10029,Promotion,2024-05-22,6,7,Infrastructure & Assets,Infrastructure & Assets
+MOV-00087,MOEI-10030,Hire,2021-12-01,,5,,Infrastructure & Assets
+MOV-00088,MOEI-10030,Promotion,2026-04-01,5,6,Infrastructure & Assets,Infrastructure & Assets
+MOV-00089,MOEI-10031,Hire,2020-02-12,,2,,Corporate Communication
+MOV-00090,MOEI-10031,Promotion,2023-04-21,2,3,Corporate Communication,Corporate Communication
+MOV-00091,MOEI-10031,Promotion,2026-01-01,3,4,Corporate Communication,Corporate Communication
+MOV-00092,MOEI-10032,Hire,2024-08-13,,2,,Corporate Communication
+MOV-00093,MOEI-10033,Hire,2015-01-07,,2,,Internal Audit
+MOV-00094,MOEI-10033,Promotion,2025-02-09,2,3,Internal Audit,Internal Audit
+MOV-00095,MOEI-10033,Promotion,2026-04-25,3,4,Internal Audit,Internal Audit
+MOV-00096,MOEI-10033,Promotion,2027-05-10,4,5,Internal Audit,Internal Audit
+MOV-00097,MOEI-10034,Hire,2022-06-01,,3,,Finance
+MOV-00098,MOEI-10034,Transfer,2024-09-01,3,3,Finance,Finance
+MOV-00099,MOEI-10035,Hire,2014-02-12,,2,,Electricity & Water
+MOV-00100,MOEI-10035,Promotion,2024-03-01,2,3,Electricity & Water,Electricity & Water
+MOV-00101,MOEI-10035,Promotion,2025-05-28,3,4,Electricity & Water,Electricity & Water
+MOV-00102,MOEI-10035,Promotion,2026-06-12,4,5,Electricity & Water,Electricity & Water
+MOV-00103,MOEI-10035,Transfer,2027-06-27,5,5,Electricity & Water,Electricity & Water
+MOV-00104,MOEI-10036,Hire,2019-09-19,,1,,Human Resources
+MOV-00105,MOEI-10036,Promotion,2025-04-13,1,2,Human Resources,Human Resources
+MOV-00106,MOEI-10036,Promotion,2026-05-01,2,3,Human Resources,Human Resources
+MOV-00107,MOEI-10037,Hire,2020-02-12,,2,,Energy & Clean Energy
+MOV-00108,MOEI-10037,Promotion,2023-12-17,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00109,MOEI-10037,Promotion,2025-05-03,3,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00110,MOEI-10038,Hire,2022-07-08,,5,,Electricity & Water
+MOV-00111,MOEI-10038,Promotion,2024-08-12,5,6,Electricity & Water,Electricity & Water
+MOV-00112,MOEI-10039,Hire,2011-01-07,,3,,Human Resources
+MOV-00113,MOEI-10039,Promotion,2022-09-12,3,4,Human Resources,Human Resources
+MOV-00114,MOEI-10039,Promotion,2026-02-01,4,5,Human Resources,Human Resources
+MOV-00115,MOEI-10039,Promotion,2027-02-16,5,6,Human Resources,Human Resources
+MOV-00116,MOEI-10039,Promotion,2028-03-02,6,7,Human Resources,Human Resources
+MOV-00117,MOEI-10039,Promotion,2029-03-18,7,8,Human Resources,Human Resources
+MOV-00118,MOEI-10040,Hire,2018-02-12,,3,,Electricity & Water
+MOV-00119,MOEI-10040,Promotion,2024-01-22,3,4,Electricity & Water,Electricity & Water
+MOV-00120,MOEI-10040,Promotion,2025-10-13,4,5,Electricity & Water,Electricity & Water
+MOV-00121,MOEI-10041,Hire,2023-03-21,,1,,Energy & Clean Energy
+MOV-00122,MOEI-10041,Promotion,2024-12-16,1,2,Energy & Clean Energy,Energy & Clean Energy
+MOV-00123,MOEI-10042,Hire,2026-01-06,,7,,Energy & Clean Energy
+MOV-00124,MOEI-10043,Hire,2020-04-25,,3,,Information Technology
+MOV-00125,MOEI-10043,Promotion,2024-06-25,3,4,Information Technology,Information Technology
+MOV-00126,MOEI-10043,Promotion,2026-01-04,4,5,Information Technology,Information Technology
+MOV-00127,MOEI-10044,Hire,2023-02-12,,6,,Information Technology
+MOV-00128,MOEI-10044,Promotion,2025-03-07,6,7,Information Technology,Information Technology
+MOV-00129,MOEI-10045,Hire,2011-08-14,,2,,Infrastructure & Assets
+MOV-00130,MOEI-10045,Promotion,2020-06-01,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00131,MOEI-10045,Promotion,2022-08-27,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00132,MOEI-10045,Promotion,2026-02-24,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00133,MOEI-10045,Promotion,2027-03-11,5,6,Infrastructure & Assets,Infrastructure & Assets
+MOV-00134,MOEI-10046,Hire,2022-08-14,,1,,Energy & Clean Energy
+MOV-00135,MOEI-10047,Hire,2021-07-08,,3,,Infrastructure & Assets
+MOV-00136,MOEI-10047,Promotion,2023-07-24,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00137,MOEI-10048,Hire,2022-08-14,,2,,Internal Audit
+MOV-00138,MOEI-10048,Promotion,2023-09-08,2,3,Internal Audit,Internal Audit
+MOV-00139,MOEI-10049,Hire,2020-09-19,,2,,Legal Affairs
+MOV-00140,MOEI-10049,Promotion,2023-10-13,2,3,Legal Affairs,Legal Affairs
+MOV-00141,MOEI-10050,Hire,2024-01-07,,5,,Housing
+MOV-00142,MOEI-10051,Hire,2019-04-26,,4,,Infrastructure & Assets
+MOV-00143,MOEI-10051,Promotion,2020-06-01,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00144,MOEI-10051,Transfer,2023-04-19,5,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00145,MOEI-10052,Hire,2019-08-14,,1,,Legal Affairs
+MOV-00146,MOEI-10052,Promotion,2024-10-16,1,2,Legal Affairs,Legal Affairs
+MOV-00147,MOEI-10052,Promotion,2026-03-08,2,3,Legal Affairs,Legal Affairs
+MOV-00148,MOEI-10053,Hire,2019-10-26,,3,,Strategy & Future Foresight
+MOV-00149,MOEI-10053,Promotion,2024-04-04,3,4,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00150,MOEI-10053,Promotion,2026-03-16,4,5,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00151,MOEI-10054,Hire,2020-12-01,,3,,Corporate Communication
+MOV-00152,MOEI-10054,Promotion,2024-08-22,3,4,Corporate Communication,Corporate Communication
+MOV-00153,MOEI-10055,Hire,2017-01-06,,2,,Electricity & Water
+MOV-00154,MOEI-10055,Promotion,2025-11-08,2,3,Electricity & Water,Electricity & Water
+MOV-00155,MOEI-10055,Promotion,2026-11-24,3,4,Electricity & Water,Electricity & Water
+MOV-00156,MOEI-10055,Promotion,2027-12-09,4,5,Electricity & Water,Electricity & Water
+MOV-00157,MOEI-10056,Hire,2014-01-06,,4,,Infrastructure & Assets
+MOV-00158,MOEI-10056,Promotion,2025-08-12,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00159,MOEI-10056,Promotion,2026-08-28,5,6,Infrastructure & Assets,Infrastructure & Assets
+MOV-00160,MOEI-10056,Promotion,2027-09-13,6,7,Infrastructure & Assets,Infrastructure & Assets
+MOV-00161,MOEI-10056,Transfer,2028-09-27,7,7,Infrastructure & Assets,Infrastructure & Assets
+MOV-00162,MOEI-10057,Hire,2022-08-14,,7,,Infrastructure & Assets
+MOV-00163,MOEI-10057,Promotion,2023-09-27,7,8,Infrastructure & Assets,Infrastructure & Assets
+MOV-00164,MOEI-10058,Hire,2023-03-21,,1,,Corporate Communication
+MOV-00165,MOEI-10058,Promotion,2026-04-04,1,2,Corporate Communication,Corporate Communication
+MOV-00166,MOEI-10059,Hire,2016-02-12,,2,,Infrastructure & Assets
+MOV-00167,MOEI-10059,Promotion,2025-05-30,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00168,MOEI-10059,Transfer,2026-06-14,3,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00169,MOEI-10059,Transfer,2027-06-29,3,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00170,MOEI-10060,Hire,2021-03-20,,2,,Human Resources
+MOV-00171,MOEI-10060,Promotion,2025-10-30,2,3,Human Resources,Human Resources
+MOV-00172,MOEI-10061,Hire,2017-01-06,,1,,Legal Affairs
+MOV-00173,MOEI-10061,Transfer,2021-07-31,1,1,Legal Affairs,Legal Affairs
+MOV-00174,MOEI-10061,Promotion,2025-09-02,1,2,Legal Affairs,Legal Affairs
+MOV-00175,MOEI-10062,Hire,2020-01-07,,3,,"Petroleum, Gas & Mineral Resources"
+MOV-00176,MOEI-10062,Promotion,2025-11-02,3,4,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00177,MOEI-10062,Promotion,2026-11-17,4,5,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00178,MOEI-10063,Hire,2021-04-26,,2,,Energy & Clean Energy
+MOV-00179,MOEI-10063,Promotion,2026-02-15,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00180,MOEI-10064,Hire,2025-09-19,,5,,Electricity & Water
+MOV-00181,MOEI-10065,Hire,2022-02-12,,2,,Finance
+MOV-00182,MOEI-10065,Promotion,2024-12-06,2,3,Finance,Finance
+MOV-00183,MOEI-10066,Hire,2020-02-12,,2,,Procurement & Contracts
+MOV-00184,MOEI-10066,Promotion,2022-02-07,2,3,Procurement & Contracts,Procurement & Contracts
+MOV-00185,MOEI-10066,Promotion,2025-03-13,3,4,Procurement & Contracts,Procurement & Contracts
+MOV-00186,MOEI-10067,Hire,2023-04-26,,4,,Housing
+MOV-00187,MOEI-10067,Promotion,2026-03-21,4,5,Housing,Housing
+MOV-00188,MOEI-10068,Hire,2020-03-20,,3,,Internal Audit
+MOV-00189,MOEI-10068,Promotion,2025-12-14,3,4,Internal Audit,Internal Audit
+MOV-00190,MOEI-10068,Transfer,2026-12-29,4,4,Internal Audit,Internal Audit
+MOV-00191,MOEI-10069,Hire,2026-01-06,,7,,Land & Maritime Transport
+MOV-00192,MOEI-10070,Hire,2021-07-08,,4,,Infrastructure & Assets
+MOV-00193,MOEI-10070,Transfer,2025-05-15,4,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00194,MOEI-10071,Hire,2020-09-19,,5,,Internal Audit
+MOV-00195,MOEI-10071,Transfer,2023-04-03,5,5,Internal Audit,Internal Audit
+MOV-00196,MOEI-10072,Hire,2021-07-08,,5,,Finance
+MOV-00197,MOEI-10072,Transfer,2025-01-16,5,5,Finance,Finance
+MOV-00198,MOEI-10073,Hire,2024-12-01,,1,,Customer Happiness
+MOV-00199,MOEI-10074,Hire,2025-01-06,,4,,Procurement & Contracts
+MOV-00200,MOEI-10075,Hire,2021-07-08,,4,,Corporate Communication
+MOV-00201,MOEI-10075,Promotion,2025-12-20,4,5,Corporate Communication,Corporate Communication
+MOV-00202,MOEI-10076,Hire,2020-06-01,,2,,Land & Maritime Transport
+MOV-00203,MOEI-10076,Promotion,2024-04-16,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00204,MOEI-10077,Hire,2020-10-25,,3,,"Petroleum, Gas & Mineral Resources"
+MOV-00205,MOEI-10077,Promotion,2025-06-02,3,4,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00206,MOEI-10078,Hire,2018-12-01,,3,,Corporate Communication
+MOV-00207,MOEI-10078,Promotion,2019-12-29,3,4,Corporate Communication,Corporate Communication
+MOV-00208,MOEI-10078,Promotion,2024-03-05,4,5,Corporate Communication,Corporate Communication
+MOV-00209,MOEI-10079,Hire,2020-02-12,,2,,Procurement & Contracts
+MOV-00210,MOEI-10079,Promotion,2023-01-26,2,3,Procurement & Contracts,Procurement & Contracts
+MOV-00211,MOEI-10079,Transfer,2026-01-23,3,3,Procurement & Contracts,Procurement & Contracts
+MOV-00212,MOEI-10080,Hire,2023-09-19,,5,,Land & Maritime Transport
+MOV-00213,MOEI-10081,Hire,2019-02-12,,2,,Infrastructure & Assets
+MOV-00214,MOEI-10081,Transfer,2025-05-07,2,2,Infrastructure & Assets,Infrastructure & Assets
+MOV-00215,MOEI-10081,Promotion,2026-05-22,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00216,MOEI-10082,Hire,2019-01-07,,1,,Infrastructure & Assets
+MOV-00217,MOEI-10082,Promotion,2021-01-09,1,2,Infrastructure & Assets,Infrastructure & Assets
+MOV-00218,MOEI-10082,Promotion,2025-05-18,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00219,MOEI-10083,Hire,2020-02-12,,4,,Corporate Communication
+MOV-00220,MOEI-10083,Promotion,2021-04-08,4,5,Corporate Communication,Corporate Communication
+MOV-00221,MOEI-10083,Promotion,2022-05-14,5,6,Corporate Communication,Corporate Communication
+MOV-00222,MOEI-10084,Hire,2023-04-26,,5,,Information Technology
+MOV-00223,MOEI-10084,Promotion,2025-05-28,5,6,Information Technology,Information Technology
+MOV-00224,MOEI-10085,Hire,2013-08-13,,2,,Energy & Clean Energy
+MOV-00225,MOEI-10085,Promotion,2020-03-10,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00226,MOEI-10085,Promotion,2025-01-17,3,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00227,MOEI-10085,Promotion,2026-02-25,4,5,Energy & Clean Energy,Energy & Clean Energy
+MOV-00228,MOEI-10085,Promotion,2027-03-12,5,6,Energy & Clean Energy,Energy & Clean Energy
+MOV-00229,MOEI-10086,Hire,2015-12-01,,1,,Land & Maritime Transport
+MOV-00230,MOEI-10086,Promotion,2021-03-17,1,2,Land & Maritime Transport,Land & Maritime Transport
+MOV-00231,MOEI-10086,Promotion,2023-03-31,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00232,MOEI-10086,Promotion,2025-11-13,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00233,MOEI-10087,Hire,2025-07-08,,7,,Human Resources
+MOV-00234,MOEI-10088,Hire,2023-06-02,,3,,Energy & Clean Energy
+MOV-00235,MOEI-10089,Hire,2012-02-12,,5,,Infrastructure & Assets
+MOV-00236,MOEI-10089,Promotion,2018-03-23,5,6,Infrastructure & Assets,Infrastructure & Assets
+MOV-00237,MOEI-10089,Promotion,2022-04-28,6,7,Infrastructure & Assets,Infrastructure & Assets
+MOV-00238,MOEI-10089,Promotion,2024-05-09,7,8,Infrastructure & Assets,Infrastructure & Assets
+MOV-00239,MOEI-10089,Promotion,2025-10-03,8,9,Infrastructure & Assets,Infrastructure & Assets
+MOV-00240,MOEI-10090,Hire,2018-08-14,,4,,Information Technology
+MOV-00241,MOEI-10090,Transfer,2022-08-16,4,4,Information Technology,Information Technology
+MOV-00242,MOEI-10090,Promotion,2024-08-28,4,5,Information Technology,Information Technology
+MOV-00243,MOEI-10091,Hire,2026-01-06,,4,,Strategy & Future Foresight
+MOV-00244,MOEI-10092,Hire,2026-01-06,,4,,Information Technology
+MOV-00245,MOEI-10093,Hire,2023-10-26,,3,,Customer Happiness
+MOV-00246,MOEI-10094,Hire,2022-08-14,,1,,Legal Affairs
+MOV-00247,MOEI-10094,Promotion,2024-08-20,1,2,Legal Affairs,Legal Affairs
+MOV-00248,MOEI-10095,Hire,2021-12-01,,1,,Land & Maritime Transport
+MOV-00249,MOEI-10095,Promotion,2025-11-21,1,2,Land & Maritime Transport,Land & Maritime Transport
+MOV-00250,MOEI-10096,Hire,2025-09-19,,5,,Information Technology
+MOV-00251,MOEI-10097,Hire,2012-09-19,,1,,Corporate Communication
+MOV-00252,MOEI-10097,Transfer,2017-07-31,1,1,Corporate Communication,Corporate Communication
+MOV-00253,MOEI-10097,Promotion,2025-03-08,1,2,Corporate Communication,Corporate Communication
+MOV-00254,MOEI-10097,Promotion,2026-04-26,2,3,Corporate Communication,Corporate Communication
+MOV-00255,MOEI-10097,Promotion,2027-05-12,3,4,Corporate Communication,Corporate Communication
+MOV-00256,MOEI-10098,Hire,2017-08-13,,2,,Land & Maritime Transport
+MOV-00257,MOEI-10098,Promotion,2026-04-21,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00258,MOEI-10098,Promotion,2027-05-06,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00259,MOEI-10099,Hire,2018-12-01,,1,,Finance
+MOV-00260,MOEI-10099,Promotion,2025-08-09,1,2,Finance,Finance
+MOV-00261,MOEI-10099,Transfer,2026-08-25,2,2,Finance,Finance
+MOV-00262,MOEI-10100,Hire,2022-12-01,,1,,Housing
+MOV-00263,MOEI-10100,Promotion,2026-02-14,1,2,Housing,Housing
+MOV-00264,MOEI-10101,Hire,2016-03-20,,1,,Housing
+MOV-00265,MOEI-10101,Promotion,2019-09-14,1,2,Housing,Housing
+MOV-00266,MOEI-10101,Promotion,2020-12-01,2,3,Housing,Housing
+MOV-00267,MOEI-10101,Promotion,2024-11-08,3,4,Housing,Housing
+MOV-00268,MOEI-10102,Hire,2019-08-14,,3,,Land & Maritime Transport
+MOV-00269,MOEI-10102,Promotion,2022-09-30,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00270,MOEI-10102,Promotion,2025-02-04,4,5,Land & Maritime Transport,Land & Maritime Transport
+MOV-00271,MOEI-10103,Hire,2017-12-01,,3,,Land & Maritime Transport
+MOV-00272,MOEI-10103,Promotion,2023-02-17,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00273,MOEI-10103,Promotion,2026-01-06,4,5,Land & Maritime Transport,Land & Maritime Transport
+MOV-00274,MOEI-10104,Hire,2021-12-01,,3,,Finance
+MOV-00275,MOEI-10104,Promotion,2023-02-23,3,4,Finance,Finance
+MOV-00276,MOEI-10105,Hire,2019-09-19,,2,,"Petroleum, Gas & Mineral Resources"
+MOV-00277,MOEI-10105,Promotion,2021-05-05,2,3,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00278,MOEI-10105,Promotion,2022-06-05,3,4,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00279,MOEI-10106,Hire,2019-02-12,,3,,Land & Maritime Transport
+MOV-00280,MOEI-10106,Promotion,2025-06-27,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00281,MOEI-10106,Promotion,2026-07-12,4,5,Land & Maritime Transport,Land & Maritime Transport
+MOV-00282,MOEI-10107,Hire,2022-12-01,,3,,Legal Affairs
+MOV-00283,MOEI-10107,Promotion,2024-12-16,3,4,Legal Affairs,Legal Affairs
+MOV-00284,MOEI-10108,Hire,2015-06-02,,3,,Human Resources
+MOV-00285,MOEI-10108,Promotion,2021-09-10,3,4,Human Resources,Human Resources
+MOV-00286,MOEI-10108,Promotion,2022-11-08,4,5,Human Resources,Human Resources
+MOV-00287,MOEI-10108,Promotion,2025-08-15,5,6,Human Resources,Human Resources
+MOV-00288,MOEI-10109,Hire,2014-04-26,,1,,Procurement & Contracts
+MOV-00289,MOEI-10109,Promotion,2021-10-25,1,2,Procurement & Contracts,Procurement & Contracts
+MOV-00290,MOEI-10109,Promotion,2025-02-03,2,3,Procurement & Contracts,Procurement & Contracts
+MOV-00291,MOEI-10109,Promotion,2026-03-21,3,4,Procurement & Contracts,Procurement & Contracts
+MOV-00292,MOEI-10109,Promotion,2027-04-06,4,5,Procurement & Contracts,Procurement & Contracts
+MOV-00293,MOEI-10110,Hire,2022-06-01,,1,,Energy & Clean Energy
+MOV-00294,MOEI-10110,Promotion,2026-02-28,1,2,Energy & Clean Energy,Energy & Clean Energy
+MOV-00295,MOEI-10111,Hire,2015-08-14,,1,,Human Resources
+MOV-00296,MOEI-10111,Transfer,2020-01-09,1,1,Human Resources,Human Resources
+MOV-00297,MOEI-10111,Promotion,2026-04-09,1,2,Human Resources,Human Resources
+MOV-00298,MOEI-10111,Promotion,2027-04-24,2,3,Human Resources,Human Resources
+MOV-00299,MOEI-10112,Hire,2015-04-26,,2,,Infrastructure & Assets
+MOV-00300,MOEI-10112,Promotion,2025-01-13,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00301,MOEI-10112,Promotion,2026-04-11,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00302,MOEI-10112,Promotion,2027-04-26,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00303,MOEI-10113,Hire,2016-06-01,,2,,Land & Maritime Transport
+MOV-00304,MOEI-10113,Promotion,2019-04-28,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00305,MOEI-10113,Promotion,2026-03-28,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00306,MOEI-10113,Transfer,2027-04-12,4,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00307,MOEI-10114,Hire,2020-09-19,,3,,Finance
+MOV-00308,MOEI-10114,Promotion,2023-08-17,3,4,Finance,Finance
+MOV-00309,MOEI-10115,Hire,2023-02-12,,3,,Legal Affairs
+MOV-00310,MOEI-10115,Promotion,2024-04-22,3,4,Legal Affairs,Legal Affairs
+MOV-00311,MOEI-10116,Hire,2025-02-12,,3,,Legal Affairs
+MOV-00312,MOEI-10117,Hire,2025-06-01,,3,,Information Technology
+MOV-00313,MOEI-10118,Hire,2021-04-26,,2,,"Petroleum, Gas & Mineral Resources"
+MOV-00314,MOEI-10118,Promotion,2024-02-03,2,3,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00315,MOEI-10119,Hire,2016-06-01,,3,,Infrastructure & Assets
+MOV-00316,MOEI-10119,Promotion,2019-01-16,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00317,MOEI-10119,Promotion,2025-03-23,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00318,MOEI-10119,Transfer,2026-04-21,5,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00319,MOEI-10120,Hire,2018-04-26,,2,,Land & Maritime Transport
+MOV-00320,MOEI-10120,Promotion,2021-01-04,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00321,MOEI-10120,Promotion,2023-01-06,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00322,MOEI-10121,Hire,2018-12-01,,3,,Procurement & Contracts
+MOV-00323,MOEI-10121,Promotion,2020-11-09,3,4,Procurement & Contracts,Procurement & Contracts
+MOV-00324,MOEI-10121,Promotion,2023-01-14,4,5,Procurement & Contracts,Procurement & Contracts
+MOV-00325,MOEI-10122,Hire,2023-01-07,,2,,Legal Affairs
+MOV-00326,MOEI-10122,Promotion,2026-02-01,2,3,Legal Affairs,Legal Affairs
+MOV-00327,MOEI-10123,Hire,2021-10-25,,2,,Information Technology
+MOV-00328,MOEI-10123,Promotion,2025-12-20,2,3,Information Technology,Information Technology
+MOV-00329,MOEI-10124,Hire,2020-07-08,,3,,Corporate Communication
+MOV-00330,MOEI-10124,Transfer,2023-08-28,3,3,Corporate Communication,Corporate Communication
+MOV-00331,MOEI-10125,Hire,2024-10-25,,2,,Finance
+MOV-00332,MOEI-10126,Hire,2022-10-26,,1,,Electricity & Water
+MOV-00333,MOEI-10126,Promotion,2024-04-21,1,2,Electricity & Water,Electricity & Water
+MOV-00334,MOEI-10127,Hire,2018-01-06,,2,,Corporate Communication
+MOV-00335,MOEI-10127,Promotion,2024-05-02,2,3,Corporate Communication,Corporate Communication
+MOV-00336,MOEI-10127,Promotion,2025-12-04,3,4,Corporate Communication,Corporate Communication
+MOV-00337,MOEI-10128,Hire,2012-04-25,,4,,Housing
+MOV-00338,MOEI-10128,Promotion,2023-12-13,4,5,Housing,Housing
+MOV-00339,MOEI-10128,Promotion,2026-02-25,5,6,Housing,Housing
+MOV-00340,MOEI-10128,Promotion,2027-03-12,6,7,Housing,Housing
+MOV-00341,MOEI-10128,Promotion,2028-03-26,7,8,Housing,Housing
+MOV-00342,MOEI-10129,Hire,2021-02-12,,5,,Human Resources
+MOV-00343,MOEI-10129,Promotion,2023-12-10,5,6,Human Resources,Human Resources
+MOV-00344,MOEI-10130,Hire,2016-08-13,,2,,Customer Happiness
+MOV-00345,MOEI-10130,Promotion,2019-02-25,2,3,Customer Happiness,Customer Happiness
+MOV-00346,MOEI-10130,Promotion,2023-11-10,3,4,Customer Happiness,Customer Happiness
+MOV-00347,MOEI-10130,Promotion,2026-02-01,4,5,Customer Happiness,Customer Happiness
+MOV-00348,MOEI-10131,Hire,2024-07-08,,6,,Energy & Clean Energy
+MOV-00349,MOEI-10132,Hire,2017-01-06,,1,,Land & Maritime Transport
+MOV-00350,MOEI-10132,Transfer,2024-01-17,1,1,Land & Maritime Transport,Land & Maritime Transport
+MOV-00351,MOEI-10132,Promotion,2025-10-08,1,2,Land & Maritime Transport,Land & Maritime Transport
+MOV-00352,MOEI-10132,Promotion,2026-10-23,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00353,MOEI-10133,Hire,2016-09-19,,1,,Land & Maritime Transport
+MOV-00354,MOEI-10133,Promotion,2024-07-31,1,2,Land & Maritime Transport,Land & Maritime Transport
+MOV-00355,MOEI-10133,Promotion,2025-12-13,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00356,MOEI-10133,Promotion,2026-12-29,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00357,MOEI-10134,Hire,2011-07-08,,5,,Finance
+MOV-00358,MOEI-10134,Promotion,2012-08-04,5,6,Finance,Finance
+MOV-00359,MOEI-10134,Promotion,2022-07-24,6,7,Finance,Finance
+MOV-00360,MOEI-10134,Promotion,2025-05-30,7,8,Finance,Finance
+MOV-00361,MOEI-10134,Promotion,2026-06-15,8,9,Finance,Finance
+MOV-00362,MOEI-10135,Hire,2021-12-01,,4,,Internal Audit
+MOV-00363,MOEI-10135,Promotion,2024-02-21,4,5,Internal Audit,Internal Audit
+MOV-00364,MOEI-10136,Hire,2022-06-01,,2,,Energy & Clean Energy
+MOV-00365,MOEI-10136,Promotion,2023-12-23,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00366,MOEI-10137,Hire,2014-07-08,,2,,Housing
+MOV-00367,MOEI-10137,Promotion,2022-11-21,2,3,Housing,Housing
+MOV-00368,MOEI-10137,Promotion,2024-05-08,3,4,Housing,Housing
+MOV-00369,MOEI-10137,Promotion,2025-12-07,4,5,Housing,Housing
+MOV-00370,MOEI-10138,Hire,2024-01-07,,3,,Infrastructure & Assets
+MOV-00371,MOEI-10139,Hire,2022-08-14,,2,,Internal Audit
+MOV-00372,MOEI-10139,Transfer,2025-01-02,2,2,Internal Audit,Internal Audit
+MOV-00373,MOEI-10140,Hire,2022-09-19,,5,,Information Technology
+MOV-00374,MOEI-10140,Promotion,2024-12-08,5,6,Information Technology,Information Technology
+MOV-00375,MOEI-10141,Hire,2024-09-19,,4,,Customer Happiness
+MOV-00376,MOEI-10142,Hire,2021-07-08,,1,,Infrastructure & Assets
+MOV-00377,MOEI-10142,Promotion,2024-10-15,1,2,Infrastructure & Assets,Infrastructure & Assets
+MOV-00378,MOEI-10143,Hire,2019-09-19,,1,,Housing
+MOV-00379,MOEI-10143,Transfer,2025-06-07,1,1,Housing,Housing
+MOV-00380,MOEI-10144,Hire,2014-10-26,,1,,Housing
+MOV-00381,MOEI-10144,Transfer,2024-11-24,1,1,Housing,Housing
+MOV-00382,MOEI-10144,Promotion,2026-01-03,1,2,Housing,Housing
+MOV-00383,MOEI-10144,Promotion,2027-01-19,2,3,Housing,Housing
+MOV-00384,MOEI-10145,Hire,2013-12-01,,1,,Infrastructure & Assets
+MOV-00385,MOEI-10145,Promotion,2015-03-26,1,2,Infrastructure & Assets,Infrastructure & Assets
+MOV-00386,MOEI-10145,Promotion,2017-09-18,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00387,MOEI-10145,Promotion,2023-01-22,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00388,MOEI-10145,Promotion,2024-02-17,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00389,MOEI-10146,Hire,2017-07-08,,2,,Electricity & Water
+MOV-00390,MOEI-10146,Promotion,2026-01-27,2,3,Electricity & Water,Electricity & Water
+MOV-00391,MOEI-10146,Promotion,2027-02-11,3,4,Electricity & Water,Electricity & Water
+MOV-00392,MOEI-10147,Hire,2022-01-06,,2,,Legal Affairs
+MOV-00393,MOEI-10147,Promotion,2024-07-03,2,3,Legal Affairs,Legal Affairs
+MOV-00394,MOEI-10148,Hire,2021-12-01,,6,,"Petroleum, Gas & Mineral Resources"
+MOV-00395,MOEI-10148,Promotion,2023-08-10,6,7,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00396,MOEI-10149,Hire,2024-08-13,,5,,Information Technology
+MOV-00397,MOEI-10150,Hire,2015-12-01,,5,,Housing
+MOV-00398,MOEI-10150,Promotion,2025-12-14,5,6,Housing,Housing
+MOV-00399,MOEI-10150,Promotion,2026-12-30,6,7,Housing,Housing
+MOV-00400,MOEI-10150,Promotion,2028-01-15,7,8,Housing,Housing
+MOV-00401,MOEI-10151,Hire,2015-02-12,,2,,"Petroleum, Gas & Mineral Resources"
+MOV-00402,MOEI-10151,Transfer,2020-03-31,2,2,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00403,MOEI-10151,Promotion,2022-04-16,2,3,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00404,MOEI-10151,Promotion,2026-04-23,3,4,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00405,MOEI-10152,Hire,2021-06-01,,4,,Procurement & Contracts
+MOV-00406,MOEI-10152,Transfer,2026-03-28,4,4,Procurement & Contracts,Procurement & Contracts
+MOV-00407,MOEI-10153,Hire,2020-08-13,,2,,Infrastructure & Assets
+MOV-00408,MOEI-10153,Promotion,2021-09-11,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00409,MOEI-10154,Hire,2022-08-14,,4,,Strategy & Future Foresight
+MOV-00410,MOEI-10154,Promotion,2026-04-11,4,5,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00411,MOEI-10155,Hire,2000-04-25,,1,,Land & Maritime Transport
+MOV-00412,MOEI-10155,Promotion,2012-12-02,1,2,Land & Maritime Transport,Land & Maritime Transport
+MOV-00413,MOEI-10155,Promotion,2024-03-01,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00414,MOEI-10155,Promotion,2025-11-08,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00415,MOEI-10155,Promotion,2026-11-23,4,5,Land & Maritime Transport,Land & Maritime Transport
+MOV-00416,MOEI-10155,Promotion,2027-12-09,5,6,Land & Maritime Transport,Land & Maritime Transport
+MOV-00417,MOEI-10155,Promotion,2028-12-24,6,7,Land & Maritime Transport,Land & Maritime Transport
+MOV-00418,MOEI-10155,Promotion,2030-01-09,7,8,Land & Maritime Transport,Land & Maritime Transport
+MOV-00419,MOEI-10155,Promotion,2031-01-24,8,9,Land & Maritime Transport,Land & Maritime Transport
+MOV-00420,MOEI-10156,Hire,2014-01-06,,1,,Infrastructure & Assets
+MOV-00421,MOEI-10156,Promotion,2019-01-24,1,2,Infrastructure & Assets,Infrastructure & Assets
+MOV-00422,MOEI-10156,Transfer,2024-10-12,2,2,Infrastructure & Assets,Infrastructure & Assets
+MOV-00423,MOEI-10156,Promotion,2026-01-18,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00424,MOEI-10157,Hire,2023-03-21,,4,,Land & Maritime Transport
+MOV-00425,MOEI-10157,Promotion,2024-05-10,4,5,Land & Maritime Transport,Land & Maritime Transport
+MOV-00426,MOEI-10158,Hire,2009-02-12,,1,,Infrastructure & Assets
+MOV-00427,MOEI-10158,Promotion,2018-03-03,1,2,Infrastructure & Assets,Infrastructure & Assets
+MOV-00428,MOEI-10158,Promotion,2025-03-02,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00429,MOEI-10158,Promotion,2026-04-01,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00430,MOEI-10158,Transfer,2027-04-16,4,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00431,MOEI-10159,Hire,2013-01-06,,3,,Procurement & Contracts
+MOV-00432,MOEI-10159,Promotion,2017-04-19,3,4,Procurement & Contracts,Procurement & Contracts
+MOV-00433,MOEI-10159,Promotion,2023-03-04,4,5,Procurement & Contracts,Procurement & Contracts
+MOV-00434,MOEI-10159,Promotion,2025-03-06,5,6,Procurement & Contracts,Procurement & Contracts
+MOV-00435,MOEI-10159,Promotion,2026-04-29,6,7,Procurement & Contracts,Procurement & Contracts
+MOV-00436,MOEI-10160,Hire,2021-09-19,,2,,Corporate Communication
+MOV-00437,MOEI-10160,Promotion,2025-09-10,2,3,Corporate Communication,Corporate Communication
+MOV-00438,MOEI-10161,Hire,2019-10-26,,3,,Infrastructure & Assets
+MOV-00439,MOEI-10161,Transfer,2021-01-31,3,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00440,MOEI-10161,Transfer,2024-03-19,3,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00441,MOEI-10162,Hire,2024-09-19,,2,,Information Technology
+MOV-00442,MOEI-10163,Hire,2019-08-14,,1,,Internal Audit
+MOV-00443,MOEI-10163,Promotion,2021-10-16,1,2,Internal Audit,Internal Audit
+MOV-00444,MOEI-10163,Promotion,2023-04-10,2,3,Internal Audit,Internal Audit
+MOV-00445,MOEI-10164,Hire,2022-06-01,,4,,Strategy & Future Foresight
+MOV-00446,MOEI-10164,Promotion,2025-02-23,4,5,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00447,MOEI-10165,Hire,2019-01-07,,2,,Information Technology
+MOV-00448,MOEI-10165,Promotion,2020-04-22,2,3,Information Technology,Information Technology
+MOV-00449,MOEI-10165,Promotion,2025-07-14,3,4,Information Technology,Information Technology
+MOV-00450,MOEI-10166,Hire,2009-07-08,,1,,"Petroleum, Gas & Mineral Resources"
+MOV-00451,MOEI-10166,Promotion,2025-03-14,1,2,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00452,MOEI-10166,Promotion,2026-04-03,2,3,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00453,MOEI-10166,Promotion,2027-04-19,3,4,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00454,MOEI-10166,Promotion,2028-05-03,4,5,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00455,MOEI-10166,Promotion,2029-05-19,5,6,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00456,MOEI-10167,Hire,2020-08-13,,1,,Information Technology
+MOV-00457,MOEI-10167,Promotion,2024-09-05,1,2,Information Technology,Information Technology
+MOV-00458,MOEI-10168,Hire,2021-01-06,,2,,Energy & Clean Energy
+MOV-00459,MOEI-10168,Promotion,2023-06-04,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00460,MOEI-10169,Hire,2026-01-06,,6,,Land & Maritime Transport
+MOV-00461,MOEI-10170,Hire,2020-03-20,,1,,Customer Happiness
+MOV-00462,MOEI-10170,Promotion,2021-07-13,1,2,Customer Happiness,Customer Happiness
+MOV-00463,MOEI-10171,Hire,2016-01-07,,1,,Strategy & Future Foresight
+MOV-00464,MOEI-10171,Promotion,2022-05-12,1,2,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00465,MOEI-10171,Promotion,2025-11-06,2,3,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00466,MOEI-10171,Promotion,2026-11-21,3,4,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00467,MOEI-10172,Hire,2022-10-26,,1,,Customer Happiness
+MOV-00468,MOEI-10173,Hire,2022-09-19,,2,,Electricity & Water
+MOV-00469,MOEI-10173,Transfer,2025-08-21,2,2,Electricity & Water,Electricity & Water
+MOV-00470,MOEI-10174,Hire,2013-04-26,,1,,Corporate Communication
+MOV-00471,MOEI-10174,Promotion,2023-04-19,1,2,Corporate Communication,Corporate Communication
+MOV-00472,MOEI-10174,Promotion,2026-03-28,2,3,Corporate Communication,Corporate Communication
+MOV-00473,MOEI-10174,Promotion,2027-04-12,3,4,Corporate Communication,Corporate Communication
+MOV-00474,MOEI-10175,Hire,2016-08-13,,2,,Infrastructure & Assets
+MOV-00475,MOEI-10175,Promotion,2017-11-12,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00476,MOEI-10175,Transfer,2026-04-10,3,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00477,MOEI-10175,Promotion,2027-04-26,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00478,MOEI-10176,Hire,2008-03-20,,1,,Legal Affairs
+MOV-00479,MOEI-10176,Promotion,2023-06-30,1,2,Legal Affairs,Legal Affairs
+MOV-00480,MOEI-10176,Promotion,2025-02-25,2,3,Legal Affairs,Legal Affairs
+MOV-00481,MOEI-10176,Promotion,2026-04-26,3,4,Legal Affairs,Legal Affairs
+MOV-00482,MOEI-10176,Promotion,2027-05-11,4,5,Legal Affairs,Legal Affairs
+MOV-00483,MOEI-10176,Promotion,2028-05-26,5,6,Legal Affairs,Legal Affairs
+MOV-00484,MOEI-10176,Promotion,2029-06-11,6,7,Legal Affairs,Legal Affairs
+MOV-00485,MOEI-10177,Hire,2016-02-12,,2,,Energy & Clean Energy
+MOV-00486,MOEI-10177,Promotion,2022-06-28,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00487,MOEI-10177,Promotion,2023-08-07,3,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00488,MOEI-10177,Promotion,2025-07-14,4,5,Energy & Clean Energy,Energy & Clean Energy
+MOV-00489,MOEI-10178,Hire,2019-07-08,,1,,Customer Happiness
+MOV-00490,MOEI-10178,Promotion,2025-07-16,1,2,Customer Happiness,Customer Happiness
+MOV-00491,MOEI-10178,Promotion,2026-08-01,2,3,Customer Happiness,Customer Happiness
+MOV-00492,MOEI-10179,Hire,2021-01-06,,3,,Finance
+MOV-00493,MOEI-10179,Promotion,2025-12-19,3,4,Finance,Finance
+MOV-00494,MOEI-10180,Hire,2025-02-12,,3,,Strategy & Future Foresight
+MOV-00495,MOEI-10181,Hire,2019-01-07,,1,,Strategy & Future Foresight
+MOV-00496,MOEI-10181,Promotion,2024-06-06,1,2,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00497,MOEI-10181,Promotion,2025-07-07,2,3,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00498,MOEI-10182,Hire,2021-06-01,,5,,"Petroleum, Gas & Mineral Resources"
+MOV-00499,MOEI-10182,Promotion,2025-08-29,5,6,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00500,MOEI-10183,Hire,2015-06-02,,3,,Energy & Clean Energy
+MOV-00501,MOEI-10183,Promotion,2023-07-16,3,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00502,MOEI-10183,Transfer,2025-07-18,4,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00503,MOEI-10183,Promotion,2026-08-03,4,5,Energy & Clean Energy,Energy & Clean Energy
+MOV-00504,MOEI-10184,Hire,2023-03-21,,3,,Human Resources
+MOV-00505,MOEI-10184,Promotion,2025-02-20,3,4,Human Resources,Human Resources
+MOV-00506,MOEI-10185,Hire,2019-09-19,,2,,Finance
+MOV-00507,MOEI-10185,Transfer,2023-05-18,2,2,Finance,Finance
+MOV-00508,MOEI-10185,Promotion,2026-03-02,2,3,Finance,Finance
+MOV-00509,MOEI-10186,Hire,2016-09-19,,1,,Land & Maritime Transport
+MOV-00510,MOEI-10186,Promotion,2024-10-03,1,2,Land & Maritime Transport,Land & Maritime Transport
+MOV-00511,MOEI-10186,Promotion,2026-02-05,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00512,MOEI-10186,Promotion,2027-02-20,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00513,MOEI-10187,Hire,2021-09-19,,3,,Land & Maritime Transport
+MOV-00514,MOEI-10187,Promotion,2024-05-07,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00515,MOEI-10188,Hire,2020-01-07,,3,,Customer Happiness
+MOV-00516,MOEI-10188,Promotion,2023-10-23,3,4,Customer Happiness,Customer Happiness
+MOV-00517,MOEI-10188,Promotion,2025-11-25,4,5,Customer Happiness,Customer Happiness
+MOV-00518,MOEI-10189,Hire,2012-06-01,,4,,Infrastructure & Assets
+MOV-00519,MOEI-10189,Promotion,2016-05-29,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00520,MOEI-10189,Transfer,2018-10-31,5,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00521,MOEI-10189,Promotion,2022-04-27,5,6,Infrastructure & Assets,Infrastructure & Assets
+MOV-00522,MOEI-10189,Promotion,2023-12-24,6,7,Infrastructure & Assets,Infrastructure & Assets
+MOV-00523,MOEI-10190,Hire,2018-06-01,,4,,Strategy & Future Foresight
+MOV-00524,MOEI-10190,Promotion,2021-06-16,4,5,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00525,MOEI-10190,Promotion,2024-09-29,5,6,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00526,MOEI-10191,Hire,2025-08-13,,1,,Legal Affairs
+MOV-00527,MOEI-10192,Hire,2015-10-26,,2,,Legal Affairs
+MOV-00528,MOEI-10192,Promotion,2020-10-20,2,3,Legal Affairs,Legal Affairs
+MOV-00529,MOEI-10192,Promotion,2024-03-09,3,4,Legal Affairs,Legal Affairs
+MOV-00530,MOEI-10192,Promotion,2025-08-13,4,5,Legal Affairs,Legal Affairs
+MOV-00531,MOEI-10193,Hire,2015-09-19,,3,,Housing
+MOV-00532,MOEI-10193,Promotion,2020-10-29,3,4,Housing,Housing
+MOV-00533,MOEI-10193,Promotion,2025-08-04,4,5,Housing,Housing
+MOV-00534,MOEI-10193,Promotion,2026-08-20,5,6,Housing,Housing
+MOV-00535,MOEI-10194,Hire,2022-08-14,,2,,Land & Maritime Transport
+MOV-00536,MOEI-10194,Promotion,2025-02-24,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00537,MOEI-10195,Hire,2025-03-20,,3,,Infrastructure & Assets
+MOV-00538,MOEI-10196,Hire,2022-07-08,,1,,Housing
+MOV-00539,MOEI-10196,Promotion,2025-12-18,1,2,Housing,Housing
+MOV-00540,MOEI-10197,Hire,2021-01-06,,1,,Corporate Communication
+MOV-00541,MOEI-10197,Promotion,2026-04-19,1,2,Corporate Communication,Corporate Communication
+MOV-00542,MOEI-10198,Hire,2022-02-12,,2,,Infrastructure & Assets
+MOV-00543,MOEI-10198,Promotion,2025-09-04,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00544,MOEI-10199,Hire,2016-12-01,,3,,Electricity & Water
+MOV-00545,MOEI-10199,Promotion,2019-12-13,3,4,Electricity & Water,Electricity & Water
+MOV-00546,MOEI-10199,Promotion,2021-01-02,4,5,Electricity & Water,Electricity & Water
+MOV-00547,MOEI-10199,Promotion,2023-12-02,5,6,Electricity & Water,Electricity & Water
+MOV-00548,MOEI-10200,Hire,2015-08-14,,2,,Human Resources
+MOV-00549,MOEI-10200,Promotion,2024-01-06,2,3,Human Resources,Human Resources
+MOV-00550,MOEI-10200,Transfer,2026-04-29,3,3,Human Resources,Human Resources
+MOV-00551,MOEI-10200,Promotion,2027-05-15,3,4,Human Resources,Human Resources
+MOV-00552,MOEI-10201,Hire,2019-09-19,,1,,Human Resources
+MOV-00553,MOEI-10201,Promotion,2023-01-21,1,2,Human Resources,Human Resources
+MOV-00554,MOEI-10202,Hire,2019-08-14,,1,,"Petroleum, Gas & Mineral Resources"
+MOV-00555,MOEI-10202,Promotion,2020-12-24,1,2,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00556,MOEI-10203,Hire,2021-08-13,,3,,Corporate Communication
+MOV-00557,MOEI-10203,Promotion,2023-06-07,3,4,Corporate Communication,Corporate Communication
+MOV-00558,MOEI-10204,Hire,2018-09-19,,2,,Strategy & Future Foresight
+MOV-00559,MOEI-10204,Promotion,2025-05-26,2,3,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00560,MOEI-10204,Promotion,2026-06-11,3,4,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00561,MOEI-10205,Hire,2022-09-19,,2,,Information Technology
+MOV-00562,MOEI-10205,Promotion,2024-08-31,2,3,Information Technology,Information Technology
+MOV-00563,MOEI-10206,Hire,2013-09-19,,1,,Land & Maritime Transport
+MOV-00564,MOEI-10206,Promotion,2018-06-28,1,2,Land & Maritime Transport,Land & Maritime Transport
+MOV-00565,MOEI-10206,Promotion,2024-10-26,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00566,MOEI-10206,Transfer,2026-02-12,3,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00567,MOEI-10206,Promotion,2027-02-28,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00568,MOEI-10207,Hire,2015-12-01,,2,,"Petroleum, Gas & Mineral Resources"
+MOV-00569,MOEI-10207,Promotion,2019-02-13,2,3,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00570,MOEI-10207,Promotion,2021-12-20,3,4,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00571,MOEI-10207,Promotion,2024-05-08,4,5,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00572,MOEI-10208,Hire,2024-03-20,,5,,Infrastructure & Assets
+MOV-00573,MOEI-10209,Hire,2023-07-08,,4,,"Petroleum, Gas & Mineral Resources"
+MOV-00574,MOEI-10210,Hire,2018-08-14,,1,,Energy & Clean Energy
+MOV-00575,MOEI-10210,Promotion,2021-11-24,1,2,Energy & Clean Energy,Energy & Clean Energy
+MOV-00576,MOEI-10210,Transfer,2024-07-31,2,2,Energy & Clean Energy,Energy & Clean Energy
+MOV-00577,MOEI-10211,Hire,2022-04-26,,2,,Housing
+MOV-00578,MOEI-10211,Promotion,2023-07-13,2,3,Housing,Housing
+MOV-00579,MOEI-10212,Hire,2015-10-26,,3,,Legal Affairs
+MOV-00580,MOEI-10212,Promotion,2022-01-10,3,4,Legal Affairs,Legal Affairs
+MOV-00581,MOEI-10212,Promotion,2025-07-21,4,5,Legal Affairs,Legal Affairs
+MOV-00582,MOEI-10212,Promotion,2026-08-05,5,6,Legal Affairs,Legal Affairs
+MOV-00583,MOEI-10213,Hire,2011-02-12,,1,,Electricity & Water
+MOV-00584,MOEI-10213,Promotion,2023-05-17,1,2,Electricity & Water,Electricity & Water
+MOV-00585,MOEI-10213,Promotion,2026-02-08,2,3,Electricity & Water,Electricity & Water
+MOV-00586,MOEI-10213,Promotion,2027-02-23,3,4,Electricity & Water,Electricity & Water
+MOV-00587,MOEI-10213,Transfer,2028-03-09,4,4,Electricity & Water,Electricity & Water
+MOV-00588,MOEI-10213,Promotion,2029-03-24,4,5,Electricity & Water,Electricity & Water
+MOV-00589,MOEI-10214,Hire,2020-07-08,,4,,Finance
+MOV-00590,MOEI-10214,Promotion,2023-11-02,4,5,Finance,Finance
+MOV-00591,MOEI-10215,Hire,2016-10-25,,1,,Corporate Communication
+MOV-00592,MOEI-10215,Promotion,2023-02-16,1,2,Corporate Communication,Corporate Communication
+MOV-00593,MOEI-10215,Promotion,2024-05-13,2,3,Corporate Communication,Corporate Communication
+MOV-00594,MOEI-10216,Hire,2022-03-20,,2,,Procurement & Contracts
+MOV-00595,MOEI-10216,Promotion,2024-09-17,2,3,Procurement & Contracts,Procurement & Contracts
+MOV-00596,MOEI-10217,Hire,2022-04-26,,5,,Energy & Clean Energy
+MOV-00597,MOEI-10217,Promotion,2024-01-13,5,6,Energy & Clean Energy,Energy & Clean Energy
+MOV-00598,MOEI-10218,Hire,2020-01-07,,3,,Corporate Communication
+MOV-00599,MOEI-10218,Promotion,2024-06-17,3,4,Corporate Communication,Corporate Communication
+MOV-00600,MOEI-10218,Promotion,2026-04-01,4,5,Corporate Communication,Corporate Communication
+MOV-00601,MOEI-10219,Hire,2015-04-26,,1,,Infrastructure & Assets
+MOV-00602,MOEI-10219,Promotion,2021-04-10,1,2,Infrastructure & Assets,Infrastructure & Assets
+MOV-00603,MOEI-10219,Promotion,2022-08-25,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00604,MOEI-10219,Promotion,2024-10-20,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00605,MOEI-10220,Hire,2015-01-07,,6,,Housing
+MOV-00606,MOEI-10220,Promotion,2024-03-10,6,7,Housing,Housing
+MOV-00607,MOEI-10220,Promotion,2025-09-27,7,8,Housing,Housing
+MOV-00608,MOEI-10220,Promotion,2026-10-13,8,9,Housing,Housing
+MOV-00609,MOEI-10221,Hire,2020-09-19,,3,,Infrastructure & Assets
+MOV-00610,MOEI-10221,Transfer,2022-06-15,3,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00611,MOEI-10222,Hire,2017-02-12,,2,,Energy & Clean Energy
+MOV-00612,MOEI-10222,Promotion,2021-02-06,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00613,MOEI-10222,Promotion,2025-05-23,3,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00614,MOEI-10222,Promotion,2026-06-07,4,5,Energy & Clean Energy,Energy & Clean Energy
+MOV-00615,MOEI-10223,Hire,2018-08-14,,3,,Land & Maritime Transport
+MOV-00616,MOEI-10223,Promotion,2023-10-08,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00617,MOEI-10223,Transfer,2025-10-04,4,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00618,MOEI-10224,Hire,2022-08-14,,2,,"Petroleum, Gas & Mineral Resources"
+MOV-00619,MOEI-10224,Promotion,2024-05-03,2,3,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00620,MOEI-10225,Hire,2016-06-01,,1,,Human Resources
+MOV-00621,MOEI-10225,Promotion,2019-10-24,1,2,Human Resources,Human Resources
+MOV-00622,MOEI-10225,Promotion,2022-09-13,2,3,Human Resources,Human Resources
+MOV-00623,MOEI-10225,Promotion,2023-12-12,3,4,Human Resources,Human Resources
+MOV-00624,MOEI-10226,Hire,2006-09-19,,1,,Energy & Clean Energy
+MOV-00625,MOEI-10226,Promotion,2023-08-29,1,2,Energy & Clean Energy,Energy & Clean Energy
+MOV-00626,MOEI-10226,Promotion,2025-05-20,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00627,MOEI-10226,Promotion,2026-06-05,3,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00628,MOEI-10226,Promotion,2027-06-21,4,5,Energy & Clean Energy,Energy & Clean Energy
+MOV-00629,MOEI-10226,Promotion,2028-07-06,5,6,Energy & Clean Energy,Energy & Clean Energy
+MOV-00630,MOEI-10227,Hire,2017-03-20,,1,,"Petroleum, Gas & Mineral Resources"
+MOV-00631,MOEI-10227,Promotion,2024-08-17,1,2,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00632,MOEI-10227,Promotion,2025-09-10,2,3,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00633,MOEI-10227,Promotion,2026-09-25,3,4,"Petroleum, Gas & Mineral Resources","Petroleum, Gas & Mineral Resources"
+MOV-00634,MOEI-10228,Hire,2020-08-13,,1,,Corporate Communication
+MOV-00635,MOEI-10228,Promotion,2021-10-20,1,2,Corporate Communication,Corporate Communication
+MOV-00636,MOEI-10229,Hire,2021-03-20,,4,,Land & Maritime Transport
+MOV-00637,MOEI-10229,Promotion,2024-05-02,4,5,Land & Maritime Transport,Land & Maritime Transport
+MOV-00638,MOEI-10230,Hire,2015-02-12,,2,,Procurement & Contracts
+MOV-00639,MOEI-10230,Promotion,2024-02-28,2,3,Procurement & Contracts,Procurement & Contracts
+MOV-00640,MOEI-10230,Promotion,2026-03-15,3,4,Procurement & Contracts,Procurement & Contracts
+MOV-00641,MOEI-10230,Promotion,2027-03-31,4,5,Procurement & Contracts,Procurement & Contracts
+MOV-00642,MOEI-10231,Hire,2014-02-12,,1,,Infrastructure & Assets
+MOV-00643,MOEI-10231,Promotion,2020-02-02,1,2,Infrastructure & Assets,Infrastructure & Assets
+MOV-00644,MOEI-10231,Promotion,2021-12-29,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00645,MOEI-10231,Transfer,2023-10-03,3,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00646,MOEI-10231,Promotion,2025-08-12,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00647,MOEI-10232,Hire,2012-12-01,,2,,Strategy & Future Foresight
+MOV-00648,MOEI-10232,Promotion,2019-09-23,2,3,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00649,MOEI-10232,Promotion,2020-12-03,3,4,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00650,MOEI-10232,Promotion,2025-03-26,4,5,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00651,MOEI-10232,Transfer,2026-04-28,5,5,Strategy & Future Foresight,Strategy & Future Foresight
+MOV-00652,MOEI-10233,Hire,2022-04-26,,1,,Information Technology
+MOV-00653,MOEI-10234,Hire,2020-04-25,,2,,Energy & Clean Energy
+MOV-00654,MOEI-10234,Promotion,2023-05-25,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00655,MOEI-10234,Promotion,2025-11-19,3,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00656,MOEI-10235,Hire,2015-08-14,,2,,Land & Maritime Transport
+MOV-00657,MOEI-10235,Promotion,2023-08-05,2,3,Land & Maritime Transport,Land & Maritime Transport
+MOV-00658,MOEI-10235,Promotion,2025-08-06,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00659,MOEI-10235,Promotion,2026-08-22,4,5,Land & Maritime Transport,Land & Maritime Transport
+MOV-00660,MOEI-10236,Hire,2015-02-12,,3,,Infrastructure & Assets
+MOV-00661,MOEI-10236,Promotion,2020-05-24,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00662,MOEI-10236,Promotion,2024-02-26,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00663,MOEI-10236,Promotion,2025-12-05,5,6,Infrastructure & Assets,Infrastructure & Assets
+MOV-00664,MOEI-10237,Hire,2012-01-07,,5,,Corporate Communication
+MOV-00665,MOEI-10237,Promotion,2023-11-29,5,6,Corporate Communication,Corporate Communication
+MOV-00666,MOEI-10237,Promotion,2024-12-20,6,7,Corporate Communication,Corporate Communication
+MOV-00667,MOEI-10237,Promotion,2026-01-12,7,8,Corporate Communication,Corporate Communication
+MOV-00668,MOEI-10237,Promotion,2027-01-28,8,9,Corporate Communication,Corporate Communication
+MOV-00669,MOEI-10238,Hire,2026-01-06,,1,,Internal Audit
+MOV-00670,MOEI-10239,Hire,2026-01-06,,5,,Corporate Communication
+MOV-00671,MOEI-10240,Hire,2022-01-06,,1,,Procurement & Contracts
+MOV-00672,MOEI-10240,Promotion,2023-11-24,1,2,Procurement & Contracts,Procurement & Contracts
+MOV-00673,MOEI-10241,Hire,2024-07-08,,2,,Infrastructure & Assets
+MOV-00674,MOEI-10242,Hire,2021-08-13,,2,,Infrastructure & Assets
+MOV-00675,MOEI-10242,Promotion,2023-04-29,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00676,MOEI-10243,Hire,2003-08-14,,1,,Finance
+MOV-00677,MOEI-10243,Promotion,2012-08-26,1,2,Finance,Finance
+MOV-00678,MOEI-10243,Promotion,2013-12-18,2,3,Finance,Finance
+MOV-00679,MOEI-10243,Promotion,2020-02-15,3,4,Finance,Finance
+MOV-00680,MOEI-10243,Promotion,2023-03-15,4,5,Finance,Finance
+MOV-00681,MOEI-10243,Promotion,2025-05-11,5,6,Finance,Finance
+MOV-00682,MOEI-10243,Promotion,2026-05-27,6,7,Finance,Finance
+MOV-00683,MOEI-10243,Promotion,2027-06-12,7,8,Finance,Finance
+MOV-00684,MOEI-10244,Hire,2020-06-01,,1,,Legal Affairs
+MOV-00685,MOEI-10244,Promotion,2024-06-15,1,2,Legal Affairs,Legal Affairs
+MOV-00686,MOEI-10245,Hire,2010-03-20,,1,,Infrastructure & Assets
+MOV-00687,MOEI-10245,Promotion,2023-04-26,1,2,Infrastructure & Assets,Infrastructure & Assets
+MOV-00688,MOEI-10245,Promotion,2024-07-06,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00689,MOEI-10245,Promotion,2026-04-14,3,4,Infrastructure & Assets,Infrastructure & Assets
+MOV-00690,MOEI-10245,Promotion,2027-04-30,4,5,Infrastructure & Assets,Infrastructure & Assets
+MOV-00691,MOEI-10245,Promotion,2028-05-14,5,6,Infrastructure & Assets,Infrastructure & Assets
+MOV-00692,MOEI-10246,Hire,2020-04-25,,2,,Internal Audit
+MOV-00693,MOEI-10246,Promotion,2025-01-01,2,3,Internal Audit,Internal Audit
+MOV-00694,MOEI-10246,Promotion,2026-02-14,3,4,Internal Audit,Internal Audit
+MOV-00695,MOEI-10247,Hire,2019-01-07,,3,,Energy & Clean Energy
+MOV-00696,MOEI-10247,Promotion,2025-03-04,3,4,Energy & Clean Energy,Energy & Clean Energy
+MOV-00697,MOEI-10247,Promotion,2026-04-26,4,5,Energy & Clean Energy,Energy & Clean Energy
+MOV-00698,MOEI-10248,Hire,2022-04-26,,3,,Corporate Communication
+MOV-00699,MOEI-10248,Transfer,2024-11-29,3,3,Corporate Communication,Corporate Communication
+MOV-00700,MOEI-10249,Hire,2025-08-13,,3,,Electricity & Water
+MOV-00701,MOEI-10250,Hire,2021-06-01,,2,,Finance
+MOV-00702,MOEI-10250,Promotion,2023-07-10,2,3,Finance,Finance
+MOV-00703,MOEI-10251,Hire,2022-09-19,,5,,Human Resources
+MOV-00704,MOEI-10251,Transfer,2026-04-30,5,5,Human Resources,Human Resources
+MOV-00705,MOEI-10252,Hire,2026-01-06,,3,,Information Technology
+MOV-00706,MOEI-10253,Hire,2020-07-08,,2,,Infrastructure & Assets
+MOV-00707,MOEI-10253,Promotion,2022-04-20,2,3,Infrastructure & Assets,Infrastructure & Assets
+MOV-00708,MOEI-10254,Hire,2019-04-26,,1,,Land & Maritime Transport
+MOV-00709,MOEI-10254,Promotion,2021-01-14,1,2,Land & Maritime Transport,Land & Maritime Transport
+MOV-00710,MOEI-10255,Hire,2016-06-01,,4,,Information Technology
+MOV-00711,MOEI-10255,Promotion,2020-03-11,4,5,Information Technology,Information Technology
+MOV-00712,MOEI-10255,Promotion,2024-06-28,5,6,Information Technology,Information Technology
+MOV-00713,MOEI-10255,Promotion,2025-09-01,6,7,Information Technology,Information Technology
+MOV-00714,MOEI-10256,Hire,2018-06-01,,7,,Land & Maritime Transport
+MOV-00715,MOEI-10256,Promotion,2020-01-11,7,8,Land & Maritime Transport,Land & Maritime Transport
+MOV-00716,MOEI-10256,Transfer,2024-08-15,8,8,Land & Maritime Transport,Land & Maritime Transport
+MOV-00717,MOEI-10257,Hire,2019-08-14,,1,,Housing
+MOV-00718,MOEI-10257,Transfer,2026-01-08,1,1,Housing,Housing
+MOV-00719,MOEI-10257,Promotion,2027-01-23,1,2,Housing,Housing
+MOV-00720,MOEI-10258,Hire,2019-04-26,,1,,Energy & Clean Energy
+MOV-00721,MOEI-10258,Promotion,2021-06-23,1,2,Energy & Clean Energy,Energy & Clean Energy
+MOV-00722,MOEI-10258,Promotion,2023-09-21,2,3,Energy & Clean Energy,Energy & Clean Energy
+MOV-00723,MOEI-10259,Hire,2015-02-12,,3,,Land & Maritime Transport
+MOV-00724,MOEI-10259,Promotion,2019-07-09,3,4,Land & Maritime Transport,Land & Maritime Transport
+MOV-00725,MOEI-10259,Promotion,2025-05-18,4,5,Land & Maritime Transport,Land & Maritime Transport
+MOV-00726,MOEI-10259,Promotion,2026-06-02,5,6,Land & Maritime Transport,Land & Maritime Transport
+MOV-00727,MOEI-10260,Hire,2019-10-26,,1,,Customer Happiness
+MOV-00728,MOEI-10260,Promotion,2023-05-04,1,2,Customer Happiness,Customer Happiness
+MOV-00729,MOEI-10260,Promotion,2024-12-03,2,3,Customer Happiness,Customer Happiness

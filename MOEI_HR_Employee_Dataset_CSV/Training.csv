@@ -1,0 +1,876 @@
+record_id,employee_id,course_name,category,provider,completion_date,hours,status,result
+TRN-00001,MOEI-10001,PMP Preparation,Project Management,Mohammed Bin Rashid School of Government,2024-06-03,16,Completed,Passed
+TRN-00002,MOEI-10001,Generative AI Foundations,Digital & AI,MOEI Academy,2023-08-27,4,Completed,Passed
+TRN-00003,MOEI-10001,Public Speaking,Language & Communication,External Vendor,2025-09-12,12,Completed,Passed
+TRN-00004,MOEI-10002,Anti-Fraud Awareness,Compliance & Ethics,Mohammed Bin Rashid School of Government,,24,Enrolled,
+TRN-00005,MOEI-10002,PMP Preparation,Project Management,Mohammed Bin Rashid School of Government,2022-05-26,24,Completed,Passed
+TRN-00006,MOEI-10002,Occupational Health & Safety,Health & Safety,MOEI Academy,2022-09-24,4,Completed,Passed
+TRN-00007,MOEI-10002,Customer Happiness Standards,Customer Service,Federal Authority for Government HR,2022-06-26,40,Completed,Passed
+TRN-00008,MOEI-10002,Public Speaking,Language & Communication,Coursera (Gov Licence),,24,In Progress,
+TRN-00009,MOEI-10003,Public Procurement Rules,Finance & Procurement,External Vendor,2023-02-10,4,Completed,Passed
+TRN-00010,MOEI-10003,Occupational Health & Safety,Health & Safety,Coursera (Gov Licence),,4,In Progress,
+TRN-00011,MOEI-10003,Emergency Response,Health & Safety,Coursera (Gov Licence),2025-11-02,16,Completed,Passed
+TRN-00012,MOEI-10004,PMP Preparation,Project Management,Mohammed Bin Rashid School of Government,2025-06-17,16,Completed,Passed
+TRN-00013,MOEI-10004,Data Visualization,Data Analytics,MOEI Academy,2023-10-28,4,Completed,Passed
+TRN-00014,MOEI-10005,Generative AI Foundations,Digital & AI,Federal Authority for Government HR,2024-09-07,12,Completed,Passed
+TRN-00015,MOEI-10005,Information Security Basics,Compliance & Ethics,MOEI Academy,2025-03-22,16,Completed,Passed
+TRN-00016,MOEI-10005,Energy Systems,Technical & Engineering,External Vendor,2022-05-26,16,Completed,Passed
+TRN-00017,MOEI-10006,Arabic Business Writing,Language & Communication,External Vendor,2023-05-04,8,Completed,Passed
+TRN-00018,MOEI-10006,Emergency Response,Health & Safety,External Vendor,2022-05-16,16,Completed,Passed
+TRN-00019,MOEI-10006,Service Design Thinking,Customer Service,Federal Authority for Government HR,2025-01-20,40,Completed,Passed
+TRN-00020,MOEI-10006,Digital Transformation,Digital & AI,Coursera (Gov Licence),2022-08-23,12,Completed,Passed
+TRN-00021,MOEI-10007,Digital Transformation,Digital & AI,Coursera (Gov Licence),2026-02-20,4,Completed,Passed
+TRN-00022,MOEI-10007,Business English,Language & Communication,MOEI Academy,2026-04-13,4,Completed,Passed
+TRN-00023,MOEI-10007,PMP Preparation,Project Management,Federal Authority for Government HR,2026-01-06,16,Completed,Passed
+TRN-00024,MOEI-10007,Infrastructure Asset Management,Technical & Engineering,Coursera (Gov Licence),2026-04-15,8,Completed,Passed
+TRN-00025,MOEI-10007,Risk Management Fundamentals,Project Management,Mohammed Bin Rashid School of Government,2026-03-28,16,Completed,Passed
+TRN-00026,MOEI-10008,Code of Ethics Refresher,Compliance & Ethics,External Vendor,2025-04-08,16,Completed,Passed
+TRN-00027,MOEI-10008,Data Visualization,Data Analytics,External Vendor,2022-05-08,4,Completed,Passed
+TRN-00028,MOEI-10008,Coaching for Managers,Leadership & Management,MOEI Academy,,8,In Progress,
+TRN-00029,MOEI-10008,Service Design Thinking,Customer Service,Coursera (Gov Licence),2025-07-04,16,Completed,Passed
+TRN-00030,MOEI-10008,Maritime Safety Standards,Technical & Engineering,Federal Authority for Government HR,2025-09-18,8,Completed,Passed
+TRN-00031,MOEI-10009,Service Design Thinking,Customer Service,Federal Authority for Government HR,2024-12-15,8,Completed,Passed
+TRN-00032,MOEI-10009,Future Leaders Programme,Leadership & Management,Coursera (Gov Licence),2026-04-02,40,Completed,Passed
+TRN-00033,MOEI-10009,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),2023-02-03,16,Completed,Passed
+TRN-00034,MOEI-10009,Arabic Business Writing,Language & Communication,External Vendor,2026-02-10,16,Completed,Passed
+TRN-00035,MOEI-10009,Infrastructure Asset Management,Technical & Engineering,Federal Authority for Government HR,2024-10-09,16,Completed,Passed
+TRN-00036,MOEI-10010,Strategic Decision Making,Leadership & Management,External Vendor,2026-02-05,12,Completed,Passed
+TRN-00037,MOEI-10010,Service Design Thinking,Customer Service,External Vendor,,16,Enrolled,
+TRN-00038,MOEI-10010,Code of Ethics Refresher,Compliance & Ethics,MOEI Academy,2025-04-03,8,Completed,Passed
+TRN-00039,MOEI-10010,Infrastructure Asset Management,Technical & Engineering,External Vendor,2024-08-10,24,Completed,Passed
+TRN-00040,MOEI-10010,Data-Driven Decision Making,Digital & AI,MOEI Academy,2024-08-25,40,Completed,Passed
+TRN-00041,MOEI-10011,Energy Systems,Technical & Engineering,Mohammed Bin Rashid School of Government,2023-10-02,24,Completed,Passed
+TRN-00042,MOEI-10011,Strategic Decision Making,Leadership & Management,Coursera (Gov Licence),2024-07-18,24,Completed,Passed
+TRN-00043,MOEI-10011,Anti-Fraud Awareness,Compliance & Ethics,Mohammed Bin Rashid School of Government,,12,Enrolled,
+TRN-00044,MOEI-10011,Power BI Essentials,Data Analytics,Mohammed Bin Rashid School of Government,,40,Enrolled,
+TRN-00045,MOEI-10011,Arabic Business Writing,Language & Communication,External Vendor,2022-05-06,8,Completed,Passed
+TRN-00046,MOEI-10011,Business English,Language & Communication,External Vendor,,4,Enrolled,
+TRN-00047,MOEI-10013,Data-Driven Decision Making,Digital & AI,Mohammed Bin Rashid School of Government,2024-11-01,12,Completed,Passed
+TRN-00048,MOEI-10013,Data Visualization,Data Analytics,MOEI Academy,,40,In Progress,
+TRN-00049,MOEI-10013,Public Speaking,Language & Communication,Mohammed Bin Rashid School of Government,2022-11-06,8,Completed,Passed
+TRN-00050,MOEI-10014,Agile Project Delivery,Project Management,MOEI Academy,2024-09-21,12,Completed,Passed
+TRN-00051,MOEI-10014,Data-Driven Decision Making,Digital & AI,Federal Authority for Government HR,,16,Enrolled,
+TRN-00052,MOEI-10014,Service Design Thinking,Customer Service,Federal Authority for Government HR,2024-11-18,8,Completed,Passed
+TRN-00053,MOEI-10015,Code of Ethics Refresher,Compliance & Ethics,MOEI Academy,2025-08-08,4,Completed,Passed
+TRN-00054,MOEI-10015,SQL for Beginners,Data Analytics,Coursera (Gov Licence),2024-03-27,40,Completed,Passed
+TRN-00055,MOEI-10015,Maritime Safety Standards,Technical & Engineering,Coursera (Gov Licence),2024-02-17,16,Completed,Passed
+TRN-00056,MOEI-10015,Government Budgeting,Finance & Procurement,MOEI Academy,,12,In Progress,
+TRN-00057,MOEI-10015,Emergency Response,Health & Safety,External Vendor,2025-10-21,40,Completed,Passed
+TRN-00058,MOEI-10016,Generative AI Foundations,Digital & AI,Mohammed Bin Rashid School of Government,2024-06-03,12,Completed,Passed
+TRN-00059,MOEI-10017,Government Budgeting,Finance & Procurement,Coursera (Gov Licence),2023-06-07,16,Completed,Passed
+TRN-00060,MOEI-10017,Risk Management Fundamentals,Project Management,Federal Authority for Government HR,2025-10-08,24,Completed,Passed
+TRN-00061,MOEI-10017,Information Security Basics,Compliance & Ethics,Mohammed Bin Rashid School of Government,,24,Enrolled,
+TRN-00062,MOEI-10018,Future Leaders Programme,Leadership & Management,External Vendor,2024-07-20,4,Completed,Passed
+TRN-00063,MOEI-10019,Emergency Response,Health & Safety,Mohammed Bin Rashid School of Government,2023-03-26,8,Completed,Passed
+TRN-00064,MOEI-10019,Future Leaders Programme,Leadership & Management,External Vendor,2025-06-22,40,Completed,Passed
+TRN-00065,MOEI-10019,Risk Management Fundamentals,Project Management,MOEI Academy,2025-07-30,4,Completed,Passed
+TRN-00066,MOEI-10020,Data-Driven Decision Making,Digital & AI,Mohammed Bin Rashid School of Government,2022-08-16,12,Completed,Passed
+TRN-00067,MOEI-10020,Digital Transformation,Digital & AI,Mohammed Bin Rashid School of Government,2023-07-21,12,Completed,Passed
+TRN-00068,MOEI-10020,Future Leaders Programme,Leadership & Management,MOEI Academy,2024-02-23,12,Completed,Passed
+TRN-00069,MOEI-10020,Government Budgeting,Finance & Procurement,Federal Authority for Government HR,2024-06-21,24,Completed,Passed
+TRN-00070,MOEI-10020,Applied AI for Government,Digital & AI,Coursera (Gov Licence),2022-10-22,8,Completed,Passed
+TRN-00071,MOEI-10020,Generative AI Foundations,Digital & AI,Coursera (Gov Licence),2026-05-11,8,Completed,Passed
+TRN-00072,MOEI-10021,Service Design Thinking,Customer Service,Coursera (Gov Licence),2022-11-07,24,Completed,Passed
+TRN-00073,MOEI-10021,Strategic Decision Making,Leadership & Management,MOEI Academy,2024-09-06,24,Completed,Passed
+TRN-00074,MOEI-10021,PMP Preparation,Project Management,Coursera (Gov Licence),,4,Enrolled,
+TRN-00075,MOEI-10022,Future Leaders Programme,Leadership & Management,MOEI Academy,,12,Enrolled,
+TRN-00076,MOEI-10022,Code of Ethics Refresher,Compliance & Ethics,Mohammed Bin Rashid School of Government,2024-07-30,40,Completed,Passed
+TRN-00077,MOEI-10022,Digital Transformation,Digital & AI,Coursera (Gov Licence),2025-09-15,4,Completed,Passed
+TRN-00078,MOEI-10022,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),,40,In Progress,
+TRN-00079,MOEI-10022,Business English,Language & Communication,External Vendor,2024-09-28,40,Completed,Passed
+TRN-00080,MOEI-10023,Coaching for Managers,Leadership & Management,MOEI Academy,2024-04-09,16,Completed,Passed
+TRN-00081,MOEI-10024,Risk Management Fundamentals,Project Management,External Vendor,2025-06-27,8,Completed,Passed
+TRN-00082,MOEI-10025,Business English,Language & Communication,Federal Authority for Government HR,2022-05-28,16,Completed,Passed
+TRN-00083,MOEI-10025,Strategic Decision Making,Leadership & Management,Federal Authority for Government HR,2025-06-20,4,Completed,Passed
+TRN-00084,MOEI-10025,Power BI Essentials,Data Analytics,MOEI Academy,,16,In Progress,
+TRN-00085,MOEI-10025,Applied AI for Government,Digital & AI,External Vendor,2024-10-15,8,Completed,Passed
+TRN-00086,MOEI-10026,Agile Project Delivery,Project Management,Coursera (Gov Licence),,12,In Progress,
+TRN-00087,MOEI-10027,Public Speaking,Language & Communication,Federal Authority for Government HR,2022-10-09,4,Completed,Passed
+TRN-00088,MOEI-10028,Data Visualization,Data Analytics,Federal Authority for Government HR,2022-05-10,16,Completed,Passed
+TRN-00089,MOEI-10028,Maritime Safety Standards,Technical & Engineering,External Vendor,2024-06-17,4,Completed,Passed
+TRN-00090,MOEI-10028,Power BI Essentials,Data Analytics,Federal Authority for Government HR,2025-07-18,4,Completed,Passed
+TRN-00091,MOEI-10028,Occupational Health & Safety,Health & Safety,MOEI Academy,2022-01-14,40,Completed,Passed
+TRN-00092,MOEI-10029,Arabic Business Writing,Language & Communication,Coursera (Gov Licence),2024-05-02,40,Completed,Passed
+TRN-00093,MOEI-10029,Advanced Excel for Analysts,Data Analytics,External Vendor,2022-10-21,16,Completed,Passed
+TRN-00094,MOEI-10029,Customer Happiness Standards,Customer Service,MOEI Academy,2022-12-24,24,Completed,Passed
+TRN-00095,MOEI-10029,SQL for Beginners,Data Analytics,Mohammed Bin Rashid School of Government,,12,Enrolled,
+TRN-00096,MOEI-10029,Maritime Safety Standards,Technical & Engineering,External Vendor,2023-01-29,4,Completed,Passed
+TRN-00097,MOEI-10030,Information Security Basics,Compliance & Ethics,Federal Authority for Government HR,2024-11-05,12,Completed,Passed
+TRN-00098,MOEI-10030,Government Leadership Excellence,Leadership & Management,Coursera (Gov Licence),2022-08-19,16,Completed,Passed
+TRN-00099,MOEI-10030,Advanced Excel for Analysts,Data Analytics,MOEI Academy,,40,Enrolled,
+TRN-00100,MOEI-10030,Anti-Fraud Awareness,Compliance & Ethics,Mohammed Bin Rashid School of Government,2023-03-06,24,Completed,Passed
+TRN-00101,MOEI-10030,Occupational Health & Safety,Health & Safety,External Vendor,2022-08-02,8,Completed,Passed
+TRN-00102,MOEI-10031,Strategic Decision Making,Leadership & Management,Federal Authority for Government HR,2024-11-20,40,Completed,Passed
+TRN-00103,MOEI-10031,Emergency Response,Health & Safety,Mohammed Bin Rashid School of Government,2024-05-08,8,Completed,Passed
+TRN-00104,MOEI-10032,Code of Ethics Refresher,Compliance & Ethics,Coursera (Gov Licence),2024-11-21,8,Completed,Passed
+TRN-00105,MOEI-10033,PMP Preparation,Project Management,MOEI Academy,2024-08-22,16,Completed,Passed
+TRN-00106,MOEI-10033,Advanced Excel for Analysts,Data Analytics,Coursera (Gov Licence),2025-06-02,12,Completed,Passed
+TRN-00107,MOEI-10033,SQL for Beginners,Data Analytics,Mohammed Bin Rashid School of Government,2026-01-14,12,Completed,Passed
+TRN-00108,MOEI-10033,Agile Project Delivery,Project Management,External Vendor,2022-09-18,4,Completed,Passed
+TRN-00109,MOEI-10034,Power BI Essentials,Data Analytics,Federal Authority for Government HR,2025-01-09,12,Completed,Passed
+TRN-00110,MOEI-10034,Agile Project Delivery,Project Management,External Vendor,2025-10-19,8,Completed,Passed
+TRN-00111,MOEI-10034,Public Speaking,Language & Communication,External Vendor,2023-09-14,16,Completed,Passed
+TRN-00112,MOEI-10035,Arabic Business Writing,Language & Communication,Coursera (Gov Licence),2024-08-05,40,Completed,Passed
+TRN-00113,MOEI-10035,PMP Preparation,Project Management,Federal Authority for Government HR,2023-11-02,24,Completed,Passed
+TRN-00114,MOEI-10036,Business English,Language & Communication,MOEI Academy,,16,Enrolled,
+TRN-00115,MOEI-10036,Maritime Safety Standards,Technical & Engineering,Coursera (Gov Licence),2024-05-21,40,Completed,Passed
+TRN-00116,MOEI-10037,Emergency Response,Health & Safety,MOEI Academy,2023-05-08,40,Completed,Passed
+TRN-00117,MOEI-10038,Data Visualization,Data Analytics,MOEI Academy,2024-03-04,4,Completed,Passed
+TRN-00118,MOEI-10038,Strategic Decision Making,Leadership & Management,MOEI Academy,2025-09-18,16,Completed,Passed
+TRN-00119,MOEI-10038,Digital Transformation,Digital & AI,MOEI Academy,2026-01-25,16,Completed,Passed
+TRN-00120,MOEI-10038,Information Security Basics,Compliance & Ethics,Mohammed Bin Rashid School of Government,2022-09-12,40,Completed,Passed
+TRN-00121,MOEI-10038,Energy Systems,Technical & Engineering,MOEI Academy,2023-09-05,24,Completed,Passed
+TRN-00122,MOEI-10038,Coaching for Managers,Leadership & Management,Mohammed Bin Rashid School of Government,2022-10-21,16,Completed,Passed
+TRN-00123,MOEI-10038,Anti-Fraud Awareness,Compliance & Ethics,MOEI Academy,2023-07-01,24,Completed,Passed
+TRN-00124,MOEI-10038,PMP Preparation,Project Management,MOEI Academy,2024-05-23,40,Completed,Passed
+TRN-00125,MOEI-10038,Data-Driven Decision Making,Digital & AI,Mohammed Bin Rashid School of Government,2023-10-12,24,Completed,Passed
+TRN-00126,MOEI-10038,Government Budgeting,Finance & Procurement,Coursera (Gov Licence),2022-11-14,16,Completed,Passed
+TRN-00127,MOEI-10039,Energy Systems,Technical & Engineering,Coursera (Gov Licence),,24,In Progress,
+TRN-00128,MOEI-10039,Information Security Basics,Compliance & Ethics,MOEI Academy,,8,In Progress,
+TRN-00129,MOEI-10039,Occupational Health & Safety,Health & Safety,Federal Authority for Government HR,2022-06-14,12,Completed,Passed
+TRN-00130,MOEI-10039,Applied AI for Government,Digital & AI,Federal Authority for Government HR,2022-12-04,16,Completed,Passed
+TRN-00131,MOEI-10039,Advanced Excel for Analysts,Data Analytics,MOEI Academy,,12,Enrolled,
+TRN-00132,MOEI-10039,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),2024-08-28,40,Completed,Passed
+TRN-00133,MOEI-10040,Government Leadership Excellence,Leadership & Management,Coursera (Gov Licence),2024-11-30,24,Completed,Passed
+TRN-00134,MOEI-10040,Generative AI Foundations,Digital & AI,External Vendor,2024-09-22,24,Completed,Passed
+TRN-00135,MOEI-10040,Government Budgeting,Finance & Procurement,Mohammed Bin Rashid School of Government,2023-06-17,12,Completed,Passed
+TRN-00136,MOEI-10040,Data Visualization,Data Analytics,Federal Authority for Government HR,,8,Enrolled,
+TRN-00137,MOEI-10040,Coaching for Managers,Leadership & Management,Mohammed Bin Rashid School of Government,2025-03-22,12,Completed,Passed
+TRN-00138,MOEI-10040,Applied AI for Government,Digital & AI,Mohammed Bin Rashid School of Government,2025-09-25,8,Completed,Passed
+TRN-00139,MOEI-10041,Occupational Health & Safety,Health & Safety,MOEI Academy,2026-03-17,16,Completed,Passed
+TRN-00140,MOEI-10041,Emergency Response,Health & Safety,External Vendor,2024-02-03,24,Completed,Passed
+TRN-00141,MOEI-10042,Public Procurement Rules,Finance & Procurement,External Vendor,,40,Enrolled,
+TRN-00142,MOEI-10042,SQL for Beginners,Data Analytics,Coursera (Gov Licence),2026-04-02,4,Completed,Passed
+TRN-00143,MOEI-10042,Power BI Essentials,Data Analytics,External Vendor,2026-03-25,8,Completed,Passed
+TRN-00144,MOEI-10043,Code of Ethics Refresher,Compliance & Ethics,Federal Authority for Government HR,2023-10-31,24,Completed,Passed
+TRN-00145,MOEI-10043,Maritime Safety Standards,Technical & Engineering,Mohammed Bin Rashid School of Government,,8,Enrolled,
+TRN-00146,MOEI-10043,Future Leaders Programme,Leadership & Management,MOEI Academy,,24,In Progress,
+TRN-00147,MOEI-10043,Customer Happiness Standards,Customer Service,External Vendor,2024-10-01,24,Completed,Passed
+TRN-00148,MOEI-10044,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),2023-12-11,12,Completed,Passed
+TRN-00149,MOEI-10045,Code of Ethics Refresher,Compliance & Ethics,Mohammed Bin Rashid School of Government,2023-08-06,16,Completed,Passed
+TRN-00150,MOEI-10045,Maritime Safety Standards,Technical & Engineering,Coursera (Gov Licence),2023-03-18,40,Completed,Passed
+TRN-00151,MOEI-10045,Service Design Thinking,Customer Service,Coursera (Gov Licence),2023-08-15,40,Completed,Passed
+TRN-00152,MOEI-10045,Customer Happiness Standards,Customer Service,Federal Authority for Government HR,2025-04-17,8,Completed,Passed
+TRN-00153,MOEI-10046,Emergency Response,Health & Safety,External Vendor,,16,Enrolled,
+TRN-00154,MOEI-10046,Applied AI for Government,Digital & AI,Mohammed Bin Rashid School of Government,2024-11-29,16,Completed,Passed
+TRN-00155,MOEI-10046,SQL for Beginners,Data Analytics,Federal Authority for Government HR,2025-10-20,8,Completed,Passed
+TRN-00156,MOEI-10047,Service Design Thinking,Customer Service,Mohammed Bin Rashid School of Government,2025-02-08,24,Completed,Passed
+TRN-00157,MOEI-10047,Public Procurement Rules,Finance & Procurement,Federal Authority for Government HR,2025-02-19,4,Completed,Passed
+TRN-00158,MOEI-10048,Data Visualization,Data Analytics,Coursera (Gov Licence),,4,Enrolled,
+TRN-00159,MOEI-10049,Public Procurement Rules,Finance & Procurement,Federal Authority for Government HR,2023-01-03,4,Completed,Passed
+TRN-00160,MOEI-10049,Generative AI Foundations,Digital & AI,MOEI Academy,,24,Enrolled,
+TRN-00161,MOEI-10049,Information Security Basics,Compliance & Ethics,Mohammed Bin Rashid School of Government,2024-09-11,40,Completed,Passed
+TRN-00162,MOEI-10049,Occupational Health & Safety,Health & Safety,External Vendor,2024-02-04,4,Completed,Passed
+TRN-00163,MOEI-10049,Government Budgeting,Finance & Procurement,Mohammed Bin Rashid School of Government,2025-04-06,16,Completed,Passed
+TRN-00164,MOEI-10049,Data Visualization,Data Analytics,Mohammed Bin Rashid School of Government,2022-12-01,16,Completed,Passed
+TRN-00165,MOEI-10050,Code of Ethics Refresher,Compliance & Ethics,MOEI Academy,2024-10-29,24,Completed,Passed
+TRN-00166,MOEI-10050,Risk Management Fundamentals,Project Management,External Vendor,2024-07-12,8,Completed,Passed
+TRN-00167,MOEI-10050,Infrastructure Asset Management,Technical & Engineering,Mohammed Bin Rashid School of Government,,12,In Progress,
+TRN-00168,MOEI-10050,Energy Systems,Technical & Engineering,MOEI Academy,,8,In Progress,
+TRN-00169,MOEI-10051,Emergency Response,Health & Safety,Federal Authority for Government HR,,4,Enrolled,
+TRN-00170,MOEI-10051,PMP Preparation,Project Management,Federal Authority for Government HR,2024-10-27,24,Completed,Passed
+TRN-00171,MOEI-10051,Public Speaking,Language & Communication,External Vendor,,40,In Progress,
+TRN-00172,MOEI-10052,Service Design Thinking,Customer Service,Federal Authority for Government HR,2022-06-06,4,Completed,Passed
+TRN-00173,MOEI-10053,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),2025-11-16,24,Completed,Passed
+TRN-00174,MOEI-10053,Infrastructure Asset Management,Technical & Engineering,MOEI Academy,2022-12-19,40,Completed,Passed
+TRN-00175,MOEI-10053,Data-Driven Decision Making,Digital & AI,Federal Authority for Government HR,,40,In Progress,
+TRN-00176,MOEI-10053,Agile Project Delivery,Project Management,MOEI Academy,2022-09-14,16,Completed,Passed
+TRN-00177,MOEI-10054,Applied AI for Government,Digital & AI,Coursera (Gov Licence),2022-02-08,4,Completed,Passed
+TRN-00178,MOEI-10054,PMP Preparation,Project Management,External Vendor,2022-03-09,24,Completed,Passed
+TRN-00179,MOEI-10054,Strategic Decision Making,Leadership & Management,MOEI Academy,,4,In Progress,
+TRN-00180,MOEI-10054,Financial Reporting,Finance & Procurement,MOEI Academy,2022-01-22,24,Completed,Passed
+TRN-00181,MOEI-10054,Risk Management Fundamentals,Project Management,Mohammed Bin Rashid School of Government,2023-02-14,4,Completed,Passed
+TRN-00182,MOEI-10054,Data-Driven Decision Making,Digital & AI,External Vendor,,12,Enrolled,
+TRN-00183,MOEI-10055,Advanced Excel for Analysts,Data Analytics,MOEI Academy,2024-10-31,24,Completed,Passed
+TRN-00184,MOEI-10055,Government Leadership Excellence,Leadership & Management,Mohammed Bin Rashid School of Government,2026-01-05,8,Completed,Passed
+TRN-00185,MOEI-10055,Maritime Safety Standards,Technical & Engineering,Federal Authority for Government HR,2026-01-25,24,Completed,Passed
+TRN-00186,MOEI-10056,Emergency Response,Health & Safety,Coursera (Gov Licence),2025-11-30,40,Completed,Passed
+TRN-00187,MOEI-10056,Data-Driven Decision Making,Digital & AI,Coursera (Gov Licence),,8,Enrolled,
+TRN-00188,MOEI-10056,Maritime Safety Standards,Technical & Engineering,Mohammed Bin Rashid School of Government,2024-04-14,4,Completed,Passed
+TRN-00189,MOEI-10056,Occupational Health & Safety,Health & Safety,Mohammed Bin Rashid School of Government,2024-11-30,40,Completed,Passed
+TRN-00190,MOEI-10056,Financial Reporting,Finance & Procurement,Mohammed Bin Rashid School of Government,2026-01-18,16,Completed,Passed
+TRN-00191,MOEI-10056,Digital Transformation,Digital & AI,Mohammed Bin Rashid School of Government,2023-08-04,40,Completed,Passed
+TRN-00192,MOEI-10057,Risk Management Fundamentals,Project Management,Coursera (Gov Licence),2024-11-25,8,Completed,Passed
+TRN-00193,MOEI-10057,Digital Transformation,Digital & AI,Coursera (Gov Licence),2024-09-04,40,Completed,Passed
+TRN-00194,MOEI-10057,Occupational Health & Safety,Health & Safety,Coursera (Gov Licence),2023-04-15,40,Completed,Passed
+TRN-00195,MOEI-10058,Data-Driven Decision Making,Digital & AI,Federal Authority for Government HR,2023-07-31,12,Completed,Passed
+TRN-00196,MOEI-10058,Risk Management Fundamentals,Project Management,Coursera (Gov Licence),2025-06-25,40,Completed,Passed
+TRN-00197,MOEI-10058,Emergency Response,Health & Safety,Coursera (Gov Licence),2024-09-30,12,Completed,Passed
+TRN-00198,MOEI-10059,Occupational Health & Safety,Health & Safety,Coursera (Gov Licence),2022-09-08,8,Completed,Passed
+TRN-00199,MOEI-10059,Power BI Essentials,Data Analytics,MOEI Academy,2022-07-23,16,Completed,Passed
+TRN-00200,MOEI-10060,Government Leadership Excellence,Leadership & Management,Mohammed Bin Rashid School of Government,2024-02-23,8,Completed,Passed
+TRN-00201,MOEI-10060,Financial Reporting,Finance & Procurement,MOEI Academy,2025-06-30,40,Completed,Passed
+TRN-00202,MOEI-10060,Infrastructure Asset Management,Technical & Engineering,Coursera (Gov Licence),2024-08-12,16,Completed,Passed
+TRN-00203,MOEI-10060,Energy Systems,Technical & Engineering,MOEI Academy,,16,Enrolled,
+TRN-00204,MOEI-10061,Service Design Thinking,Customer Service,Coursera (Gov Licence),,16,In Progress,
+TRN-00205,MOEI-10062,Generative AI Foundations,Digital & AI,Coursera (Gov Licence),2025-12-17,8,Completed,Passed
+TRN-00206,MOEI-10062,Future Leaders Programme,Leadership & Management,External Vendor,2025-03-11,40,Completed,Passed
+TRN-00207,MOEI-10062,Emergency Response,Health & Safety,External Vendor,,4,In Progress,
+TRN-00208,MOEI-10062,Strategic Decision Making,Leadership & Management,Mohammed Bin Rashid School of Government,2025-06-17,12,Completed,Passed
+TRN-00209,MOEI-10063,Future Leaders Programme,Leadership & Management,Mohammed Bin Rashid School of Government,,40,In Progress,
+TRN-00210,MOEI-10064,Coaching for Managers,Leadership & Management,Mohammed Bin Rashid School of Government,2026-04-01,12,Completed,Passed
+TRN-00211,MOEI-10064,Service Design Thinking,Customer Service,Federal Authority for Government HR,2025-10-17,8,Completed,Passed
+TRN-00212,MOEI-10064,Financial Reporting,Finance & Procurement,MOEI Academy,,12,In Progress,
+TRN-00213,MOEI-10064,Generative AI Foundations,Digital & AI,Mohammed Bin Rashid School of Government,2025-12-14,4,Completed,Passed
+TRN-00214,MOEI-10064,Emergency Response,Health & Safety,Coursera (Gov Licence),2026-04-22,24,Completed,Passed
+TRN-00215,MOEI-10065,Anti-Fraud Awareness,Compliance & Ethics,External Vendor,2025-04-25,4,Completed,Passed
+TRN-00216,MOEI-10066,Data-Driven Decision Making,Digital & AI,Mohammed Bin Rashid School of Government,2023-11-20,8,Completed,Passed
+TRN-00217,MOEI-10066,Arabic Business Writing,Language & Communication,Federal Authority for Government HR,,16,Enrolled,
+TRN-00218,MOEI-10066,Public Procurement Rules,Finance & Procurement,External Vendor,2022-04-08,16,Completed,Passed
+TRN-00219,MOEI-10067,Public Speaking,Language & Communication,External Vendor,2023-10-31,4,Completed,Passed
+TRN-00220,MOEI-10067,Arabic Business Writing,Language & Communication,External Vendor,2024-11-05,16,Completed,Passed
+TRN-00221,MOEI-10068,Agile Project Delivery,Project Management,Mohammed Bin Rashid School of Government,2022-06-07,24,Completed,Passed
+TRN-00222,MOEI-10068,Public Procurement Rules,Finance & Procurement,Federal Authority for Government HR,2025-09-20,16,Completed,Passed
+TRN-00223,MOEI-10068,Service Design Thinking,Customer Service,External Vendor,2025-07-03,8,Completed,Passed
+TRN-00224,MOEI-10068,Government Leadership Excellence,Leadership & Management,Coursera (Gov Licence),2025-03-27,12,Completed,Passed
+TRN-00225,MOEI-10069,Energy Systems,Technical & Engineering,MOEI Academy,,24,Enrolled,
+TRN-00226,MOEI-10069,Agile Project Delivery,Project Management,Federal Authority for Government HR,2026-05-04,40,Completed,Passed
+TRN-00227,MOEI-10069,Public Procurement Rules,Finance & Procurement,MOEI Academy,2026-04-21,40,Completed,Passed
+TRN-00228,MOEI-10070,Service Design Thinking,Customer Service,Mohammed Bin Rashid School of Government,2023-08-11,40,Completed,Passed
+TRN-00229,MOEI-10070,Business English,Language & Communication,Federal Authority for Government HR,2024-04-11,8,Completed,Passed
+TRN-00230,MOEI-10071,Public Procurement Rules,Finance & Procurement,Coursera (Gov Licence),2024-09-21,16,Completed,Passed
+TRN-00231,MOEI-10071,Government Leadership Excellence,Leadership & Management,MOEI Academy,2022-11-23,12,Completed,Passed
+TRN-00232,MOEI-10071,Financial Reporting,Finance & Procurement,MOEI Academy,2025-02-01,40,Completed,Passed
+TRN-00233,MOEI-10071,Future Leaders Programme,Leadership & Management,MOEI Academy,2023-10-05,16,Completed,Passed
+TRN-00234,MOEI-10071,Digital Transformation,Digital & AI,Federal Authority for Government HR,,4,In Progress,
+TRN-00235,MOEI-10072,Maritime Safety Standards,Technical & Engineering,External Vendor,2024-12-04,24,Completed,Passed
+TRN-00236,MOEI-10072,Public Procurement Rules,Finance & Procurement,MOEI Academy,2022-07-04,12,Completed,Passed
+TRN-00237,MOEI-10072,Information Security Basics,Compliance & Ethics,Federal Authority for Government HR,2026-02-18,16,Completed,Passed
+TRN-00238,MOEI-10072,PMP Preparation,Project Management,Mohammed Bin Rashid School of Government,2022-08-07,16,Completed,Passed
+TRN-00239,MOEI-10072,Service Design Thinking,Customer Service,External Vendor,2025-04-22,12,Completed,Passed
+TRN-00240,MOEI-10073,Generative AI Foundations,Digital & AI,Federal Authority for Government HR,2026-02-07,12,Completed,Passed
+TRN-00241,MOEI-10073,Data Visualization,Data Analytics,Mohammed Bin Rashid School of Government,2026-04-01,4,Completed,Passed
+TRN-00242,MOEI-10073,Business English,Language & Communication,Federal Authority for Government HR,2025-01-25,12,Completed,Passed
+TRN-00243,MOEI-10073,Infrastructure Asset Management,Technical & Engineering,Mohammed Bin Rashid School of Government,2025-10-13,40,Completed,Passed
+TRN-00244,MOEI-10073,Data-Driven Decision Making,Digital & AI,Coursera (Gov Licence),2026-02-27,12,Completed,Passed
+TRN-00245,MOEI-10073,Government Budgeting,Finance & Procurement,Federal Authority for Government HR,2025-07-30,16,Completed,Passed
+TRN-00246,MOEI-10074,Information Security Basics,Compliance & Ethics,Mohammed Bin Rashid School of Government,2026-02-26,4,Completed,Passed
+TRN-00247,MOEI-10074,Emergency Response,Health & Safety,Mohammed Bin Rashid School of Government,,40,Enrolled,
+TRN-00248,MOEI-10074,Customer Happiness Standards,Customer Service,External Vendor,2025-06-19,4,Completed,Passed
+TRN-00249,MOEI-10074,Anti-Fraud Awareness,Compliance & Ethics,MOEI Academy,2025-12-06,4,Completed,Passed
+TRN-00250,MOEI-10074,SQL for Beginners,Data Analytics,Federal Authority for Government HR,2025-05-25,40,Completed,Passed
+TRN-00251,MOEI-10074,Public Procurement Rules,Finance & Procurement,Federal Authority for Government HR,2025-03-31,24,Completed,Passed
+TRN-00252,MOEI-10075,SQL for Beginners,Data Analytics,Federal Authority for Government HR,2023-10-17,12,Completed,Passed
+TRN-00253,MOEI-10075,Data Visualization,Data Analytics,Coursera (Gov Licence),2023-08-01,12,Completed,Passed
+TRN-00254,MOEI-10075,Customer Happiness Standards,Customer Service,External Vendor,,40,Enrolled,
+TRN-00255,MOEI-10075,Public Speaking,Language & Communication,Coursera (Gov Licence),,8,In Progress,
+TRN-00256,MOEI-10075,Financial Reporting,Finance & Procurement,External Vendor,2022-12-12,16,Completed,Passed
+TRN-00257,MOEI-10076,Data-Driven Decision Making,Digital & AI,External Vendor,2025-03-07,16,Completed,Passed
+TRN-00258,MOEI-10076,Emergency Response,Health & Safety,Federal Authority for Government HR,2022-08-31,8,Completed,Passed
+TRN-00259,MOEI-10076,Public Procurement Rules,Finance & Procurement,Federal Authority for Government HR,2026-03-09,16,Completed,Passed
+TRN-00260,MOEI-10076,Business English,Language & Communication,Federal Authority for Government HR,2023-08-03,16,Completed,Passed
+TRN-00261,MOEI-10076,Applied AI for Government,Digital & AI,Federal Authority for Government HR,,24,Enrolled,
+TRN-00262,MOEI-10076,Strategic Decision Making,Leadership & Management,Federal Authority for Government HR,2022-06-25,12,Completed,Passed
+TRN-00263,MOEI-10076,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),2025-12-31,40,Completed,Passed
+TRN-00264,MOEI-10077,Government Budgeting,Finance & Procurement,MOEI Academy,2022-07-15,12,Completed,Passed
+TRN-00265,MOEI-10077,Agile Project Delivery,Project Management,External Vendor,,40,Enrolled,
+TRN-00266,MOEI-10077,Future Leaders Programme,Leadership & Management,Coursera (Gov Licence),2023-06-04,12,Completed,Passed
+TRN-00267,MOEI-10077,Service Design Thinking,Customer Service,External Vendor,,4,Enrolled,
+TRN-00268,MOEI-10077,Business English,Language & Communication,Coursera (Gov Licence),2023-06-18,12,Completed,Passed
+TRN-00269,MOEI-10078,Power BI Essentials,Data Analytics,Coursera (Gov Licence),2023-10-12,8,Completed,Passed
+TRN-00270,MOEI-10078,Government Budgeting,Finance & Procurement,Federal Authority for Government HR,2023-10-04,16,Completed,Passed
+TRN-00271,MOEI-10078,Financial Reporting,Finance & Procurement,Mohammed Bin Rashid School of Government,,12,Enrolled,
+TRN-00272,MOEI-10078,Arabic Business Writing,Language & Communication,Federal Authority for Government HR,2024-11-24,12,Completed,Passed
+TRN-00273,MOEI-10079,Occupational Health & Safety,Health & Safety,Coursera (Gov Licence),,4,In Progress,
+TRN-00274,MOEI-10079,PMP Preparation,Project Management,MOEI Academy,2022-04-22,16,Completed,Passed
+TRN-00275,MOEI-10079,Government Budgeting,Finance & Procurement,MOEI Academy,2025-12-16,16,Completed,Passed
+TRN-00276,MOEI-10079,Strategic Decision Making,Leadership & Management,External Vendor,,16,Enrolled,
+TRN-00277,MOEI-10079,Emergency Response,Health & Safety,Federal Authority for Government HR,,4,In Progress,
+TRN-00278,MOEI-10079,Code of Ethics Refresher,Compliance & Ethics,Federal Authority for Government HR,,8,In Progress,
+TRN-00279,MOEI-10080,Infrastructure Asset Management,Technical & Engineering,External Vendor,,8,In Progress,
+TRN-00280,MOEI-10080,Business English,Language & Communication,Federal Authority for Government HR,2025-03-10,16,Completed,Passed
+TRN-00281,MOEI-10080,Data-Driven Decision Making,Digital & AI,MOEI Academy,2025-11-13,12,Completed,Passed
+TRN-00282,MOEI-10081,Financial Reporting,Finance & Procurement,Mohammed Bin Rashid School of Government,2025-10-25,24,Completed,Passed
+TRN-00283,MOEI-10082,Code of Ethics Refresher,Compliance & Ethics,Coursera (Gov Licence),2022-03-01,16,Completed,Passed
+TRN-00284,MOEI-10083,Financial Reporting,Finance & Procurement,MOEI Academy,2025-09-09,40,Completed,Passed
+TRN-00285,MOEI-10083,Arabic Business Writing,Language & Communication,External Vendor,,8,Enrolled,
+TRN-00286,MOEI-10083,PMP Preparation,Project Management,MOEI Academy,2025-08-11,40,Completed,Passed
+TRN-00287,MOEI-10083,Digital Transformation,Digital & AI,Federal Authority for Government HR,2022-07-09,8,Completed,Passed
+TRN-00288,MOEI-10083,Customer Happiness Standards,Customer Service,Federal Authority for Government HR,,16,In Progress,
+TRN-00289,MOEI-10083,Service Design Thinking,Customer Service,Federal Authority for Government HR,2025-08-18,4,Completed,Passed
+TRN-00290,MOEI-10084,Financial Reporting,Finance & Procurement,MOEI Academy,2024-01-19,12,Completed,Passed
+TRN-00291,MOEI-10084,Emergency Response,Health & Safety,External Vendor,2025-06-28,24,Completed,Passed
+TRN-00292,MOEI-10084,Generative AI Foundations,Digital & AI,Coursera (Gov Licence),2024-05-11,4,Completed,Passed
+TRN-00293,MOEI-10084,Strategic Decision Making,Leadership & Management,Federal Authority for Government HR,2024-07-28,16,Completed,Passed
+TRN-00294,MOEI-10084,Maritime Safety Standards,Technical & Engineering,MOEI Academy,2024-12-11,16,Completed,Passed
+TRN-00295,MOEI-10084,Infrastructure Asset Management,Technical & Engineering,External Vendor,2024-12-21,4,Completed,Passed
+TRN-00296,MOEI-10084,Customer Happiness Standards,Customer Service,External Vendor,2025-12-02,12,Completed,Passed
+TRN-00297,MOEI-10085,Financial Reporting,Finance & Procurement,MOEI Academy,2022-06-17,4,Completed,Passed
+TRN-00298,MOEI-10085,Occupational Health & Safety,Health & Safety,Coursera (Gov Licence),2026-05-30,4,Completed,Passed
+TRN-00299,MOEI-10085,Digital Transformation,Digital & AI,External Vendor,2025-12-13,40,Completed,Passed
+TRN-00300,MOEI-10086,Emergency Response,Health & Safety,Federal Authority for Government HR,,8,Enrolled,
+TRN-00301,MOEI-10087,Generative AI Foundations,Digital & AI,MOEI Academy,2025-08-31,4,Completed,Passed
+TRN-00302,MOEI-10087,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),2025-07-14,16,Completed,Passed
+TRN-00303,MOEI-10088,Service Design Thinking,Customer Service,External Vendor,2025-02-11,12,Completed,Passed
+TRN-00304,MOEI-10088,Data-Driven Decision Making,Digital & AI,MOEI Academy,2024-03-04,4,Completed,Passed
+TRN-00305,MOEI-10088,PMP Preparation,Project Management,Federal Authority for Government HR,2024-08-03,40,Completed,Passed
+TRN-00306,MOEI-10088,Agile Project Delivery,Project Management,Coursera (Gov Licence),2024-06-26,8,Completed,Passed
+TRN-00307,MOEI-10088,Emergency Response,Health & Safety,Federal Authority for Government HR,2023-07-16,40,Completed,Passed
+TRN-00308,MOEI-10089,Emergency Response,Health & Safety,Coursera (Gov Licence),2024-08-23,24,Completed,Passed
+TRN-00309,MOEI-10089,PMP Preparation,Project Management,Coursera (Gov Licence),2023-08-27,4,Completed,Passed
+TRN-00310,MOEI-10089,Code of Ethics Refresher,Compliance & Ethics,Coursera (Gov Licence),2022-07-30,16,Completed,Passed
+TRN-00311,MOEI-10089,Strategic Decision Making,Leadership & Management,External Vendor,2024-03-29,40,Completed,Passed
+TRN-00312,MOEI-10089,Public Speaking,Language & Communication,MOEI Academy,2024-09-26,24,Completed,Passed
+TRN-00313,MOEI-10090,Service Design Thinking,Customer Service,Coursera (Gov Licence),2025-02-07,16,Completed,Passed
+TRN-00314,MOEI-10091,Emergency Response,Health & Safety,MOEI Academy,2026-04-30,8,Completed,Passed
+TRN-00315,MOEI-10092,Agile Project Delivery,Project Management,External Vendor,2026-04-04,8,Completed,Passed
+TRN-00316,MOEI-10092,Public Speaking,Language & Communication,Coursera (Gov Licence),,8,Enrolled,
+TRN-00317,MOEI-10092,Financial Reporting,Finance & Procurement,Mohammed Bin Rashid School of Government,,16,Enrolled,
+TRN-00318,MOEI-10093,Digital Transformation,Digital & AI,Federal Authority for Government HR,2024-03-06,24,Completed,Passed
+TRN-00319,MOEI-10093,Future Leaders Programme,Leadership & Management,Mohammed Bin Rashid School of Government,2023-11-13,12,Completed,Passed
+TRN-00320,MOEI-10093,Power BI Essentials,Data Analytics,Coursera (Gov Licence),2026-01-29,4,Completed,Passed
+TRN-00321,MOEI-10093,Data-Driven Decision Making,Digital & AI,Mohammed Bin Rashid School of Government,2025-03-07,12,Completed,Passed
+TRN-00322,MOEI-10093,Infrastructure Asset Management,Technical & Engineering,External Vendor,2026-04-30,24,Completed,Passed
+TRN-00323,MOEI-10094,Applied AI for Government,Digital & AI,MOEI Academy,2025-01-26,4,Completed,Passed
+TRN-00324,MOEI-10094,Public Speaking,Language & Communication,MOEI Academy,,24,In Progress,
+TRN-00325,MOEI-10094,Data-Driven Decision Making,Digital & AI,Federal Authority for Government HR,2026-02-24,12,Completed,Passed
+TRN-00326,MOEI-10094,Data Visualization,Data Analytics,Coursera (Gov Licence),2025-02-03,40,Completed,Passed
+TRN-00327,MOEI-10094,Anti-Fraud Awareness,Compliance & Ethics,Federal Authority for Government HR,2023-05-23,16,Completed,Passed
+TRN-00328,MOEI-10095,Government Leadership Excellence,Leadership & Management,External Vendor,2024-08-28,8,Completed,Passed
+TRN-00329,MOEI-10096,Public Procurement Rules,Finance & Procurement,Federal Authority for Government HR,2026-04-19,8,Completed,Passed
+TRN-00330,MOEI-10097,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),,16,In Progress,
+TRN-00331,MOEI-10097,Emergency Response,Health & Safety,MOEI Academy,2022-03-02,40,Completed,Passed
+TRN-00332,MOEI-10097,Maritime Safety Standards,Technical & Engineering,Coursera (Gov Licence),2022-06-23,8,Completed,Passed
+TRN-00333,MOEI-10098,Power BI Essentials,Data Analytics,External Vendor,,12,Enrolled,
+TRN-00334,MOEI-10098,Service Design Thinking,Customer Service,Mohammed Bin Rashid School of Government,2025-10-26,40,Completed,Passed
+TRN-00335,MOEI-10098,Anti-Fraud Awareness,Compliance & Ethics,External Vendor,,24,In Progress,
+TRN-00336,MOEI-10099,Service Design Thinking,Customer Service,External Vendor,2025-08-11,24,Completed,Passed
+TRN-00337,MOEI-10099,Public Speaking,Language & Communication,Coursera (Gov Licence),2024-06-24,8,Completed,Passed
+TRN-00338,MOEI-10100,Applied AI for Government,Digital & AI,Federal Authority for Government HR,2025-12-05,24,Completed,Passed
+TRN-00339,MOEI-10100,Infrastructure Asset Management,Technical & Engineering,External Vendor,2024-02-11,12,Completed,Passed
+TRN-00340,MOEI-10101,Generative AI Foundations,Digital & AI,Mohammed Bin Rashid School of Government,,40,In Progress,
+TRN-00341,MOEI-10101,Applied AI for Government,Digital & AI,External Vendor,2024-02-03,12,Completed,Passed
+TRN-00342,MOEI-10101,Data-Driven Decision Making,Digital & AI,External Vendor,2023-12-19,40,Completed,Passed
+TRN-00343,MOEI-10101,Government Leadership Excellence,Leadership & Management,External Vendor,2022-08-04,8,Completed,Passed
+TRN-00344,MOEI-10101,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),2022-07-20,16,Completed,Passed
+TRN-00345,MOEI-10101,Coaching for Managers,Leadership & Management,External Vendor,2025-10-18,24,Completed,Passed
+TRN-00346,MOEI-10101,Service Design Thinking,Customer Service,Coursera (Gov Licence),2025-04-11,16,Completed,Passed
+TRN-00347,MOEI-10102,Emergency Response,Health & Safety,Federal Authority for Government HR,2022-11-30,16,Completed,Passed
+TRN-00348,MOEI-10102,Occupational Health & Safety,Health & Safety,External Vendor,2025-12-13,4,Completed,Passed
+TRN-00349,MOEI-10102,Agile Project Delivery,Project Management,Federal Authority for Government HR,2024-08-27,24,Completed,Passed
+TRN-00350,MOEI-10104,Arabic Business Writing,Language & Communication,External Vendor,2022-08-14,12,Completed,Passed
+TRN-00351,MOEI-10105,Coaching for Managers,Leadership & Management,MOEI Academy,2023-09-14,8,Completed,Passed
+TRN-00352,MOEI-10105,Applied AI for Government,Digital & AI,Federal Authority for Government HR,,8,In Progress,
+TRN-00353,MOEI-10105,Occupational Health & Safety,Health & Safety,MOEI Academy,2022-09-08,4,Completed,Passed
+TRN-00354,MOEI-10105,Digital Transformation,Digital & AI,Coursera (Gov Licence),2023-11-23,40,Completed,Passed
+TRN-00355,MOEI-10105,Advanced Excel for Analysts,Data Analytics,Coursera (Gov Licence),2024-10-30,40,Completed,Passed
+TRN-00356,MOEI-10106,Data Visualization,Data Analytics,External Vendor,2022-07-02,16,Completed,Passed
+TRN-00357,MOEI-10107,Agile Project Delivery,Project Management,Coursera (Gov Licence),2024-10-25,40,Completed,Passed
+TRN-00358,MOEI-10107,Financial Reporting,Finance & Procurement,MOEI Academy,,24,In Progress,
+TRN-00359,MOEI-10107,Applied AI for Government,Digital & AI,External Vendor,,24,Enrolled,
+TRN-00360,MOEI-10108,Public Speaking,Language & Communication,External Vendor,2023-01-23,4,Completed,Passed
+TRN-00361,MOEI-10109,Maritime Safety Standards,Technical & Engineering,Federal Authority for Government HR,2022-02-08,8,Completed,Passed
+TRN-00362,MOEI-10110,Arabic Business Writing,Language & Communication,External Vendor,,12,In Progress,
+TRN-00363,MOEI-10110,Customer Happiness Standards,Customer Service,MOEI Academy,,12,In Progress,
+TRN-00364,MOEI-10110,Infrastructure Asset Management,Technical & Engineering,MOEI Academy,2024-07-22,4,Completed,Passed
+TRN-00365,MOEI-10110,Maritime Safety Standards,Technical & Engineering,Mohammed Bin Rashid School of Government,2024-01-06,4,Completed,Passed
+TRN-00366,MOEI-10111,Public Procurement Rules,Finance & Procurement,External Vendor,2025-10-21,12,Completed,Passed
+TRN-00367,MOEI-10111,Power BI Essentials,Data Analytics,Coursera (Gov Licence),2025-12-31,4,Completed,Passed
+TRN-00368,MOEI-10112,SQL for Beginners,Data Analytics,MOEI Academy,2023-10-26,4,Completed,Passed
+TRN-00369,MOEI-10112,PMP Preparation,Project Management,Federal Authority for Government HR,2026-03-21,16,Completed,Passed
+TRN-00370,MOEI-10112,Energy Systems,Technical & Engineering,Mohammed Bin Rashid School of Government,,4,Enrolled,
+TRN-00371,MOEI-10114,Government Leadership Excellence,Leadership & Management,External Vendor,2022-02-08,40,Completed,Passed
+TRN-00372,MOEI-10114,Data-Driven Decision Making,Digital & AI,Coursera (Gov Licence),2023-09-16,4,Completed,Passed
+TRN-00373,MOEI-10114,Maritime Safety Standards,Technical & Engineering,Mohammed Bin Rashid School of Government,,24,Enrolled,
+TRN-00374,MOEI-10114,Risk Management Fundamentals,Project Management,External Vendor,,16,Enrolled,
+TRN-00375,MOEI-10114,Generative AI Foundations,Digital & AI,MOEI Academy,,4,Enrolled,
+TRN-00376,MOEI-10114,Emergency Response,Health & Safety,Coursera (Gov Licence),2025-05-09,12,Completed,Passed
+TRN-00377,MOEI-10114,Government Budgeting,Finance & Procurement,External Vendor,2022-11-27,4,Completed,Passed
+TRN-00378,MOEI-10114,Future Leaders Programme,Leadership & Management,Mohammed Bin Rashid School of Government,2022-10-14,16,Completed,Passed
+TRN-00379,MOEI-10115,Information Security Basics,Compliance & Ethics,Coursera (Gov Licence),,12,Enrolled,
+TRN-00380,MOEI-10115,Risk Management Fundamentals,Project Management,Coursera (Gov Licence),2024-12-01,24,Completed,Passed
+TRN-00381,MOEI-10115,Code of Ethics Refresher,Compliance & Ethics,MOEI Academy,2023-11-12,24,Completed,Passed
+TRN-00382,MOEI-10115,Occupational Health & Safety,Health & Safety,Coursera (Gov Licence),2023-03-03,24,Completed,Passed
+TRN-00383,MOEI-10115,Emergency Response,Health & Safety,MOEI Academy,2026-02-18,24,Completed,Passed
+TRN-00384,MOEI-10115,Strategic Decision Making,Leadership & Management,Coursera (Gov Licence),2023-10-22,24,Completed,Passed
+TRN-00385,MOEI-10116,Customer Happiness Standards,Customer Service,MOEI Academy,2026-04-17,4,Completed,Passed
+TRN-00386,MOEI-10116,Emergency Response,Health & Safety,Federal Authority for Government HR,2025-05-21,40,Completed,Passed
+TRN-00387,MOEI-10116,Coaching for Managers,Leadership & Management,Mohammed Bin Rashid School of Government,,8,Enrolled,
+TRN-00388,MOEI-10117,Public Speaking,Language & Communication,Federal Authority for Government HR,,8,In Progress,
+TRN-00389,MOEI-10118,Code of Ethics Refresher,Compliance & Ethics,External Vendor,2023-07-29,8,Completed,Passed
+TRN-00390,MOEI-10118,Government Leadership Excellence,Leadership & Management,Mohammed Bin Rashid School of Government,2025-07-31,24,Completed,Passed
+TRN-00391,MOEI-10118,Infrastructure Asset Management,Technical & Engineering,External Vendor,2022-12-16,40,Completed,Passed
+TRN-00392,MOEI-10118,Public Speaking,Language & Communication,Federal Authority for Government HR,2022-12-26,40,Completed,Passed
+TRN-00393,MOEI-10119,Data Visualization,Data Analytics,External Vendor,,40,In Progress,
+TRN-00394,MOEI-10121,Coaching for Managers,Leadership & Management,Coursera (Gov Licence),2025-10-26,4,Completed,Passed
+TRN-00395,MOEI-10121,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),2023-10-24,12,Completed,Passed
+TRN-00396,MOEI-10122,Infrastructure Asset Management,Technical & Engineering,MOEI Academy,2025-10-17,40,Completed,Passed
+TRN-00397,MOEI-10123,Coaching for Managers,Leadership & Management,Mohammed Bin Rashid School of Government,2024-05-10,4,Completed,Passed
+TRN-00398,MOEI-10123,Customer Happiness Standards,Customer Service,External Vendor,2023-11-17,4,Completed,Passed
+TRN-00399,MOEI-10124,Risk Management Fundamentals,Project Management,Federal Authority for Government HR,,8,Enrolled,
+TRN-00400,MOEI-10124,Data Visualization,Data Analytics,MOEI Academy,2023-09-29,4,Completed,Passed
+TRN-00401,MOEI-10124,Emergency Response,Health & Safety,Mohammed Bin Rashid School of Government,2022-02-19,12,Completed,Passed
+TRN-00402,MOEI-10124,PMP Preparation,Project Management,Mohammed Bin Rashid School of Government,2024-08-27,4,Completed,Passed
+TRN-00403,MOEI-10124,Information Security Basics,Compliance & Ethics,External Vendor,,24,Enrolled,
+TRN-00404,MOEI-10124,Occupational Health & Safety,Health & Safety,MOEI Academy,2025-07-04,4,Completed,Passed
+TRN-00405,MOEI-10125,Strategic Decision Making,Leadership & Management,MOEI Academy,,8,In Progress,
+TRN-00406,MOEI-10126,Occupational Health & Safety,Health & Safety,Coursera (Gov Licence),2024-07-04,4,Completed,Passed
+TRN-00407,MOEI-10127,Future Leaders Programme,Leadership & Management,Coursera (Gov Licence),,4,In Progress,
+TRN-00408,MOEI-10128,Customer Happiness Standards,Customer Service,External Vendor,2025-05-12,4,Completed,Passed
+TRN-00409,MOEI-10128,Emergency Response,Health & Safety,External Vendor,2024-08-08,24,Completed,Passed
+TRN-00410,MOEI-10128,Generative AI Foundations,Digital & AI,MOEI Academy,,16,Enrolled,
+TRN-00411,MOEI-10128,Infrastructure Asset Management,Technical & Engineering,MOEI Academy,2025-04-18,4,Completed,Passed
+TRN-00412,MOEI-10128,Public Speaking,Language & Communication,Federal Authority for Government HR,2022-05-19,24,Completed,Passed
+TRN-00413,MOEI-10129,Infrastructure Asset Management,Technical & Engineering,External Vendor,2023-12-29,16,Completed,Passed
+TRN-00414,MOEI-10129,Advanced Excel for Analysts,Data Analytics,MOEI Academy,2022-10-09,8,Completed,Passed
+TRN-00415,MOEI-10130,Arabic Business Writing,Language & Communication,Mohammed Bin Rashid School of Government,,12,Enrolled,
+TRN-00416,MOEI-10130,Public Speaking,Language & Communication,Coursera (Gov Licence),2026-05-08,12,Completed,Passed
+TRN-00417,MOEI-10131,Code of Ethics Refresher,Compliance & Ethics,Federal Authority for Government HR,2025-12-20,4,Completed,Passed
+TRN-00418,MOEI-10131,Risk Management Fundamentals,Project Management,Coursera (Gov Licence),,12,In Progress,
+TRN-00419,MOEI-10131,PMP Preparation,Project Management,MOEI Academy,,12,In Progress,
+TRN-00420,MOEI-10133,Emergency Response,Health & Safety,Mohammed Bin Rashid School of Government,2025-03-30,24,Completed,Passed
+TRN-00421,MOEI-10133,Future Leaders Programme,Leadership & Management,MOEI Academy,,16,In Progress,
+TRN-00422,MOEI-10133,Government Leadership Excellence,Leadership & Management,External Vendor,2025-11-20,8,Completed,Passed
+TRN-00423,MOEI-10133,Generative AI Foundations,Digital & AI,Coursera (Gov Licence),2026-02-24,8,Completed,Passed
+TRN-00424,MOEI-10133,Coaching for Managers,Leadership & Management,MOEI Academy,2022-01-21,24,Completed,Passed
+TRN-00425,MOEI-10133,Code of Ethics Refresher,Compliance & Ethics,Mohammed Bin Rashid School of Government,2022-03-02,8,Completed,Passed
+TRN-00426,MOEI-10133,Data-Driven Decision Making,Digital & AI,Mohammed Bin Rashid School of Government,2023-02-06,4,Completed,Passed
+TRN-00427,MOEI-10134,SQL for Beginners,Data Analytics,MOEI Academy,2025-09-03,12,Completed,Passed
+TRN-00428,MOEI-10135,Public Procurement Rules,Finance & Procurement,Mohammed Bin Rashid School of Government,2023-05-07,40,Completed,Passed
+TRN-00429,MOEI-10135,SQL for Beginners,Data Analytics,Federal Authority for Government HR,2025-12-27,8,Completed,Passed
+TRN-00430,MOEI-10136,Risk Management Fundamentals,Project Management,Mohammed Bin Rashid School of Government,2024-07-14,24,Completed,Passed
+TRN-00431,MOEI-10136,Customer Happiness Standards,Customer Service,External Vendor,2022-09-03,8,Completed,Passed
+TRN-00432,MOEI-10137,Government Budgeting,Finance & Procurement,Mohammed Bin Rashid School of Government,2023-11-03,8,Completed,Passed
+TRN-00433,MOEI-10137,Energy Systems,Technical & Engineering,MOEI Academy,2024-09-28,16,Completed,Passed
+TRN-00434,MOEI-10137,Business English,Language & Communication,External Vendor,2022-12-09,12,Completed,Passed
+TRN-00435,MOEI-10137,Emergency Response,Health & Safety,Mohammed Bin Rashid School of Government,2023-01-02,24,Completed,Passed
+TRN-00436,MOEI-10138,Public Speaking,Language & Communication,Federal Authority for Government HR,2024-02-13,16,Completed,Passed
+TRN-00437,MOEI-10138,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),2024-11-15,24,Completed,Passed
+TRN-00438,MOEI-10138,Generative AI Foundations,Digital & AI,MOEI Academy,2025-07-23,12,Completed,Passed
+TRN-00439,MOEI-10138,Future Leaders Programme,Leadership & Management,Mohammed Bin Rashid School of Government,2025-04-27,16,Completed,Passed
+TRN-00440,MOEI-10138,Coaching for Managers,Leadership & Management,Mohammed Bin Rashid School of Government,2026-04-09,16,Completed,Passed
+TRN-00441,MOEI-10138,Code of Ethics Refresher,Compliance & Ethics,External Vendor,,24,In Progress,
+TRN-00442,MOEI-10138,Government Budgeting,Finance & Procurement,Mohammed Bin Rashid School of Government,2024-04-16,4,Completed,Passed
+TRN-00443,MOEI-10139,Anti-Fraud Awareness,Compliance & Ethics,Mohammed Bin Rashid School of Government,2024-04-24,8,Completed,Passed
+TRN-00444,MOEI-10139,Business English,Language & Communication,MOEI Academy,,12,In Progress,
+TRN-00445,MOEI-10139,Public Procurement Rules,Finance & Procurement,External Vendor,,40,Enrolled,
+TRN-00446,MOEI-10139,Strategic Decision Making,Leadership & Management,Federal Authority for Government HR,2026-04-14,16,Completed,Passed
+TRN-00447,MOEI-10139,PMP Preparation,Project Management,External Vendor,2023-10-17,24,Completed,Passed
+TRN-00448,MOEI-10139,Infrastructure Asset Management,Technical & Engineering,MOEI Academy,2025-03-15,12,Completed,Passed
+TRN-00449,MOEI-10140,Service Design Thinking,Customer Service,External Vendor,2023-11-22,4,Completed,Passed
+TRN-00450,MOEI-10140,Code of Ethics Refresher,Compliance & Ethics,Mohammed Bin Rashid School of Government,,40,In Progress,
+TRN-00451,MOEI-10141,Emergency Response,Health & Safety,Coursera (Gov Licence),2025-09-01,40,Completed,Passed
+TRN-00452,MOEI-10142,Infrastructure Asset Management,Technical & Engineering,External Vendor,2023-10-30,4,Completed,Passed
+TRN-00453,MOEI-10142,Advanced Excel for Analysts,Data Analytics,External Vendor,2023-11-08,24,Completed,Passed
+TRN-00454,MOEI-10142,Arabic Business Writing,Language & Communication,Coursera (Gov Licence),2024-02-20,4,Completed,Passed
+TRN-00455,MOEI-10143,Occupational Health & Safety,Health & Safety,Coursera (Gov Licence),2023-11-05,40,Completed,Passed
+TRN-00456,MOEI-10143,Government Budgeting,Finance & Procurement,External Vendor,2022-12-18,8,Completed,Passed
+TRN-00457,MOEI-10144,Arabic Business Writing,Language & Communication,MOEI Academy,2022-02-24,16,Completed,Passed
+TRN-00458,MOEI-10145,PMP Preparation,Project Management,MOEI Academy,2023-08-20,16,Completed,Passed
+TRN-00459,MOEI-10145,Coaching for Managers,Leadership & Management,Mohammed Bin Rashid School of Government,2024-11-27,16,Completed,Passed
+TRN-00460,MOEI-10145,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),2022-08-15,16,Completed,Passed
+TRN-00461,MOEI-10146,Digital Transformation,Digital & AI,Federal Authority for Government HR,2023-02-27,12,Completed,Passed
+TRN-00462,MOEI-10146,Service Design Thinking,Customer Service,Mohammed Bin Rashid School of Government,2022-11-22,24,Completed,Passed
+TRN-00463,MOEI-10146,Risk Management Fundamentals,Project Management,Mohammed Bin Rashid School of Government,2026-01-07,8,Completed,Passed
+TRN-00464,MOEI-10146,Government Leadership Excellence,Leadership & Management,Coursera (Gov Licence),2024-07-01,24,Completed,Passed
+TRN-00465,MOEI-10146,Information Security Basics,Compliance & Ethics,External Vendor,2024-10-02,4,Completed,Passed
+TRN-00466,MOEI-10147,Digital Transformation,Digital & AI,Mohammed Bin Rashid School of Government,2023-12-17,16,Completed,Passed
+TRN-00467,MOEI-10147,SQL for Beginners,Data Analytics,External Vendor,2023-05-31,40,Completed,Passed
+TRN-00468,MOEI-10147,Government Leadership Excellence,Leadership & Management,Coursera (Gov Licence),2025-12-06,40,Completed,Passed
+TRN-00469,MOEI-10147,PMP Preparation,Project Management,External Vendor,,12,In Progress,
+TRN-00470,MOEI-10147,Data-Driven Decision Making,Digital & AI,External Vendor,2024-10-12,4,Completed,Passed
+TRN-00471,MOEI-10147,Applied AI for Government,Digital & AI,Mohammed Bin Rashid School of Government,2024-11-04,16,Completed,Passed
+TRN-00472,MOEI-10147,Future Leaders Programme,Leadership & Management,Coursera (Gov Licence),2024-08-09,16,Completed,Passed
+TRN-00473,MOEI-10148,Data Visualization,Data Analytics,Coursera (Gov Licence),2025-10-04,16,Completed,Passed
+TRN-00474,MOEI-10148,Applied AI for Government,Digital & AI,Coursera (Gov Licence),2025-01-28,8,Completed,Passed
+TRN-00475,MOEI-10148,Emergency Response,Health & Safety,MOEI Academy,2022-11-27,24,Completed,Passed
+TRN-00476,MOEI-10148,Data-Driven Decision Making,Digital & AI,Coursera (Gov Licence),2023-08-26,8,Completed,Passed
+TRN-00477,MOEI-10148,Government Budgeting,Finance & Procurement,Federal Authority for Government HR,2024-06-21,40,Completed,Passed
+TRN-00478,MOEI-10149,Maritime Safety Standards,Technical & Engineering,External Vendor,2025-11-08,40,Completed,Passed
+TRN-00479,MOEI-10150,Digital Transformation,Digital & AI,MOEI Academy,2025-11-14,24,Completed,Passed
+TRN-00480,MOEI-10150,Future Leaders Programme,Leadership & Management,Federal Authority for Government HR,2026-05-01,8,Completed,Passed
+TRN-00481,MOEI-10150,Code of Ethics Refresher,Compliance & Ethics,Coursera (Gov Licence),2023-02-14,4,Completed,Passed
+TRN-00482,MOEI-10150,Coaching for Managers,Leadership & Management,MOEI Academy,2023-01-29,8,Completed,Passed
+TRN-00483,MOEI-10150,Data-Driven Decision Making,Digital & AI,Coursera (Gov Licence),2026-01-22,24,Completed,Passed
+TRN-00484,MOEI-10150,Generative AI Foundations,Digital & AI,Federal Authority for Government HR,2023-10-23,24,Completed,Passed
+TRN-00485,MOEI-10151,Infrastructure Asset Management,Technical & Engineering,Federal Authority for Government HR,2024-05-26,4,Completed,Passed
+TRN-00486,MOEI-10151,Anti-Fraud Awareness,Compliance & Ethics,Mohammed Bin Rashid School of Government,2022-12-22,4,Completed,Passed
+TRN-00487,MOEI-10152,Agile Project Delivery,Project Management,Mohammed Bin Rashid School of Government,2023-03-27,40,Completed,Passed
+TRN-00488,MOEI-10152,Arabic Business Writing,Language & Communication,Federal Authority for Government HR,2022-03-31,16,Completed,Passed
+TRN-00489,MOEI-10152,Financial Reporting,Finance & Procurement,MOEI Academy,,40,Enrolled,
+TRN-00490,MOEI-10152,Energy Systems,Technical & Engineering,MOEI Academy,2022-12-18,24,Completed,Passed
+TRN-00491,MOEI-10153,Customer Happiness Standards,Customer Service,Mohammed Bin Rashid School of Government,2023-11-12,40,Completed,Passed
+TRN-00492,MOEI-10153,Occupational Health & Safety,Health & Safety,External Vendor,2023-11-18,16,Completed,Passed
+TRN-00493,MOEI-10154,Public Speaking,Language & Communication,External Vendor,2022-09-10,4,Completed,Passed
+TRN-00494,MOEI-10154,Government Budgeting,Finance & Procurement,External Vendor,2025-01-07,4,Completed,Passed
+TRN-00495,MOEI-10154,Government Leadership Excellence,Leadership & Management,Federal Authority for Government HR,2024-09-19,8,Completed,Passed
+TRN-00496,MOEI-10154,Customer Happiness Standards,Customer Service,External Vendor,2026-03-20,16,Completed,Passed
+TRN-00497,MOEI-10154,Code of Ethics Refresher,Compliance & Ethics,MOEI Academy,2024-03-05,24,Completed,Passed
+TRN-00498,MOEI-10155,Government Budgeting,Finance & Procurement,Mohammed Bin Rashid School of Government,,12,In Progress,
+TRN-00499,MOEI-10156,Risk Management Fundamentals,Project Management,Federal Authority for Government HR,,40,In Progress,
+TRN-00500,MOEI-10157,Infrastructure Asset Management,Technical & Engineering,MOEI Academy,2024-03-30,4,Completed,Passed
+TRN-00501,MOEI-10158,Data-Driven Decision Making,Digital & AI,Federal Authority for Government HR,2022-04-17,8,Completed,Passed
+TRN-00502,MOEI-10158,Power BI Essentials,Data Analytics,Federal Authority for Government HR,2022-12-22,8,Completed,Passed
+TRN-00503,MOEI-10158,Maritime Safety Standards,Technical & Engineering,Mohammed Bin Rashid School of Government,2024-05-22,8,Completed,Passed
+TRN-00504,MOEI-10158,PMP Preparation,Project Management,Federal Authority for Government HR,2024-05-18,12,Completed,Passed
+TRN-00505,MOEI-10159,Arabic Business Writing,Language & Communication,Coursera (Gov Licence),2025-07-25,4,Completed,Passed
+TRN-00506,MOEI-10159,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),2024-02-13,16,Completed,Passed
+TRN-00507,MOEI-10159,Energy Systems,Technical & Engineering,Federal Authority for Government HR,2026-02-14,16,Completed,Passed
+TRN-00508,MOEI-10160,Service Design Thinking,Customer Service,Mohammed Bin Rashid School of Government,2022-06-20,24,Completed,Passed
+TRN-00509,MOEI-10161,Advanced Excel for Analysts,Data Analytics,Mohammed Bin Rashid School of Government,2023-06-11,16,Completed,Passed
+TRN-00510,MOEI-10161,Public Procurement Rules,Finance & Procurement,MOEI Academy,2025-02-25,12,Completed,Passed
+TRN-00511,MOEI-10161,SQL for Beginners,Data Analytics,Federal Authority for Government HR,2023-02-05,4,Completed,Passed
+TRN-00512,MOEI-10161,Coaching for Managers,Leadership & Management,Coursera (Gov Licence),2024-10-03,16,Completed,Passed
+TRN-00513,MOEI-10161,Anti-Fraud Awareness,Compliance & Ethics,External Vendor,2024-09-29,4,Completed,Passed
+TRN-00514,MOEI-10162,Future Leaders Programme,Leadership & Management,Federal Authority for Government HR,,8,Enrolled,
+TRN-00515,MOEI-10162,Service Design Thinking,Customer Service,Coursera (Gov Licence),2025-09-10,40,Completed,Passed
+TRN-00516,MOEI-10162,Information Security Basics,Compliance & Ethics,Coursera (Gov Licence),2024-11-17,40,Completed,Passed
+TRN-00517,MOEI-10162,PMP Preparation,Project Management,Mohammed Bin Rashid School of Government,2026-01-21,40,Completed,Passed
+TRN-00518,MOEI-10163,Government Leadership Excellence,Leadership & Management,Federal Authority for Government HR,2023-06-20,12,Completed,Passed
+TRN-00519,MOEI-10163,Risk Management Fundamentals,Project Management,Federal Authority for Government HR,,4,Enrolled,
+TRN-00520,MOEI-10163,Applied AI for Government,Digital & AI,Coursera (Gov Licence),2025-08-12,16,Completed,Passed
+TRN-00521,MOEI-10163,Business English,Language & Communication,Coursera (Gov Licence),,8,In Progress,
+TRN-00522,MOEI-10163,Service Design Thinking,Customer Service,External Vendor,2025-11-17,40,Completed,Passed
+TRN-00523,MOEI-10164,Customer Happiness Standards,Customer Service,Mohammed Bin Rashid School of Government,2023-01-10,8,Completed,Passed
+TRN-00524,MOEI-10164,Financial Reporting,Finance & Procurement,Coursera (Gov Licence),,40,Enrolled,
+TRN-00525,MOEI-10164,Government Budgeting,Finance & Procurement,MOEI Academy,,4,In Progress,
+TRN-00526,MOEI-10164,Digital Transformation,Digital & AI,Mohammed Bin Rashid School of Government,2025-05-11,40,Completed,Passed
+TRN-00527,MOEI-10164,Data Visualization,Data Analytics,Federal Authority for Government HR,2023-06-17,16,Completed,Passed
+TRN-00528,MOEI-10165,Maritime Safety Standards,Technical & Engineering,Federal Authority for Government HR,2024-07-11,8,Completed,Passed
+TRN-00529,MOEI-10165,PMP Preparation,Project Management,Federal Authority for Government HR,2026-03-16,12,Completed,Passed
+TRN-00530,MOEI-10166,Occupational Health & Safety,Health & Safety,Mohammed Bin Rashid School of Government,2025-07-27,4,Completed,Passed
+TRN-00531,MOEI-10166,Customer Happiness Standards,Customer Service,MOEI Academy,2023-07-21,24,Completed,Passed
+TRN-00532,MOEI-10166,Agile Project Delivery,Project Management,MOEI Academy,2024-09-20,4,Completed,Passed
+TRN-00533,MOEI-10166,Coaching for Managers,Leadership & Management,External Vendor,,4,Enrolled,
+TRN-00534,MOEI-10167,Risk Management Fundamentals,Project Management,External Vendor,2022-01-15,12,Completed,Passed
+TRN-00535,MOEI-10168,Emergency Response,Health & Safety,Mohammed Bin Rashid School of Government,2025-05-22,40,Completed,Passed
+TRN-00536,MOEI-10168,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),,16,Enrolled,
+TRN-00537,MOEI-10168,Business English,Language & Communication,MOEI Academy,,4,In Progress,
+TRN-00538,MOEI-10169,Power BI Essentials,Data Analytics,Mohammed Bin Rashid School of Government,,40,In Progress,
+TRN-00539,MOEI-10169,Agile Project Delivery,Project Management,Coursera (Gov Licence),2026-05-01,24,Completed,Passed
+TRN-00540,MOEI-10169,Customer Happiness Standards,Customer Service,Mohammed Bin Rashid School of Government,,4,Enrolled,
+TRN-00541,MOEI-10170,Code of Ethics Refresher,Compliance & Ethics,Coursera (Gov Licence),2026-02-15,8,Completed,Passed
+TRN-00542,MOEI-10170,Arabic Business Writing,Language & Communication,MOEI Academy,2024-03-30,12,Completed,Passed
+TRN-00543,MOEI-10170,Service Design Thinking,Customer Service,MOEI Academy,,40,In Progress,
+TRN-00544,MOEI-10170,Business English,Language & Communication,External Vendor,2025-12-29,24,Completed,Passed
+TRN-00545,MOEI-10170,Maritime Safety Standards,Technical & Engineering,MOEI Academy,2022-09-19,12,Completed,Passed
+TRN-00546,MOEI-10171,Infrastructure Asset Management,Technical & Engineering,MOEI Academy,,16,In Progress,
+TRN-00547,MOEI-10171,Maritime Safety Standards,Technical & Engineering,MOEI Academy,2023-05-14,4,Completed,Passed
+TRN-00548,MOEI-10171,Customer Happiness Standards,Customer Service,Mohammed Bin Rashid School of Government,,16,Enrolled,
+TRN-00549,MOEI-10171,Government Budgeting,Finance & Procurement,Coursera (Gov Licence),2026-01-12,40,Completed,Passed
+TRN-00550,MOEI-10171,Data-Driven Decision Making,Digital & AI,Coursera (Gov Licence),2024-12-30,4,Completed,Passed
+TRN-00551,MOEI-10171,Code of Ethics Refresher,Compliance & Ethics,External Vendor,2025-03-25,4,Completed,Passed
+TRN-00552,MOEI-10172,Anti-Fraud Awareness,Compliance & Ethics,External Vendor,2024-12-15,16,Completed,Passed
+TRN-00553,MOEI-10172,PMP Preparation,Project Management,MOEI Academy,2024-04-08,4,Completed,Passed
+TRN-00554,MOEI-10172,Generative AI Foundations,Digital & AI,MOEI Academy,,24,Enrolled,
+TRN-00555,MOEI-10172,Code of Ethics Refresher,Compliance & Ethics,External Vendor,,40,Enrolled,
+TRN-00556,MOEI-10172,Coaching for Managers,Leadership & Management,Federal Authority for Government HR,2023-03-01,16,Completed,Passed
+TRN-00557,MOEI-10172,Service Design Thinking,Customer Service,Federal Authority for Government HR,2024-11-11,24,Completed,Passed
+TRN-00558,MOEI-10173,Public Speaking,Language & Communication,MOEI Academy,2023-12-17,24,Completed,Passed
+TRN-00559,MOEI-10173,Emergency Response,Health & Safety,Mohammed Bin Rashid School of Government,,8,In Progress,
+TRN-00560,MOEI-10173,Data Visualization,Data Analytics,MOEI Academy,2023-07-14,24,Completed,Passed
+TRN-00561,MOEI-10173,Anti-Fraud Awareness,Compliance & Ethics,MOEI Academy,,12,Enrolled,
+TRN-00562,MOEI-10173,Arabic Business Writing,Language & Communication,Coursera (Gov Licence),,12,In Progress,
+TRN-00563,MOEI-10174,Customer Happiness Standards,Customer Service,Federal Authority for Government HR,2023-11-14,40,Completed,Passed
+TRN-00564,MOEI-10174,Risk Management Fundamentals,Project Management,Federal Authority for Government HR,2026-02-15,16,Completed,Passed
+TRN-00565,MOEI-10174,Service Design Thinking,Customer Service,Federal Authority for Government HR,,4,In Progress,
+TRN-00566,MOEI-10174,Infrastructure Asset Management,Technical & Engineering,Coursera (Gov Licence),2023-11-23,12,Completed,Passed
+TRN-00567,MOEI-10174,Generative AI Foundations,Digital & AI,Federal Authority for Government HR,2023-08-02,40,Completed,Passed
+TRN-00568,MOEI-10175,Customer Happiness Standards,Customer Service,External Vendor,2022-09-26,4,Completed,Passed
+TRN-00569,MOEI-10175,Public Procurement Rules,Finance & Procurement,Federal Authority for Government HR,2025-09-02,16,Completed,Passed
+TRN-00570,MOEI-10175,Emergency Response,Health & Safety,Federal Authority for Government HR,2022-10-24,40,Completed,Passed
+TRN-00571,MOEI-10175,Coaching for Managers,Leadership & Management,MOEI Academy,,40,In Progress,
+TRN-00572,MOEI-10175,SQL for Beginners,Data Analytics,Federal Authority for Government HR,2024-05-24,4,Completed,Passed
+TRN-00573,MOEI-10176,Anti-Fraud Awareness,Compliance & Ethics,MOEI Academy,,24,Enrolled,
+TRN-00574,MOEI-10177,Information Security Basics,Compliance & Ethics,Coursera (Gov Licence),,8,Enrolled,
+TRN-00575,MOEI-10177,Future Leaders Programme,Leadership & Management,Mohammed Bin Rashid School of Government,2023-05-09,40,Completed,Passed
+TRN-00576,MOEI-10177,Business English,Language & Communication,MOEI Academy,2025-08-29,16,Completed,Passed
+TRN-00577,MOEI-10177,Service Design Thinking,Customer Service,Mohammed Bin Rashid School of Government,2025-07-19,4,Completed,Passed
+TRN-00578,MOEI-10177,Applied AI for Government,Digital & AI,External Vendor,2022-06-19,8,Completed,Passed
+TRN-00579,MOEI-10177,Strategic Decision Making,Leadership & Management,MOEI Academy,2023-07-15,24,Completed,Passed
+TRN-00580,MOEI-10178,Service Design Thinking,Customer Service,Mohammed Bin Rashid School of Government,2025-08-13,24,Completed,Passed
+TRN-00581,MOEI-10178,Power BI Essentials,Data Analytics,External Vendor,2023-10-29,8,Completed,Passed
+TRN-00582,MOEI-10179,Strategic Decision Making,Leadership & Management,External Vendor,,16,In Progress,
+TRN-00583,MOEI-10179,Applied AI for Government,Digital & AI,MOEI Academy,2026-03-24,8,Completed,Passed
+TRN-00584,MOEI-10179,Public Speaking,Language & Communication,Coursera (Gov Licence),2023-01-04,12,Completed,Passed
+TRN-00585,MOEI-10180,Business English,Language & Communication,External Vendor,2026-01-12,12,Completed,Passed
+TRN-00586,MOEI-10180,Future Leaders Programme,Leadership & Management,Mohammed Bin Rashid School of Government,2025-04-16,24,Completed,Passed
+TRN-00587,MOEI-10181,Customer Happiness Standards,Customer Service,External Vendor,2023-05-24,12,Completed,Passed
+TRN-00588,MOEI-10181,Infrastructure Asset Management,Technical & Engineering,Mohammed Bin Rashid School of Government,2022-10-14,24,Completed,Passed
+TRN-00589,MOEI-10182,Public Speaking,Language & Communication,MOEI Academy,2024-11-11,40,Completed,Passed
+TRN-00590,MOEI-10182,Government Leadership Excellence,Leadership & Management,Mohammed Bin Rashid School of Government,2022-03-17,8,Completed,Passed
+TRN-00591,MOEI-10182,Advanced Excel for Analysts,Data Analytics,Federal Authority for Government HR,2025-04-26,40,Completed,Passed
+TRN-00592,MOEI-10183,Strategic Decision Making,Leadership & Management,Coursera (Gov Licence),,16,In Progress,
+TRN-00593,MOEI-10183,Advanced Excel for Analysts,Data Analytics,Mohammed Bin Rashid School of Government,2022-05-25,40,Completed,Passed
+TRN-00594,MOEI-10183,Risk Management Fundamentals,Project Management,External Vendor,2024-02-02,24,Completed,Passed
+TRN-00595,MOEI-10183,Generative AI Foundations,Digital & AI,External Vendor,2024-06-07,8,Completed,Passed
+TRN-00596,MOEI-10183,Future Leaders Programme,Leadership & Management,MOEI Academy,2025-11-01,12,Completed,Passed
+TRN-00597,MOEI-10183,Anti-Fraud Awareness,Compliance & Ethics,Federal Authority for Government HR,2026-05-13,12,Completed,Passed
+TRN-00598,MOEI-10183,Government Leadership Excellence,Leadership & Management,MOEI Academy,,8,Enrolled,
+TRN-00599,MOEI-10183,Financial Reporting,Finance & Procurement,Mohammed Bin Rashid School of Government,2024-09-29,40,Completed,Passed
+TRN-00600,MOEI-10184,Anti-Fraud Awareness,Compliance & Ethics,External Vendor,2024-03-25,24,Completed,Passed
+TRN-00601,MOEI-10184,Arabic Business Writing,Language & Communication,Mohammed Bin Rashid School of Government,2025-11-21,4,Completed,Passed
+TRN-00602,MOEI-10185,SQL for Beginners,Data Analytics,MOEI Academy,2025-03-08,40,Completed,Passed
+TRN-00603,MOEI-10185,Information Security Basics,Compliance & Ethics,External Vendor,2026-05-12,16,Completed,Passed
+TRN-00604,MOEI-10185,Emergency Response,Health & Safety,External Vendor,,40,Enrolled,
+TRN-00605,MOEI-10185,Agile Project Delivery,Project Management,Mohammed Bin Rashid School of Government,,16,In Progress,
+TRN-00606,MOEI-10185,Applied AI for Government,Digital & AI,MOEI Academy,2022-06-07,8,Completed,Passed
+TRN-00607,MOEI-10185,Generative AI Foundations,Digital & AI,MOEI Academy,,16,Enrolled,
+TRN-00608,MOEI-10186,Code of Ethics Refresher,Compliance & Ethics,External Vendor,2026-02-22,40,Completed,Passed
+TRN-00609,MOEI-10186,Arabic Business Writing,Language & Communication,External Vendor,2022-12-12,8,Completed,Passed
+TRN-00610,MOEI-10186,Government Leadership Excellence,Leadership & Management,MOEI Academy,2024-11-18,16,Completed,Passed
+TRN-00611,MOEI-10186,Future Leaders Programme,Leadership & Management,Federal Authority for Government HR,,24,In Progress,
+TRN-00612,MOEI-10186,Generative AI Foundations,Digital & AI,Mohammed Bin Rashid School of Government,2023-09-05,8,Completed,Passed
+TRN-00613,MOEI-10186,Digital Transformation,Digital & AI,External Vendor,,4,Enrolled,
+TRN-00614,MOEI-10186,Strategic Decision Making,Leadership & Management,MOEI Academy,2023-11-04,4,Completed,Passed
+TRN-00615,MOEI-10188,Digital Transformation,Digital & AI,External Vendor,2024-10-04,24,Completed,Passed
+TRN-00616,MOEI-10189,Customer Happiness Standards,Customer Service,Mohammed Bin Rashid School of Government,2024-09-25,8,Completed,Passed
+TRN-00617,MOEI-10189,Emergency Response,Health & Safety,Coursera (Gov Licence),2024-02-06,8,Completed,Passed
+TRN-00618,MOEI-10190,Government Budgeting,Finance & Procurement,Coursera (Gov Licence),2024-06-17,8,Completed,Passed
+TRN-00619,MOEI-10190,Data Visualization,Data Analytics,Mohammed Bin Rashid School of Government,2026-03-11,40,Completed,Passed
+TRN-00620,MOEI-10190,PMP Preparation,Project Management,Federal Authority for Government HR,2023-01-24,16,Completed,Passed
+TRN-00621,MOEI-10190,Service Design Thinking,Customer Service,Federal Authority for Government HR,2022-03-06,16,Completed,Passed
+TRN-00622,MOEI-10191,Emergency Response,Health & Safety,Coursera (Gov Licence),2025-10-17,24,Completed,Passed
+TRN-00623,MOEI-10191,Customer Happiness Standards,Customer Service,MOEI Academy,,8,Enrolled,
+TRN-00624,MOEI-10191,Data Visualization,Data Analytics,Federal Authority for Government HR,2026-04-26,4,Completed,Passed
+TRN-00625,MOEI-10191,Anti-Fraud Awareness,Compliance & Ethics,Mohammed Bin Rashid School of Government,2025-08-17,12,Completed,Passed
+TRN-00626,MOEI-10192,Digital Transformation,Digital & AI,External Vendor,2023-05-23,8,Completed,Passed
+TRN-00627,MOEI-10192,Agile Project Delivery,Project Management,Mohammed Bin Rashid School of Government,2026-04-20,40,Completed,Passed
+TRN-00628,MOEI-10192,Risk Management Fundamentals,Project Management,MOEI Academy,2024-05-28,40,Completed,Passed
+TRN-00629,MOEI-10192,Energy Systems,Technical & Engineering,External Vendor,2023-01-07,40,Completed,Passed
+TRN-00630,MOEI-10193,Future Leaders Programme,Leadership & Management,Federal Authority for Government HR,,16,Enrolled,
+TRN-00631,MOEI-10193,Data-Driven Decision Making,Digital & AI,Coursera (Gov Licence),2023-03-31,4,Completed,Passed
+TRN-00632,MOEI-10193,Coaching for Managers,Leadership & Management,Mohammed Bin Rashid School of Government,2022-08-14,12,Completed,Passed
+TRN-00633,MOEI-10193,Agile Project Delivery,Project Management,MOEI Academy,2022-04-08,4,Completed,Passed
+TRN-00634,MOEI-10193,Code of Ethics Refresher,Compliance & Ethics,External Vendor,2023-08-08,4,Completed,Passed
+TRN-00635,MOEI-10193,Strategic Decision Making,Leadership & Management,MOEI Academy,2024-01-15,4,Completed,Passed
+TRN-00636,MOEI-10193,Maritime Safety Standards,Technical & Engineering,Mohammed Bin Rashid School of Government,2023-11-10,40,Completed,Passed
+TRN-00637,MOEI-10193,Energy Systems,Technical & Engineering,Mohammed Bin Rashid School of Government,2024-02-01,8,Completed,Passed
+TRN-00638,MOEI-10193,Applied AI for Government,Digital & AI,External Vendor,2022-09-25,4,Completed,Passed
+TRN-00639,MOEI-10195,PMP Preparation,Project Management,MOEI Academy,2026-03-15,4,Completed,Passed
+TRN-00640,MOEI-10195,Energy Systems,Technical & Engineering,Coursera (Gov Licence),2025-09-11,8,Completed,Passed
+TRN-00641,MOEI-10195,Power BI Essentials,Data Analytics,External Vendor,2025-05-24,40,Completed,Passed
+TRN-00642,MOEI-10195,Financial Reporting,Finance & Procurement,Coursera (Gov Licence),,40,In Progress,
+TRN-00643,MOEI-10196,Digital Transformation,Digital & AI,External Vendor,2022-11-23,24,Completed,Passed
+TRN-00644,MOEI-10196,Government Leadership Excellence,Leadership & Management,Federal Authority for Government HR,2025-11-16,12,Completed,Passed
+TRN-00645,MOEI-10196,Future Leaders Programme,Leadership & Management,Coursera (Gov Licence),2026-05-28,16,Completed,Passed
+TRN-00646,MOEI-10196,Energy Systems,Technical & Engineering,External Vendor,2022-12-08,16,Completed,Passed
+TRN-00647,MOEI-10196,Infrastructure Asset Management,Technical & Engineering,Federal Authority for Government HR,2024-10-05,8,Completed,Passed
+TRN-00648,MOEI-10197,Risk Management Fundamentals,Project Management,External Vendor,2025-11-27,16,Completed,Passed
+TRN-00649,MOEI-10197,Energy Systems,Technical & Engineering,Mohammed Bin Rashid School of Government,2026-01-15,8,Completed,Passed
+TRN-00650,MOEI-10197,Financial Reporting,Finance & Procurement,Federal Authority for Government HR,2023-07-04,8,Completed,Passed
+TRN-00651,MOEI-10197,Government Leadership Excellence,Leadership & Management,Federal Authority for Government HR,2023-08-21,12,Completed,Passed
+TRN-00652,MOEI-10197,Data Visualization,Data Analytics,Federal Authority for Government HR,2022-04-16,8,Completed,Passed
+TRN-00653,MOEI-10198,Applied AI for Government,Digital & AI,External Vendor,2025-10-02,12,Completed,Passed
+TRN-00654,MOEI-10198,Code of Ethics Refresher,Compliance & Ethics,Mohammed Bin Rashid School of Government,,40,In Progress,
+TRN-00655,MOEI-10198,SQL for Beginners,Data Analytics,MOEI Academy,2025-07-18,40,Completed,Passed
+TRN-00656,MOEI-10198,Coaching for Managers,Leadership & Management,Mohammed Bin Rashid School of Government,2023-05-07,8,Completed,Passed
+TRN-00657,MOEI-10198,Government Budgeting,Finance & Procurement,External Vendor,2025-02-16,4,Completed,Passed
+TRN-00658,MOEI-10199,Service Design Thinking,Customer Service,External Vendor,2025-07-06,8,Completed,Passed
+TRN-00659,MOEI-10199,Occupational Health & Safety,Health & Safety,External Vendor,2023-10-27,40,Completed,Passed
+TRN-00660,MOEI-10199,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),2024-07-02,12,Completed,Passed
+TRN-00661,MOEI-10199,SQL for Beginners,Data Analytics,Coursera (Gov Licence),2022-07-11,8,Completed,Passed
+TRN-00662,MOEI-10199,Advanced Excel for Analysts,Data Analytics,Federal Authority for Government HR,2025-03-12,40,Completed,Passed
+TRN-00663,MOEI-10199,Government Budgeting,Finance & Procurement,Federal Authority for Government HR,2023-09-28,16,Completed,Passed
+TRN-00664,MOEI-10200,Business English,Language & Communication,Coursera (Gov Licence),2022-05-23,8,Completed,Passed
+TRN-00665,MOEI-10200,Emergency Response,Health & Safety,Federal Authority for Government HR,2022-07-25,40,Completed,Passed
+TRN-00666,MOEI-10200,Future Leaders Programme,Leadership & Management,MOEI Academy,2024-02-13,4,Completed,Passed
+TRN-00667,MOEI-10200,Government Leadership Excellence,Leadership & Management,Mohammed Bin Rashid School of Government,2023-05-24,8,Completed,Passed
+TRN-00668,MOEI-10201,Information Security Basics,Compliance & Ethics,Coursera (Gov Licence),2022-06-24,24,Completed,Passed
+TRN-00669,MOEI-10201,Occupational Health & Safety,Health & Safety,Federal Authority for Government HR,2023-09-22,8,Completed,Passed
+TRN-00670,MOEI-10201,Coaching for Managers,Leadership & Management,MOEI Academy,2025-07-09,4,Completed,Passed
+TRN-00671,MOEI-10201,Generative AI Foundations,Digital & AI,Coursera (Gov Licence),2022-07-30,8,Completed,Passed
+TRN-00672,MOEI-10201,Government Leadership Excellence,Leadership & Management,Coursera (Gov Licence),2022-02-19,8,Completed,Passed
+TRN-00673,MOEI-10202,Government Budgeting,Finance & Procurement,MOEI Academy,2025-11-02,16,Completed,Passed
+TRN-00674,MOEI-10202,Power BI Essentials,Data Analytics,Mohammed Bin Rashid School of Government,2023-04-05,12,Completed,Passed
+TRN-00675,MOEI-10202,Generative AI Foundations,Digital & AI,MOEI Academy,2022-08-31,4,Completed,Passed
+TRN-00676,MOEI-10203,Advanced Excel for Analysts,Data Analytics,External Vendor,2024-05-27,8,Completed,Passed
+TRN-00677,MOEI-10203,Customer Happiness Standards,Customer Service,External Vendor,2025-09-28,12,Completed,Passed
+TRN-00678,MOEI-10203,Code of Ethics Refresher,Compliance & Ethics,Mohammed Bin Rashid School of Government,,12,In Progress,
+TRN-00679,MOEI-10203,Applied AI for Government,Digital & AI,Federal Authority for Government HR,2022-11-01,12,Completed,Passed
+TRN-00680,MOEI-10203,SQL for Beginners,Data Analytics,Coursera (Gov Licence),2024-07-03,4,Completed,Passed
+TRN-00681,MOEI-10204,Arabic Business Writing,Language & Communication,MOEI Academy,2026-01-28,12,Completed,Passed
+TRN-00682,MOEI-10205,SQL for Beginners,Data Analytics,Coursera (Gov Licence),2024-09-10,16,Completed,Passed
+TRN-00683,MOEI-10205,Service Design Thinking,Customer Service,Federal Authority for Government HR,,16,In Progress,
+TRN-00684,MOEI-10206,Occupational Health & Safety,Health & Safety,Coursera (Gov Licence),2024-02-27,24,Completed,Passed
+TRN-00685,MOEI-10206,Risk Management Fundamentals,Project Management,MOEI Academy,2022-06-28,8,Completed,Passed
+TRN-00686,MOEI-10206,Coaching for Managers,Leadership & Management,Federal Authority for Government HR,2025-02-17,4,Completed,Passed
+TRN-00687,MOEI-10206,Government Leadership Excellence,Leadership & Management,External Vendor,2023-08-27,16,Completed,Passed
+TRN-00688,MOEI-10206,Applied AI for Government,Digital & AI,Federal Authority for Government HR,2026-03-10,16,Completed,Passed
+TRN-00689,MOEI-10206,Service Design Thinking,Customer Service,External Vendor,2022-04-21,4,Completed,Passed
+TRN-00690,MOEI-10206,Data-Driven Decision Making,Digital & AI,Federal Authority for Government HR,2022-03-03,4,Completed,Passed
+TRN-00691,MOEI-10207,Applied AI for Government,Digital & AI,Coursera (Gov Licence),,8,In Progress,
+TRN-00692,MOEI-10207,SQL for Beginners,Data Analytics,External Vendor,2026-03-03,40,Completed,Passed
+TRN-00693,MOEI-10208,Emergency Response,Health & Safety,MOEI Academy,2026-03-29,12,Completed,Passed
+TRN-00694,MOEI-10208,Data-Driven Decision Making,Digital & AI,MOEI Academy,,24,In Progress,
+TRN-00695,MOEI-10208,Advanced Excel for Analysts,Data Analytics,Coursera (Gov Licence),2024-03-31,40,Completed,Passed
+TRN-00696,MOEI-10209,Energy Systems,Technical & Engineering,External Vendor,,12,In Progress,
+TRN-00697,MOEI-10209,Agile Project Delivery,Project Management,MOEI Academy,2024-05-24,24,Completed,Passed
+TRN-00698,MOEI-10209,Customer Happiness Standards,Customer Service,MOEI Academy,2024-09-13,8,Completed,Passed
+TRN-00699,MOEI-10210,Energy Systems,Technical & Engineering,Coursera (Gov Licence),,16,In Progress,
+TRN-00700,MOEI-10210,Information Security Basics,Compliance & Ethics,Coursera (Gov Licence),2025-08-07,8,Completed,Passed
+TRN-00701,MOEI-10210,Coaching for Managers,Leadership & Management,Mohammed Bin Rashid School of Government,2025-08-17,4,Completed,Passed
+TRN-00702,MOEI-10210,Applied AI for Government,Digital & AI,Mohammed Bin Rashid School of Government,2024-01-13,4,Completed,Passed
+TRN-00703,MOEI-10210,Agile Project Delivery,Project Management,MOEI Academy,2022-11-30,8,Completed,Passed
+TRN-00704,MOEI-10210,Business English,Language & Communication,Federal Authority for Government HR,,24,In Progress,
+TRN-00705,MOEI-10211,Government Leadership Excellence,Leadership & Management,External Vendor,2023-10-29,24,Completed,Passed
+TRN-00706,MOEI-10211,Strategic Decision Making,Leadership & Management,MOEI Academy,2022-07-28,12,Completed,Passed
+TRN-00707,MOEI-10212,Anti-Fraud Awareness,Compliance & Ethics,Mohammed Bin Rashid School of Government,2024-03-26,16,Completed,Passed
+TRN-00708,MOEI-10213,Code of Ethics Refresher,Compliance & Ethics,Mohammed Bin Rashid School of Government,2025-12-10,16,Completed,Passed
+TRN-00709,MOEI-10213,Maritime Safety Standards,Technical & Engineering,Federal Authority for Government HR,,4,In Progress,
+TRN-00710,MOEI-10213,Arabic Business Writing,Language & Communication,MOEI Academy,2024-09-03,12,Completed,Passed
+TRN-00711,MOEI-10213,Advanced Excel for Analysts,Data Analytics,MOEI Academy,2025-10-29,40,Completed,Passed
+TRN-00712,MOEI-10213,PMP Preparation,Project Management,Federal Authority for Government HR,2025-10-27,24,Completed,Passed
+TRN-00713,MOEI-10213,Energy Systems,Technical & Engineering,Mohammed Bin Rashid School of Government,2025-05-31,16,Completed,Passed
+TRN-00714,MOEI-10214,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),2024-01-08,4,Completed,Passed
+TRN-00715,MOEI-10214,Customer Happiness Standards,Customer Service,External Vendor,,4,Enrolled,
+TRN-00716,MOEI-10215,Public Speaking,Language & Communication,MOEI Academy,2024-10-15,8,Completed,Passed
+TRN-00717,MOEI-10215,Financial Reporting,Finance & Procurement,Coursera (Gov Licence),,4,In Progress,
+TRN-00718,MOEI-10216,Code of Ethics Refresher,Compliance & Ethics,Mohammed Bin Rashid School of Government,2023-11-15,24,Completed,Passed
+TRN-00719,MOEI-10216,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),2022-09-18,12,Completed,Passed
+TRN-00720,MOEI-10216,Emergency Response,Health & Safety,Federal Authority for Government HR,2024-09-10,4,Completed,Passed
+TRN-00721,MOEI-10216,Arabic Business Writing,Language & Communication,Mohammed Bin Rashid School of Government,2022-06-09,16,Completed,Passed
+TRN-00722,MOEI-10217,Public Speaking,Language & Communication,External Vendor,2023-01-15,24,Completed,Passed
+TRN-00723,MOEI-10217,Anti-Fraud Awareness,Compliance & Ethics,External Vendor,2022-10-13,16,Completed,Passed
+TRN-00724,MOEI-10217,Financial Reporting,Finance & Procurement,MOEI Academy,2022-07-22,40,Completed,Passed
+TRN-00725,MOEI-10217,Risk Management Fundamentals,Project Management,MOEI Academy,2025-06-17,12,Completed,Passed
+TRN-00726,MOEI-10218,SQL for Beginners,Data Analytics,Coursera (Gov Licence),2022-05-30,40,Completed,Passed
+TRN-00727,MOEI-10218,Generative AI Foundations,Digital & AI,External Vendor,2024-08-12,16,Completed,Passed
+TRN-00728,MOEI-10218,Applied AI for Government,Digital & AI,Coursera (Gov Licence),2023-01-05,16,Completed,Passed
+TRN-00729,MOEI-10218,Agile Project Delivery,Project Management,Mohammed Bin Rashid School of Government,2023-11-05,24,Completed,Passed
+TRN-00730,MOEI-10219,Risk Management Fundamentals,Project Management,Mohammed Bin Rashid School of Government,2026-02-27,16,Completed,Passed
+TRN-00731,MOEI-10219,Government Leadership Excellence,Leadership & Management,Federal Authority for Government HR,2024-08-20,12,Completed,Passed
+TRN-00732,MOEI-10219,Business English,Language & Communication,MOEI Academy,2025-05-16,12,Completed,Passed
+TRN-00733,MOEI-10219,Service Design Thinking,Customer Service,MOEI Academy,2023-03-14,40,Completed,Passed
+TRN-00734,MOEI-10220,Public Procurement Rules,Finance & Procurement,Federal Authority for Government HR,2025-07-25,4,Completed,Passed
+TRN-00735,MOEI-10220,Generative AI Foundations,Digital & AI,Coursera (Gov Licence),2025-12-29,24,Completed,Passed
+TRN-00736,MOEI-10220,Risk Management Fundamentals,Project Management,MOEI Academy,2023-06-16,4,Completed,Passed
+TRN-00737,MOEI-10221,Government Budgeting,Finance & Procurement,Coursera (Gov Licence),2023-02-11,16,Completed,Passed
+TRN-00738,MOEI-10221,Data-Driven Decision Making,Digital & AI,External Vendor,2025-11-27,16,Completed,Passed
+TRN-00739,MOEI-10221,Energy Systems,Technical & Engineering,External Vendor,2023-02-11,24,Completed,Passed
+TRN-00740,MOEI-10221,Generative AI Foundations,Digital & AI,Coursera (Gov Licence),2022-01-30,8,Completed,Passed
+TRN-00741,MOEI-10221,Strategic Decision Making,Leadership & Management,MOEI Academy,2023-06-23,16,Completed,Passed
+TRN-00742,MOEI-10221,SQL for Beginners,Data Analytics,MOEI Academy,,4,Enrolled,
+TRN-00743,MOEI-10221,Digital Transformation,Digital & AI,Federal Authority for Government HR,2025-11-27,24,Completed,Passed
+TRN-00744,MOEI-10221,Government Leadership Excellence,Leadership & Management,MOEI Academy,2025-10-23,12,Completed,Passed
+TRN-00745,MOEI-10221,Coaching for Managers,Leadership & Management,MOEI Academy,2023-09-21,40,Completed,Passed
+TRN-00746,MOEI-10222,Emergency Response,Health & Safety,External Vendor,2024-04-20,16,Completed,Passed
+TRN-00747,MOEI-10222,Infrastructure Asset Management,Technical & Engineering,Coursera (Gov Licence),,16,Enrolled,
+TRN-00748,MOEI-10222,Code of Ethics Refresher,Compliance & Ethics,External Vendor,2025-02-06,16,Completed,Passed
+TRN-00749,MOEI-10222,Service Design Thinking,Customer Service,Coursera (Gov Licence),2025-09-12,40,Completed,Passed
+TRN-00750,MOEI-10224,Business English,Language & Communication,MOEI Academy,,4,In Progress,
+TRN-00751,MOEI-10224,Strategic Decision Making,Leadership & Management,External Vendor,2023-03-14,24,Completed,Passed
+TRN-00752,MOEI-10224,Digital Transformation,Digital & AI,MOEI Academy,2025-06-09,40,Completed,Passed
+TRN-00753,MOEI-10224,Public Procurement Rules,Finance & Procurement,Coursera (Gov Licence),2023-10-21,24,Completed,Passed
+TRN-00754,MOEI-10224,Customer Happiness Standards,Customer Service,MOEI Academy,,12,In Progress,
+TRN-00755,MOEI-10224,Emergency Response,Health & Safety,Coursera (Gov Licence),2026-03-26,4,Completed,Passed
+TRN-00756,MOEI-10225,Risk Management Fundamentals,Project Management,Mohammed Bin Rashid School of Government,2023-08-04,12,Completed,Passed
+TRN-00757,MOEI-10225,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),,4,In Progress,
+TRN-00758,MOEI-10225,Future Leaders Programme,Leadership & Management,External Vendor,2022-11-11,40,Completed,Passed
+TRN-00759,MOEI-10226,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),,8,Enrolled,
+TRN-00760,MOEI-10226,Infrastructure Asset Management,Technical & Engineering,Coursera (Gov Licence),2023-01-30,4,Completed,Passed
+TRN-00761,MOEI-10226,Arabic Business Writing,Language & Communication,Coursera (Gov Licence),,40,Enrolled,
+TRN-00762,MOEI-10226,SQL for Beginners,Data Analytics,Coursera (Gov Licence),2023-10-14,8,Completed,Passed
+TRN-00763,MOEI-10226,Data-Driven Decision Making,Digital & AI,External Vendor,2024-10-29,16,Completed,Passed
+TRN-00764,MOEI-10227,Financial Reporting,Finance & Procurement,Federal Authority for Government HR,,4,Enrolled,
+TRN-00765,MOEI-10227,Applied AI for Government,Digital & AI,External Vendor,2024-06-14,8,Completed,Passed
+TRN-00766,MOEI-10227,Future Leaders Programme,Leadership & Management,Federal Authority for Government HR,2025-03-17,16,Completed,Passed
+TRN-00767,MOEI-10227,Code of Ethics Refresher,Compliance & Ethics,Federal Authority for Government HR,2023-05-06,12,Completed,Passed
+TRN-00768,MOEI-10227,Risk Management Fundamentals,Project Management,Coursera (Gov Licence),2023-05-18,12,Completed,Passed
+TRN-00769,MOEI-10227,Coaching for Managers,Leadership & Management,MOEI Academy,,40,Enrolled,
+TRN-00770,MOEI-10228,Applied AI for Government,Digital & AI,MOEI Academy,,4,Enrolled,
+TRN-00771,MOEI-10228,Data Visualization,Data Analytics,MOEI Academy,,4,In Progress,
+TRN-00772,MOEI-10228,Emergency Response,Health & Safety,Coursera (Gov Licence),2023-03-02,4,Completed,Passed
+TRN-00773,MOEI-10228,Customer Happiness Standards,Customer Service,MOEI Academy,,8,Enrolled,
+TRN-00774,MOEI-10228,Service Design Thinking,Customer Service,Coursera (Gov Licence),2023-10-05,8,Completed,Passed
+TRN-00775,MOEI-10230,Government Leadership Excellence,Leadership & Management,External Vendor,2025-09-12,4,Completed,Passed
+TRN-00776,MOEI-10230,Generative AI Foundations,Digital & AI,External Vendor,2023-12-12,24,Completed,Passed
+TRN-00777,MOEI-10230,Maritime Safety Standards,Technical & Engineering,Mohammed Bin Rashid School of Government,2022-11-21,4,Completed,Passed
+TRN-00778,MOEI-10231,Energy Systems,Technical & Engineering,Mohammed Bin Rashid School of Government,2026-04-08,4,Completed,Passed
+TRN-00779,MOEI-10231,Coaching for Managers,Leadership & Management,Federal Authority for Government HR,2022-10-11,12,Completed,Passed
+TRN-00780,MOEI-10231,Future Leaders Programme,Leadership & Management,Mohammed Bin Rashid School of Government,2023-12-15,16,Completed,Passed
+TRN-00781,MOEI-10231,Emergency Response,Health & Safety,Federal Authority for Government HR,,12,Enrolled,
+TRN-00782,MOEI-10231,Generative AI Foundations,Digital & AI,External Vendor,2024-03-15,12,Completed,Passed
+TRN-00783,MOEI-10232,Risk Management Fundamentals,Project Management,Coursera (Gov Licence),2024-09-26,16,Completed,Passed
+TRN-00784,MOEI-10232,Public Speaking,Language & Communication,External Vendor,,4,In Progress,
+TRN-00785,MOEI-10233,Service Design Thinking,Customer Service,Mohammed Bin Rashid School of Government,2023-06-09,40,Completed,Passed
+TRN-00786,MOEI-10233,Digital Transformation,Digital & AI,External Vendor,,12,In Progress,
+TRN-00787,MOEI-10233,Arabic Business Writing,Language & Communication,External Vendor,2023-12-18,12,Completed,Passed
+TRN-00788,MOEI-10233,Customer Happiness Standards,Customer Service,Mohammed Bin Rashid School of Government,2022-12-16,16,Completed,Passed
+TRN-00789,MOEI-10233,Data Visualization,Data Analytics,Mohammed Bin Rashid School of Government,2023-09-10,12,Completed,Passed
+TRN-00790,MOEI-10234,Code of Ethics Refresher,Compliance & Ethics,MOEI Academy,2022-01-20,40,Completed,Passed
+TRN-00791,MOEI-10235,Arabic Business Writing,Language & Communication,Coursera (Gov Licence),2023-04-22,12,Completed,Passed
+TRN-00792,MOEI-10236,Risk Management Fundamentals,Project Management,Mohammed Bin Rashid School of Government,2023-03-22,40,Completed,Passed
+TRN-00793,MOEI-10236,Public Speaking,Language & Communication,Coursera (Gov Licence),2022-06-03,40,Completed,Passed
+TRN-00794,MOEI-10236,Service Design Thinking,Customer Service,MOEI Academy,2023-10-18,16,Completed,Passed
+TRN-00795,MOEI-10236,Occupational Health & Safety,Health & Safety,MOEI Academy,2023-07-17,16,Completed,Passed
+TRN-00796,MOEI-10236,Data Visualization,Data Analytics,External Vendor,2025-04-25,4,Completed,Passed
+TRN-00797,MOEI-10237,Future Leaders Programme,Leadership & Management,Coursera (Gov Licence),2024-08-03,4,Completed,Passed
+TRN-00798,MOEI-10237,Energy Systems,Technical & Engineering,MOEI Academy,2022-03-22,4,Completed,Passed
+TRN-00799,MOEI-10237,Occupational Health & Safety,Health & Safety,Mohammed Bin Rashid School of Government,2024-04-30,12,Completed,Passed
+TRN-00800,MOEI-10238,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),2026-05-28,24,Completed,Passed
+TRN-00801,MOEI-10238,Strategic Decision Making,Leadership & Management,Coursera (Gov Licence),2026-03-23,16,Completed,Passed
+TRN-00802,MOEI-10238,Generative AI Foundations,Digital & AI,MOEI Academy,2026-02-01,4,Completed,Passed
+TRN-00803,MOEI-10239,Generative AI Foundations,Digital & AI,MOEI Academy,2026-04-27,8,Completed,Passed
+TRN-00804,MOEI-10239,Information Security Basics,Compliance & Ethics,MOEI Academy,,12,Enrolled,
+TRN-00805,MOEI-10240,Applied AI for Government,Digital & AI,Mohammed Bin Rashid School of Government,2023-09-21,40,Completed,Passed
+TRN-00806,MOEI-10241,Service Design Thinking,Customer Service,External Vendor,,16,Enrolled,
+TRN-00807,MOEI-10241,Data-Driven Decision Making,Digital & AI,External Vendor,,16,In Progress,
+TRN-00808,MOEI-10241,Occupational Health & Safety,Health & Safety,External Vendor,2025-12-24,16,Completed,Passed
+TRN-00809,MOEI-10241,Emergency Response,Health & Safety,Coursera (Gov Licence),2025-06-02,8,Completed,Passed
+TRN-00810,MOEI-10241,Generative AI Foundations,Digital & AI,Mohammed Bin Rashid School of Government,2025-05-07,24,Completed,Passed
+TRN-00811,MOEI-10242,Digital Transformation,Digital & AI,Federal Authority for Government HR,2022-05-04,16,Completed,Passed
+TRN-00812,MOEI-10242,Agile Project Delivery,Project Management,External Vendor,2022-08-03,24,Completed,Passed
+TRN-00813,MOEI-10242,Anti-Fraud Awareness,Compliance & Ethics,Federal Authority for Government HR,2025-12-22,24,Completed,Passed
+TRN-00814,MOEI-10242,Coaching for Managers,Leadership & Management,External Vendor,,24,Enrolled,
+TRN-00815,MOEI-10242,Future Leaders Programme,Leadership & Management,Mohammed Bin Rashid School of Government,2023-07-24,24,Completed,Passed
+TRN-00816,MOEI-10242,SQL for Beginners,Data Analytics,Federal Authority for Government HR,2022-08-08,4,Completed,Passed
+TRN-00817,MOEI-10243,Data Visualization,Data Analytics,External Vendor,2022-02-28,16,Completed,Passed
+TRN-00818,MOEI-10243,Anti-Fraud Awareness,Compliance & Ethics,MOEI Academy,,12,Enrolled,
+TRN-00819,MOEI-10243,Customer Happiness Standards,Customer Service,Coursera (Gov Licence),2022-11-05,24,Completed,Passed
+TRN-00820,MOEI-10243,Code of Ethics Refresher,Compliance & Ethics,MOEI Academy,2024-06-22,4,Completed,Passed
+TRN-00821,MOEI-10244,Service Design Thinking,Customer Service,Coursera (Gov Licence),2023-02-02,8,Completed,Passed
+TRN-00822,MOEI-10244,Arabic Business Writing,Language & Communication,External Vendor,2024-12-20,16,Completed,Passed
+TRN-00823,MOEI-10244,Applied AI for Government,Digital & AI,MOEI Academy,2025-08-16,8,Completed,Passed
+TRN-00824,MOEI-10244,Coaching for Managers,Leadership & Management,MOEI Academy,2023-05-04,12,Completed,Passed
+TRN-00825,MOEI-10244,Risk Management Fundamentals,Project Management,Coursera (Gov Licence),2025-12-03,16,Completed,Passed
+TRN-00826,MOEI-10245,Risk Management Fundamentals,Project Management,Federal Authority for Government HR,2025-11-17,8,Completed,Passed
+TRN-00827,MOEI-10246,Information Security Basics,Compliance & Ethics,Mohammed Bin Rashid School of Government,2023-08-13,40,Completed,Passed
+TRN-00828,MOEI-10246,Future Leaders Programme,Leadership & Management,External Vendor,2023-01-15,16,Completed,Passed
+TRN-00829,MOEI-10247,Financial Reporting,Finance & Procurement,MOEI Academy,2023-05-04,8,Completed,Passed
+TRN-00830,MOEI-10247,Data Visualization,Data Analytics,MOEI Academy,2024-07-21,40,Completed,Passed
+TRN-00831,MOEI-10247,Emergency Response,Health & Safety,Mohammed Bin Rashid School of Government,2023-11-16,4,Completed,Passed
+TRN-00832,MOEI-10247,Power BI Essentials,Data Analytics,Coursera (Gov Licence),2025-05-01,24,Completed,Passed
+TRN-00833,MOEI-10247,Strategic Decision Making,Leadership & Management,MOEI Academy,2023-05-22,4,Completed,Passed
+TRN-00834,MOEI-10247,Public Speaking,Language & Communication,External Vendor,,24,In Progress,
+TRN-00835,MOEI-10248,Power BI Essentials,Data Analytics,Mohammed Bin Rashid School of Government,2022-11-16,16,Completed,Passed
+TRN-00836,MOEI-10248,Emergency Response,Health & Safety,Coursera (Gov Licence),2025-05-17,12,Completed,Passed
+TRN-00837,MOEI-10249,Occupational Health & Safety,Health & Safety,Mohammed Bin Rashid School of Government,2026-02-09,24,Completed,Passed
+TRN-00838,MOEI-10249,Arabic Business Writing,Language & Communication,External Vendor,2025-10-09,40,Completed,Passed
+TRN-00839,MOEI-10249,Government Leadership Excellence,Leadership & Management,Federal Authority for Government HR,,12,In Progress,
+TRN-00840,MOEI-10250,Government Leadership Excellence,Leadership & Management,Coursera (Gov Licence),2025-03-28,12,Completed,Passed
+TRN-00841,MOEI-10250,Risk Management Fundamentals,Project Management,Coursera (Gov Licence),2022-07-02,40,Completed,Passed
+TRN-00842,MOEI-10250,Generative AI Foundations,Digital & AI,Coursera (Gov Licence),2025-07-07,24,Completed,Passed
+TRN-00843,MOEI-10250,Data Visualization,Data Analytics,Mohammed Bin Rashid School of Government,2025-10-22,16,Completed,Passed
+TRN-00844,MOEI-10251,Service Design Thinking,Customer Service,External Vendor,2024-06-13,24,Completed,Passed
+TRN-00845,MOEI-10251,Information Security Basics,Compliance & Ethics,Coursera (Gov Licence),2023-05-28,24,Completed,Passed
+TRN-00846,MOEI-10251,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),,40,Enrolled,
+TRN-00847,MOEI-10251,SQL for Beginners,Data Analytics,Mohammed Bin Rashid School of Government,2023-07-23,24,Completed,Passed
+TRN-00848,MOEI-10251,Energy Systems,Technical & Engineering,Mohammed Bin Rashid School of Government,2023-08-18,4,Completed,Passed
+TRN-00849,MOEI-10252,Strategic Decision Making,Leadership & Management,External Vendor,2026-01-16,4,Completed,Passed
+TRN-00850,MOEI-10252,Government Budgeting,Finance & Procurement,MOEI Academy,2026-04-26,4,Completed,Passed
+TRN-00851,MOEI-10253,Data Visualization,Data Analytics,External Vendor,2023-08-04,40,Completed,Passed
+TRN-00852,MOEI-10253,Maritime Safety Standards,Technical & Engineering,Federal Authority for Government HR,2022-06-26,40,Completed,Passed
+TRN-00853,MOEI-10253,Agile Project Delivery,Project Management,Mohammed Bin Rashid School of Government,,8,In Progress,
+TRN-00854,MOEI-10255,Code of Ethics Refresher,Compliance & Ethics,Coursera (Gov Licence),2025-10-21,16,Completed,Passed
+TRN-00855,MOEI-10255,Generative AI Foundations,Digital & AI,Federal Authority for Government HR,2023-09-11,24,Completed,Passed
+TRN-00856,MOEI-10255,Service Design Thinking,Customer Service,Federal Authority for Government HR,2025-03-30,12,Completed,Passed
+TRN-00857,MOEI-10255,SQL for Beginners,Data Analytics,Mohammed Bin Rashid School of Government,2025-02-09,4,Completed,Passed
+TRN-00858,MOEI-10257,Occupational Health & Safety,Health & Safety,Coursera (Gov Licence),2024-02-09,4,Completed,Passed
+TRN-00859,MOEI-10257,SQL for Beginners,Data Analytics,Mohammed Bin Rashid School of Government,2025-11-22,16,Completed,Passed
+TRN-00860,MOEI-10257,Anti-Fraud Awareness,Compliance & Ethics,Coursera (Gov Licence),2024-08-13,16,Completed,Passed
+TRN-00861,MOEI-10257,Future Leaders Programme,Leadership & Management,Federal Authority for Government HR,2026-04-20,24,Completed,Passed
+TRN-00862,MOEI-10257,Government Budgeting,Finance & Procurement,Federal Authority for Government HR,2025-04-03,24,Completed,Passed
+TRN-00863,MOEI-10258,Arabic Business Writing,Language & Communication,Coursera (Gov Licence),2022-04-20,8,Completed,Passed
+TRN-00864,MOEI-10258,Customer Happiness Standards,Customer Service,External Vendor,,16,In Progress,
+TRN-00865,MOEI-10258,Future Leaders Programme,Leadership & Management,MOEI Academy,2022-04-23,12,Completed,Passed
+TRN-00866,MOEI-10258,Business English,Language & Communication,Mohammed Bin Rashid School of Government,2023-08-19,4,Completed,Passed
+TRN-00867,MOEI-10258,Applied AI for Government,Digital & AI,Federal Authority for Government HR,2025-12-07,24,Completed,Passed
+TRN-00868,MOEI-10259,Occupational Health & Safety,Health & Safety,Federal Authority for Government HR,,12,In Progress,
+TRN-00869,MOEI-10259,Financial Reporting,Finance & Procurement,External Vendor,,40,In Progress,
+TRN-00870,MOEI-10259,PMP Preparation,Project Management,External Vendor,2022-05-18,4,Completed,Passed
+TRN-00871,MOEI-10260,Data-Driven Decision Making,Digital & AI,MOEI Academy,2023-02-23,24,Completed,Passed
+TRN-00872,MOEI-10260,Emergency Response,Health & Safety,Mohammed Bin Rashid School of Government,,16,Enrolled,
+TRN-00873,MOEI-10260,Occupational Health & Safety,Health & Safety,External Vendor,,12,In Progress,
+TRN-00874,MOEI-10260,Public Speaking,Language & Communication,External Vendor,,4,In Progress,
+TRN-00875,MOEI-10260,Customer Happiness Standards,Customer Service,Federal Authority for Government HR,2025-07-26,40,Completed,Passed
