@@ -229,4 +229,5 @@ def create_graph():
     g.add_edge("retrieve_policy",  "generate_answer")
     g.add_edge("generate_answer",  END)
 
-    return g.compile()
+    from langgraph.checkpoint.memory import MemorySaver
+    return g.compile(checkpointer=MemorySaver())
