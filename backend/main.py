@@ -126,7 +126,44 @@ hr_agent = LangGraphAGUIAgent(
     graph=hr_graph,
 )
 
-add_langgraph_fastapi_endpoint(app, hr_agent, "/copilotkit")
+from fastapi import Request
+from fastapi.responses import StreamingResponse
+from ag_ui.core.types import RunAgentInput
+from ag_ui.encoder import EventEncoder
+
+@app.post("/copilotkit")
+async def custom_copilotkit_endpoint(request: Request):
+    body = await request.json()
+    
+    # Handle both direct RunAgentInput and JSON-RPC wrapped requests
+    if isinstance(body, dict) and body.get("method") == "agent/run":
+        input_data_dict = body.get("body", {})
+        input_data = RunAgentInput(**input_data_dict)
+    else:
+        input_data = RunAgentInput(**body)
+        
+    accept_header = request.headers.get("accept")
+    encoder = EventEncoder(accept=accept_header)
+    
+    request_agent = hr_agent.clone()
+    
+    async def event_generator():
+        async for event in request_agent.run(input_data):
+            yield encoder.encode(event)
+            
+    return StreamingResponse(
+        event_generator(),
+        media_type=encoder.get_content_type()
+    )
+
+@app.get("/copilotkit/health")
+def copilotkit_health():
+    return {
+        "status": "ok",
+        "agent": {
+            "name": hr_agent.name,
+        }
+    }
 
 
 # ── Dev runner ────────────────────────────────────────────────────────────────
