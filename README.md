@@ -58,81 +58,68 @@ AI-powered workforce analytics platform for the Ministry of Energy & Infrastruct
 
 ---
 
-## Quick Start (Docker — Recommended)
+## Quick Start
 
-### 1. Clone / open the project
+### Option A — Local (Recommended if Docker causes issues)
+
+> Fastest way to get running. Requires Python 3.11+ with `uv` and Node 20+.
+
+**Terminal 1 — Backend:**
 
 ```powershell
-cd D:\moei\moei_assessment
+cd backend
+
+# First time only
+uv sync
+
+# Start API server
+uv run uvicorn main:app --reload --port 8000
 ```
 
-### 2. Add your API key
+The backend will load all 5 CSVs into SQLite and index the policy PDFs on first run (~5 seconds), then expose the REST API + AI agent at `http://localhost:8000`.
 
-The `.env` file already exists with the key. If you need to reset it:
+**Terminal 2 — Frontend:**
+
+```powershell
+cd frontend
+
+# First time only
+npm install
+
+# Start dev server
+npm run dev
+```
+
+Open **http://localhost:3000**.
+
+---
+
+### Option B — Docker
+
+> Requires Docker Desktop running. If you hit connection errors, use Option A instead.
+
+```powershell
+# Add your API key first (see step below), then:
+docker compose up --build
+
+# or with make:
+make up
+```
+
+First run takes **3–5 minutes** (image download + dependency install). Subsequent runs are fast.
+
+**Add your API key** before starting:
 
 ```powershell
 # backend/.env
 OPENROUTER_API_KEY=sk-or-v1-...your-key-here...
 ```
 
-### 3. Start Docker Desktop
-
-Open **Docker Desktop** from the Start menu and wait for the whale icon in the system tray to stop animating ("Docker Desktop is running").
-
-### 4. Spin everything up
-
-```powershell
-make up
-# or without make:
-docker compose up --build
-```
-
-First run takes **3–5 minutes** (downloads base images, installs dependencies). Subsequent runs are much faster.
-
-### 5. Open the dashboard
-
 | Service | URL |
 |---|---|
 | Dashboard | http://localhost:3000 |
 | Backend API | http://localhost:8000 |
-| API Docs (Swagger) | http://localhost:8000/docs |
-
----
-
-## Local Development (Without Docker)
-
-Run the backend and frontend in separate terminals.
-
-### Backend
-
-```powershell
-cd D:\moei\moei_assessment\backend
-
-# Install dependencies (first time only)
-uv sync
-
-# Start the API server
-uv run uvicorn main:app --reload --port 8000
-```
-
-The backend will:
-1. Load all 5 CSVs → SQLite on first run (~5 seconds)
-2. Index the MOEI HR policy PDFs with BM25
-3. Expose REST endpoints + CopilotKit at `http://localhost:8000`
-
-### Frontend
-
-```powershell
-cd D:\moei\moei_assessment\frontend
-
-# Install dependencies (first time only)
-npm install
-
-# Start the dev server
-npm run dev
-```
-
-Open http://localhost:3000.
+| API Docs | http://localhost:8000/docs |
 
 ---
 
@@ -265,13 +252,16 @@ Derived flags computed at load time: `flight_risk`, `promotion_due`, `needs_atte
 
 **Docker Desktop not running**
 > `open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified`
-→ Start Docker Desktop and wait for it to fully load before running `make up`.
+→ Start Docker Desktop and wait for it to fully load, or **skip Docker entirely and use Option A (local)** above.
+
+**Docker networking issues / `Failed to fetch` from the chat panel**
+→ Use **Option A (local dev)** instead. Run the backend and frontend in two terminals directly — no Docker required.
 
 **Backend fails to start (missing CSV files)**
-> Check that `MOEI_HR_Employee_Dataset_CSV/` is in `D:\moei\moei_assessment\` and contains all 5 CSV files.
+> Check that `MOEI_HR_Employee_Dataset_CSV/` exists in the repo root and contains all 5 CSV files.
 
 **Chat says "could not connect to agent"**
-> The backend takes ~20 seconds to start (CSV load + PDF index). Wait a moment and refresh.
+> The backend takes ~5 seconds on first start (CSV load + PDF index). Wait a moment and try again.
 
 **Policy answers are empty**
-> The `POLICY_DIR` path may not be mounted. Check `docker-compose.yml` volume paths and make sure your PDF folder exists at `D:\moei\resources\HR_Knowledge_Base`.
+> The `POLICY_DIR` path is not found. For local dev, place your PDF folder at `moei_assessment/resources/HR_Knowledge_Base` or set `POLICY_DIR` in `backend/.env`. For Docker, check the volume mount in `docker-compose.yml`.

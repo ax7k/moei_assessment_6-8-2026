@@ -20,8 +20,8 @@ from db import (
 from agent import create_graph
 from policy_retriever import _load_policy_index
 
-from copilotkit import CopilotKitSDK, LangGraphAgent
-from copilotkit.integrations.fastapi import add_fastapi_endpoint
+from copilotkit import LangGraphAGUIAgent
+from ag_ui_langgraph import add_langgraph_fastapi_endpoint
 
 
 # ── Lifespan ──────────────────────────────────────────────────────────────────
@@ -115,22 +115,18 @@ async def skills_heatmap():
 
 hr_graph = create_graph()
 
-sdk = CopilotKitSDK(
-    agents=[
-        LangGraphAgent(
-            name="hr_agent",
-            description=(
-                "MOEI HR management AI assistant. "
-                "Answers natural-language questions about the 260-employee workforce: "
-                "performance, training, leave, promotions, flight risks, and HR policies. "
-                "Works in both English and Arabic."
-            ),
-            graph=hr_graph,
-        )
-    ]
+hr_agent = LangGraphAGUIAgent(
+    name="hr_agent",
+    description=(
+        "MOEI HR management AI assistant. "
+        "Answers natural-language questions about the 260-employee workforce: "
+        "performance, training, leave, promotions, flight risks, and HR policies. "
+        "Works in both English and Arabic."
+    ),
+    graph=hr_graph,
 )
 
-add_fastapi_endpoint(app, sdk, "/copilotkit")
+add_langgraph_fastapi_endpoint(app, hr_agent, "/copilotkit")
 
 
 # ── Dev runner ────────────────────────────────────────────────────────────────
